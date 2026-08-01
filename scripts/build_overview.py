@@ -92,17 +92,62 @@ def build_overview() -> str:
     return "\n".join(lines)
 
 
-def main() -> None:
-    readme = ROOT / "README.md"
-    text = readme.read_text(encoding="utf-8")
-    replacement = f"{START}\n{build_overview()}\n{END}"
-    pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.DOTALL)
+def replace_block(path: Path, start: str, end: str, body: str) -> None:
+    text = path.read_text(encoding="utf-8")
+    replacement = f"{start}\n{body}\n{end}"
+    pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.DOTALL)
     updated, count = pattern.subn(replacement, text)
     if count != 1:
-        raise SystemExit("README overview markers are missing or duplicated")
-    readme.write_text(updated, encoding="utf-8")
+        raise SystemExit(f"generated markers are missing or duplicated: {path}")
+    path.write_text(updated, encoding="utf-8")
+
+
+def main() -> None:
+    papers = []
+    for path in ROOT.glob("papers/[0-9][0-9][0-9][0-9]/[0-9][0-9]/*.md"):
+        meta = parse_frontmatter(path)
+        if meta.get("arxiv_id"):
+            papers.append((meta.get("date", ""), meta, path))
+    papers.sort(key=lambda item: (item[0], item[1].get("arxiv_id", "")), reverse=True)
+
+    daily_files = sorted((ROOT / "daily").glob("????-??-??.md"), reverse=True)
+    monthly_files = sorted((ROOT / "monthly").glob("????-??.md"), reverse=True)
+
+    daily_body = "\n".join(f"- [{p.stem}]({p.name})" for p in daily_files) or "暂无每日记录。"
+    monthly_body = "\n".join(f"- [{p.stem}]({p.name})" for p in monthly_files) or "暂无月度归档。"
+
+    paper_lines = ["| 日期 | 主分类 | 论文 | arXiv |", "|---|---|---|---|"]
+    for date, meta, path in papers:
+        title = meta.get("title", meta["arxiv_id"])
+        arxiv_id = meta["arxiv_id"]
+        relative = path.relative_to(ROOT / "papers").as_posix()
+        paper_lines.append(
+            f"| {date} | {meta.get('primary_category', '—')} | [{title}]({relative}) | "
+            f"[{arxiv_id}](https://arxiv.org/abs/{arxiv_id}) |"
+        )
+    if not papers:
+        paper_lines.append("| — | — | 暂无论文 | — |")
+
+    replace_block(ROOT / "README.md", START, END, build_overview())
+    replace_block(
+        ROOT / "daily" / "README.md",
+        "<!-- BEGIN AUTO:DAILY -->",
+        "<!-- END AUTO:DAILY -->",
+        daily_body,
+    )
+    replace_block(
+        ROOT / "papers" / "README.md",
+        "<!-- BEGIN AUTO:PAPERS -->",
+        "<!-- END AUTO:PAPERS -->",
+        "\n".join(paper_lines),
+    )
+    replace_block(
+        ROOT / "monthly" / "README.md",
+        "<!-- BEGIN AUTO:MONTHLY -->",
+        "<!-- END AUTO:MONTHLY -->",
+        monthly_body,
+    )
 
 
 if __name__ == "__main__":
     main()
-
