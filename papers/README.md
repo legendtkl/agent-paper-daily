@@ -16,10 +16,13 @@
 | 2026-07-24 | [SS](../docs/categories.md#ss) | [GuardianAgentBench：生产框架上的 Agent 失效与运行时防护](2026/07/2607.20982.md) | [2607.20982](https://arxiv.org/abs/2607.20982) |
 | 2026-07-22 | [RP](../docs/categories.md#rp) | [AREX：验证驱动的递归自改进深度研究 Agent](2026/07/2607.21461.md) | [2607.21461](https://arxiv.org/abs/2607.21461) |
 | 2026-07-21 | [EA](../docs/categories.md#ea) | [ABot-World-0：单卡实时交互世界模型](2026/07/2607.19191.md) | [2607.19191](https://arxiv.org/abs/2607.19191) |
+| 2026-07-20 | [SS](../docs/categories.md#ss) | [Adaptive Adversaries：多轮自适应 Agent 安全评测](2026/07/2607.18063.md) | [2607.18063](https://arxiv.org/abs/2607.18063) |
 | 2026-07-18 | [SE](../docs/categories.md#se) | [DataFlow-Harness：可编辑数据流水线 Code Agent](2026/07/2607.16617.md) | [2607.16617](https://arxiv.org/abs/2607.16617) |
 | 2026-07-16 | [AT](../docs/categories.md#at) | [SEED：自演化 On-Policy Distillation](2026/07/2607.14777.md) | [2607.14777](https://arxiv.org/abs/2607.14777) |
 | 2026-07-14 | [AF](../docs/categories.md#af) | [Harness Handbook：让 Agent Harness 可读、可导航、可修改](2026/07/2607.13285.md) | [2607.13285](https://arxiv.org/abs/2607.13285) |
 | 2026-07-14 | [SE](../docs/categories.md#se) | [函数感知 FIM：训练 Coding Agent 基座](2026/07/2607.12463.md) | [2607.12463](https://arxiv.org/abs/2607.12463) |
+| 2026-07-10 | [EV](../docs/categories.md#ev) | [DynamicMCPBench：实时 MCP 服务上的效果评分](2026/07/2607.20531.md) | [2607.20531](https://arxiv.org/abs/2607.20531) |
 | 2026-07-09 | [EV](../docs/categories.md#ev) | [Long-Horizon-Terminal-Bench：长时域终端 Agent 评测](2026/07/2607.08964.md) | [2607.08964](https://arxiv.org/abs/2607.08964) |
+| 2026-07-08 | [EV](../docs/categories.md#ev) | [DeepSWE：用原创长程任务评测 Coding Agent](2026/07/2607.07946.md) | [2607.07946](https://arxiv.org/abs/2607.07946) |
 | 2026-07-08 | [RA](../docs/categories.md#ra) | [DeepSearch-World：可验证环境中的深度搜索 Agent 自蒸馏](2026/07/2607.07820.md) | [2607.07820](https://arxiv.org/abs/2607.07820) |
 <!-- END AUTO:PAPERS -->
