@@ -45,6 +45,11 @@ def build_overview() -> str:
     monthly_files = sorted(
         (p for p in (ROOT / "monthly").glob("????-??.md")), reverse=True
     )
+    monthly_paper_ids: set[str] = set()
+    for path in monthly_files:
+        monthly_paper_ids.update(
+            re.findall(r"\b\d{4}\.\d{5}\b", path.read_text(encoding="utf-8"))
+        )
 
     categories: dict[str, int] = {}
     for _, meta, _ in paper_rows:
@@ -52,7 +57,8 @@ def build_overview() -> str:
         categories[category] = categories.get(category, 0) + 1
 
     lines = [
-        f"- 已收录论文：**{len(paper_rows)}** 篇",
+        f"- 已完成独立调研：**{len(paper_rows)}** 篇",
+        f"- 月报覆盖论文：**{len(monthly_paper_ids)}** 篇",
         f"- 每日记录：**{len(daily_files)}** 期",
         f"- 月度归档：**{len(monthly_files)}** 期",
     ]
