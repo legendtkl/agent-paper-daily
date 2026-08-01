@@ -48,7 +48,7 @@
 daily/YYYY-MM-DD.md          每日入选与候选观察
 papers/YYYY/MM/ARXIV_ID.md   单篇独立调研
 monthly/YYYY-MM.md           月度汇总
+assets/papers/ARXIV_ID/      原文关键截图
 templates/                   Markdown 模板
 scripts/build_overview.py    重建本页概览
 ```
-
