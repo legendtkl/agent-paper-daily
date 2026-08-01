@@ -5,7 +5,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
-| 2026-08-01 | EV | [OSReward：跨平台 Computer-Use 奖励模型评测](2026/08/2607.28609.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
-| 2026-08-01 | EV | [PAIChecker：检查 SWE-Bench 的问题—PR 对齐](2026/08/2607.28587.md) | [2607.28587](https://arxiv.org/abs/2607.28587) |
-| 2026-08-01 | MA | [MANTA：让多 Agent 通信拓扑在执行中自适应](2026/08/2607.28527.md) | [2607.28527](https://arxiv.org/abs/2607.28527) |
+| 2026-08-01 | [EV](../docs/categories.md#ev) | [OSReward：跨平台 Computer-Use 奖励模型评测](2026/08/2607.28609.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
+| 2026-08-01 | [EV](../docs/categories.md#ev) | [PAIChecker：检查 SWE-Bench 的问题—PR 对齐](2026/08/2607.28587.md) | [2607.28587](https://arxiv.org/abs/2607.28587) |
+| 2026-08-01 | [MA](../docs/categories.md#ma) | [MANTA：让多 Agent 通信拓扑在执行中自适应](2026/08/2607.28527.md) | [2607.28527](https://arxiv.org/abs/2607.28527) |
 <!-- END AUTO:PAPERS -->

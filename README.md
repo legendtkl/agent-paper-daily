@@ -7,6 +7,7 @@
 - [每日更新](daily/README.md)
 - [论文调研](papers/README.md)
 - [月度归档](monthly/README.md)
+- [分类说明](docs/categories.md)
 - [内容模板](templates)
 
 ## 更新原则
@@ -23,7 +24,7 @@
 - 已收录论文：**3** 篇
 - 每日记录：**1** 期
 - 月度归档：**0** 期
-- 主分类分布：EV 2、MA 1
+- 主分类分布：[EV](docs/categories.md#ev) 2、[MA](docs/categories.md#ma) 1
 
 ### 最近每日更新
 
@@ -33,9 +34,9 @@
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
-| 2026-08-01 | EV | [OSReward：跨平台 Computer-Use 奖励模型评测](papers/2026/08/2607.28609.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
-| 2026-08-01 | EV | [PAIChecker：检查 SWE-Bench 的问题—PR 对齐](papers/2026/08/2607.28587.md) | [2607.28587](https://arxiv.org/abs/2607.28587) |
-| 2026-08-01 | MA | [MANTA：让多 Agent 通信拓扑在执行中自适应](papers/2026/08/2607.28527.md) | [2607.28527](https://arxiv.org/abs/2607.28527) |
+| 2026-08-01 | [EV](docs/categories.md#ev) | [OSReward：跨平台 Computer-Use 奖励模型评测](papers/2026/08/2607.28609.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
+| 2026-08-01 | [EV](docs/categories.md#ev) | [PAIChecker：检查 SWE-Bench 的问题—PR 对齐](papers/2026/08/2607.28587.md) | [2607.28587](https://arxiv.org/abs/2607.28587) |
+| 2026-08-01 | [MA](docs/categories.md#ma) | [MANTA：让多 Agent 通信拓扑在执行中自适应](papers/2026/08/2607.28527.md) | [2607.28527](https://arxiv.org/abs/2607.28527) |
 
 ### 月度归档
 

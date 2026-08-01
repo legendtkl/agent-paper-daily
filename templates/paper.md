@@ -11,6 +11,8 @@ status: "selected"
 
 # 中文短标题
 
+> 主分类：[`AF`](https://github.com/legendtkl/agent-paper-daily/blob/main/docs/categories.md#af)；辅助分类：无
+
 ## 元数据
 
 - 英文标题：
@@ -46,4 +48,3 @@ status: "selected"
 ## 调研判断
 
 ## 来源
-

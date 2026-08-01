@@ -57,7 +57,10 @@ def build_overview() -> str:
         f"- 月度归档：**{len(monthly_files)}** 期",
     ]
     if categories:
-        dist = "、".join(f"{key} {value}" for key, value in sorted(categories.items()))
+        dist = "、".join(
+            f"[{key}](docs/categories.md#{key.lower()}) {value}"
+            for key, value in sorted(categories.items())
+        )
         lines.append(f"- 主分类分布：{dist}")
 
     lines.extend(["", "### 最近每日更新", ""])
@@ -75,7 +78,7 @@ def build_overview() -> str:
             category = meta.get("primary_category", "—")
             arxiv_id = meta["arxiv_id"]
             lines.append(
-                f"| {date} | {category} | [{title}]({relative_link(path)}) | "
+                f"| {date} | [{category}](docs/categories.md#{category.lower()}) | [{title}]({relative_link(path)}) | "
                 f"[{arxiv_id}](https://arxiv.org/abs/{arxiv_id}) |"
             )
     else:
@@ -121,8 +124,14 @@ def main() -> None:
         title = meta.get("title", meta["arxiv_id"])
         arxiv_id = meta["arxiv_id"]
         relative = path.relative_to(ROOT / "papers").as_posix()
+        category = meta.get("primary_category", "—")
+        category_cell = (
+            f"[{category}](../docs/categories.md#{category.lower()})"
+            if category != "—"
+            else category
+        )
         paper_lines.append(
-            f"| {date} | {meta.get('primary_category', '—')} | [{title}]({relative}) | "
+            f"| {date} | {category_cell} | [{title}]({relative}) | "
             f"[{arxiv_id}](https://arxiv.org/abs/{arxiv_id}) |"
         )
     if not papers:
