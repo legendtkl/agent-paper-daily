@@ -101,6 +101,78 @@ def build_overview() -> str:
     return "\n".join(lines)
 
 
+def build_overview_en() -> str:
+    paper_rows = []
+    for path in ROOT.glob("papers/[0-9][0-9][0-9][0-9]/[0-9][0-9]/*.md"):
+        meta = parse_frontmatter(path)
+        if not meta.get("arxiv_id"):
+            continue
+        paper_rows.append((meta.get("date", ""), meta, path))
+    paper_rows.sort(key=lambda item: (item[0], item[1].get("arxiv_id", "")), reverse=True)
+
+    daily_files = sorted(
+        (p for p in (ROOT / "daily").glob("????-??-??.md")), reverse=True
+    )
+    monthly_files = sorted(
+        (p for p in (ROOT / "monthly").glob("????-??.md")), reverse=True
+    )
+    monthly_paper_ids: set[str] = set()
+    for path in monthly_files:
+        monthly_paper_ids.update(
+            re.findall(r"\b\d{4}\.\d{5}\b", path.read_text(encoding="utf-8"))
+        )
+
+    categories: dict[str, int] = {}
+    for _, meta, _ in paper_rows:
+        category = meta.get("primary_category", "Uncategorized")
+        categories[category] = categories.get(category, 0) + 1
+
+    lines = [
+        f"- Independent research notes: **{len(paper_rows)}**",
+        f"- Papers covered by monthly reports: **{len(monthly_paper_ids)}**",
+        f"- Daily updates: **{len(daily_files)}**",
+        f"- Monthly reports: **{len(monthly_files)}**",
+    ]
+    if categories:
+        dist = ", ".join(
+            f"[{key}](docs/categories.en.md#{key.lower()}) {value}"
+            for key, value in sorted(categories.items())
+        )
+        lines.append(f"- Primary-category distribution: {dist}")
+
+    lines.extend(["", "### Recent daily updates", ""])
+    lines.extend(
+        f"- [{path.stem}](daily/{path.stem}.en.md)" for path in daily_files[:10]
+    )
+
+    lines.extend(
+        [
+            "",
+            "### Recent paper research",
+            "",
+            "| Date | Primary | Paper | arXiv |",
+            "|---|---|---|---|",
+        ]
+    )
+    for date, meta, path in paper_rows[:20]:
+        title = meta.get("original_title", meta.get("title", meta["arxiv_id"]))
+        category = meta.get("primary_category", "—")
+        arxiv_id = meta["arxiv_id"]
+        english_path = path.with_suffix(".en.md")
+        lines.append(
+            f"| {date} | [{category}](docs/categories.en.md#{category.lower()}) | "
+            f"[{title}]({relative_link(english_path)}) | "
+            f"[{arxiv_id}](https://arxiv.org/abs/{arxiv_id}) |"
+        )
+
+    lines.extend(["", "### Monthly reports", ""])
+    lines.extend(
+        f"- [{path.stem}](monthly/{path.stem}.en.md)" for path in monthly_files[:12]
+    )
+
+    return "\n".join(lines)
+
+
 def replace_block(path: Path, start: str, end: str, body: str) -> None:
     text = path.read_text(encoding="utf-8")
     replacement = f"{start}\n{body}\n{end}"
@@ -124,6 +196,12 @@ def main() -> None:
 
     daily_body = "\n".join(f"- [{p.stem}]({p.name})" for p in daily_files) or "暂无每日记录。"
     monthly_body = "\n".join(f"- [{p.stem}]({p.name})" for p in monthly_files) or "暂无月度归档。"
+    daily_body_en = "\n".join(
+        f"- [{p.stem}]({p.stem}.en.md)" for p in daily_files
+    ) or "No daily updates yet."
+    monthly_body_en = "\n".join(
+        f"- [{p.stem}]({p.stem}.en.md)" for p in monthly_files
+    ) or "No monthly reports yet."
 
     paper_lines = ["| 日期 | 主分类 | 论文 | arXiv |", "|---|---|---|---|"]
     for date, meta, path in papers:
@@ -143,7 +221,26 @@ def main() -> None:
     if not papers:
         paper_lines.append("| — | — | 暂无论文 | — |")
 
+    paper_lines_en = ["| Date | Primary | Paper | arXiv |", "|---|---|---|---|"]
+    for date, meta, path in papers:
+        title = meta.get("original_title", meta.get("title", meta["arxiv_id"]))
+        arxiv_id = meta["arxiv_id"]
+        relative = path.relative_to(ROOT / "papers").with_suffix(".en.md").as_posix()
+        category = meta.get("primary_category", "—")
+        category_cell = (
+            f"[{category}](../docs/categories.en.md#{category.lower()})"
+            if category != "—"
+            else category
+        )
+        paper_lines_en.append(
+            f"| {date} | {category_cell} | [{title}]({relative}) | "
+            f"[{arxiv_id}](https://arxiv.org/abs/{arxiv_id}) |"
+        )
+    if not papers:
+        paper_lines_en.append("| — | — | No papers yet | — |")
+
     replace_block(ROOT / "README.md", START, END, build_overview())
+    replace_block(ROOT / "README.en.md", START, END, build_overview_en())
     replace_block(
         ROOT / "daily" / "README.md",
         "<!-- BEGIN AUTO:DAILY -->",
@@ -161,6 +258,24 @@ def main() -> None:
         "<!-- BEGIN AUTO:MONTHLY -->",
         "<!-- END AUTO:MONTHLY -->",
         monthly_body,
+    )
+    replace_block(
+        ROOT / "daily" / "README.en.md",
+        "<!-- BEGIN AUTO:DAILY -->",
+        "<!-- END AUTO:DAILY -->",
+        daily_body_en,
+    )
+    replace_block(
+        ROOT / "papers" / "README.en.md",
+        "<!-- BEGIN AUTO:PAPERS -->",
+        "<!-- END AUTO:PAPERS -->",
+        "\n".join(paper_lines_en),
+    )
+    replace_block(
+        ROOT / "monthly" / "README.en.md",
+        "<!-- BEGIN AUTO:MONTHLY -->",
+        "<!-- END AUTO:MONTHLY -->",
+        monthly_body_en,
     )
 
 

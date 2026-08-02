@@ -19,6 +19,14 @@ REQUIRED_HEADINGS = (
     "## 证据与复现限制",
     "## 后续观察",
 )
+REQUIRED_HEADINGS_EN = (
+    "## Monthly theme",
+    "## Paper overview",
+    "## Trend analysis",
+    "## Community and open-source observations",
+    "## Evidence and reproducibility limits",
+    "## Follow-up",
+)
 
 
 def parse_args() -> argparse.Namespace:
@@ -53,6 +61,22 @@ def main() -> None:
         for heading in REQUIRED_HEADINGS:
             if heading not in text:
                 errors.append(f"{path.name}: missing heading {heading!r}")
+
+        english_path = path.with_suffix(".en.md")
+        if not english_path.exists():
+            errors.append(f"{path.name}: missing English companion {english_path.name}")
+        else:
+            english_text = english_path.read_text(encoding="utf-8")
+            english_ids = set(ARXIV_ID.findall(english_text))
+            if english_ids != set(ids):
+                errors.append(
+                    f"{english_path.name}: arXiv ID set differs from {path.name}"
+                )
+            for heading in REQUIRED_HEADINGS_EN:
+                if heading not in english_text:
+                    errors.append(
+                        f"{english_path.name}: missing heading {heading!r}"
+                    )
 
         for arxiv_id in ids:
             ownership[arxiv_id].append(path.name)

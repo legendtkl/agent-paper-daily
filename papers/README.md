@@ -1,5 +1,7 @@
 # 论文调研
 
+中文 | [English](README.en.md)
+
 单篇调研按 `papers/YYYY/MM/ARXIV_ID.md` 保存。每篇包含元数据、结论摘要、方法、实验、局限、复现、社区评价、调研判断和来源。
 
 <!-- BEGIN AUTO:PAPERS -->

@@ -1,5 +1,7 @@
 # Agent Paper Daily
 
+中文 | [English](README.en.md)
+
 面向 Agent 研究的每日论文精选与独立调研。内容以 Markdown 保存，不依赖外部文档结构；每篇论文保留可核验来源、社区评价和原文关键图表说明。
 
 ## 阅读入口
@@ -88,4 +90,5 @@ assets/papers/ARXIV_ID/      原文关键截图
 templates/                   Markdown 模板
 scripts/build_overview.py    重建本页概览
 scripts/validate_monthly.py  校验月报数量、结构与去重
+scripts/validate_bilingual.py 校验中英文镜像与稳定标识
 ```

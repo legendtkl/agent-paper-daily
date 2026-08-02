@@ -11,6 +11,8 @@ status: "selected"
 
 # 中文短标题
 
+语言：中文；英文镜像：`YYMM.NNNNN.en.md`
+
 > 主分类：[`AF`](https://github.com/legendtkl/agent-paper-daily/blob/main/docs/categories.md#af)；辅助分类：无
 
 ## 元数据
