@@ -22,14 +22,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**20** 篇
+- 已完成独立调研：**21** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**13** 期
+- 每日记录：**14** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 1、[AT](docs/categories.md#at) 3、[CU](docs/categories.md#cu) 1、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 5、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 2、[SS](docs/categories.md#ss) 2
+- 主分类分布：[AF](docs/categories.md#af) 1、[AT](docs/categories.md#at) 4、[CU](docs/categories.md#cu) 1、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 5、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 2、[SS](docs/categories.md#ss) 2
 
 ### 最近每日更新
 
+- [2026-08-02](daily/2026-08-02.md)
 - [2026-08-01](daily/2026-08-01.md)
 - [2026-07-30](daily/2026-07-30.md)
 - [2026-07-29](daily/2026-07-29.md)
@@ -39,12 +40,12 @@
 - [2026-07-20](daily/2026-07-20.md)
 - [2026-07-18](daily/2026-07-18.md)
 - [2026-07-16](daily/2026-07-16.md)
-- [2026-07-14](daily/2026-07-14.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-02 | [AT](docs/categories.md#at) | [Echoverse：让 Computer-Use 训练环境随模型共同演进](papers/2026/08/2607.28074.md) | [2607.28074](https://arxiv.org/abs/2607.28074) |
 | 2026-08-01 | [EV](docs/categories.md#ev) | [OSReward：跨平台 Computer-Use 奖励模型评测](papers/2026/08/2607.28609.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
 | 2026-08-01 | [EV](docs/categories.md#ev) | [PAIChecker：检查 SWE-Bench 的问题—PR 对齐](papers/2026/08/2607.28587.md) | [2607.28587](https://arxiv.org/abs/2607.28587) |
 | 2026-08-01 | [MA](docs/categories.md#ma) | [MANTA：让多 Agent 通信拓扑在执行中自适应](papers/2026/08/2607.28527.md) | [2607.28527](https://arxiv.org/abs/2607.28527) |
@@ -64,7 +65,6 @@
 | 2026-07-10 | [EV](docs/categories.md#ev) | [DynamicMCPBench：实时 MCP 服务上的效果评分](papers/2026/07/2607.20531.md) | [2607.20531](https://arxiv.org/abs/2607.20531) |
 | 2026-07-09 | [EV](docs/categories.md#ev) | [Long-Horizon-Terminal-Bench：长时域终端 Agent 评测](papers/2026/07/2607.08964.md) | [2607.08964](https://arxiv.org/abs/2607.08964) |
 | 2026-07-08 | [EV](docs/categories.md#ev) | [DeepSWE：用原创长程任务评测 Coding Agent](papers/2026/07/2607.07946.md) | [2607.07946](https://arxiv.org/abs/2607.07946) |
-| 2026-07-08 | [RA](docs/categories.md#ra) | [DeepSearch-World：可验证环境中的深度搜索 Agent 自蒸馏](papers/2026/07/2607.07820.md) | [2607.07820](https://arxiv.org/abs/2607.07820) |
 
 ### 月度归档
 
