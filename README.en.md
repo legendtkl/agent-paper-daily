@@ -26,12 +26,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 <!-- BEGIN AUTO:OVERVIEW -->
 - Independent research notes: **21**
 - Papers covered by monthly reports: **165**
-- Daily updates: **14**
+- Daily updates: **15**
 - Monthly reports: **7**
 - Primary-category distribution: [AF](docs/categories.en.md#af) 1, [AT](docs/categories.en.md#at) 4, [CU](docs/categories.en.md#cu) 1, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 5, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 1, [SE](docs/categories.en.md#se) 2, [SS](docs/categories.en.md#ss) 2
 
 ### Recent daily updates
 
+- [2026-08-03](daily/2026-08-03.en.md)
 - [2026-08-02](daily/2026-08-02.en.md)
 - [2026-08-01](daily/2026-08-01.en.md)
 - [2026-07-30](daily/2026-07-30.en.md)
@@ -41,7 +42,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-07-21](daily/2026-07-21.en.md)
 - [2026-07-20](daily/2026-07-20.en.md)
 - [2026-07-18](daily/2026-07-18.en.md)
-- [2026-07-16](daily/2026-07-16.en.md)
 
 ### Recent paper research
 
