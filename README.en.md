@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **21**
+- Independent research notes: **23**
 - Papers covered by monthly reports: **165**
-- Daily updates: **15**
+- Daily updates: **16**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 1, [AT](docs/categories.en.md#at) 4, [CU](docs/categories.en.md#cu) 1, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 5, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 1, [SE](docs/categories.en.md#se) 2, [SS](docs/categories.en.md#ss) 2
+- Primary-category distribution: [AF](docs/categories.en.md#af) 1, [AT](docs/categories.en.md#at) 4, [CU](docs/categories.en.md#cu) 1, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 6, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 1, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 2
 
 ### Recent daily updates
 
+- [2026-08-04](daily/2026-08-04.en.md)
 - [2026-08-03](daily/2026-08-03.en.md)
 - [2026-08-02](daily/2026-08-02.en.md)
 - [2026-08-01](daily/2026-08-01.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-07-22](daily/2026-07-22.en.md)
 - [2026-07-21](daily/2026-07-21.en.md)
 - [2026-07-20](daily/2026-07-20.en.md)
-- [2026-07-18](daily/2026-07-18.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-04 | [SE](docs/categories.en.md#se) | [Preventing Premature Commitment in Coding Agents with an Evidence-Conditioned Execution Layer](papers/2026/08/2607.28815.en.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
+| 2026-08-04 | [EV](docs/categories.en.md#ev) | [Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks](papers/2026/08/2607.28685.en.md) | [2607.28685](https://arxiv.org/abs/2607.28685) |
 | 2026-08-02 | [AT](docs/categories.en.md#at) | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](papers/2026/08/2607.28074.en.md) | [2607.28074](https://arxiv.org/abs/2607.28074) |
 | 2026-08-01 | [EV](docs/categories.en.md#ev) | [OSReward](papers/2026/08/2607.28609.en.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
 | 2026-08-01 | [EV](docs/categories.en.md#ev) | [PAIChecker](papers/2026/08/2607.28587.en.md) | [2607.28587](https://arxiv.org/abs/2607.28587) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-07-14 | [AF](docs/categories.en.md#af) | [Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable](papers/2026/07/2607.13285.en.md) | [2607.13285](https://arxiv.org/abs/2607.13285) |
 | 2026-07-14 | [SE](docs/categories.en.md#se) | [Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models](papers/2026/07/2607.12463.en.md) | [2607.12463](https://arxiv.org/abs/2607.12463) |
 | 2026-07-10 | [EV](docs/categories.en.md#ev) | [DynamicMCPBench: A Trace-Grounded, Effect-Scored Benchmark for LLM Agents over Live MCP Servers](papers/2026/07/2607.20531.en.md) | [2607.20531](https://arxiv.org/abs/2607.20531) |
-| 2026-07-09 | [EV](docs/categories.en.md#ev) | [Long-Horizon-Terminal-Bench](papers/2026/07/2607.08964.en.md) | [2607.08964](https://arxiv.org/abs/2607.08964) |
-| 2026-07-08 | [EV](docs/categories.en.md#ev) | [DeepSWE: Measuring Frontier Coding Agents on Original, Long-Horizon Engineering Tasks](papers/2026/07/2607.07946.en.md) | [2607.07946](https://arxiv.org/abs/2607.07946) |
 
 ### Monthly reports
 
