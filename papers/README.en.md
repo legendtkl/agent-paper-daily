@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-05 | [AF](../docs/categories.en.md#af) | [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](2026/08/2608.01964.en.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
 | 2026-08-04 | [SE](../docs/categories.en.md#se) | [Preventing Premature Commitment in Coding Agents with an Evidence-Conditioned Execution Layer](2026/08/2607.28815.en.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
 | 2026-08-04 | [EV](../docs/categories.en.md#ev) | [Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks](2026/08/2607.28685.en.md) | [2607.28685](https://arxiv.org/abs/2607.28685) |
 | 2026-08-02 | [AT](../docs/categories.en.md#at) | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](2026/08/2607.28074.en.md) | [2607.28074](https://arxiv.org/abs/2607.28074) |

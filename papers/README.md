@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-05 | [AF](../docs/categories.md#af) | [把长期 Agent 变成可审计状态机](2026/08/2608.01964.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
 | 2026-08-04 | [SE](../docs/categories.md#se) | [先取证再改代码：ECLoop 延迟 Coding Agent 过早提交](2026/08/2607.28815.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
 | 2026-08-04 | [EV](../docs/categories.md#ev) | [Agent 安全分数到底测了什么](2026/08/2607.28685.md) | [2607.28685](https://arxiv.org/abs/2607.28685) |
 | 2026-08-02 | [AT](../docs/categories.md#at) | [Echoverse：让 Computer-Use 训练环境随模型共同演进](2026/08/2607.28074.md) | [2607.28074](https://arxiv.org/abs/2607.28074) |
