@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**24** 篇
+- 已完成独立调研：**26** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**17** 期
+- 每日记录：**18** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 4、[CU](docs/categories.md#cu) 1、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 6、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 4、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 7、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
 
 ### 最近每日更新
 
+- [2026-08-06](daily/2026-08-06.md)
 - [2026-08-05](daily/2026-08-05.md)
 - [2026-08-04](daily/2026-08-04.md)
 - [2026-08-03](daily/2026-08-03.md)
@@ -41,12 +42,13 @@
 - [2026-07-29](daily/2026-07-29.md)
 - [2026-07-24](daily/2026-07-24.md)
 - [2026-07-22](daily/2026-07-22.md)
-- [2026-07-21](daily/2026-07-21.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-06 | [EV](docs/categories.md#ev) | [持久化经验是否真的让 Agent 进步](papers/2026/08/2608.04003.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
+| 2026-08-06 | [CU](docs/categories.md#cu) | [工具可用，不等于 Agent 会用](papers/2026/08/2608.03327.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
 | 2026-08-05 | [AF](docs/categories.md#af) | [把长期 Agent 变成可审计状态机](papers/2026/08/2608.01964.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
 | 2026-08-04 | [SE](docs/categories.md#se) | [先取证再改代码：ECLoop 延迟 Coding Agent 过早提交](papers/2026/08/2607.28815.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
 | 2026-08-04 | [EV](docs/categories.md#ev) | [Agent 安全分数到底测了什么](papers/2026/08/2607.28685.md) | [2607.28685](https://arxiv.org/abs/2607.28685) |
@@ -65,8 +67,6 @@
 | 2026-07-20 | [SS](docs/categories.md#ss) | [Adaptive Adversaries：多轮自适应 Agent 安全评测](papers/2026/07/2607.18063.md) | [2607.18063](https://arxiv.org/abs/2607.18063) |
 | 2026-07-18 | [SE](docs/categories.md#se) | [DataFlow-Harness：可编辑数据流水线 Code Agent](papers/2026/07/2607.16617.md) | [2607.16617](https://arxiv.org/abs/2607.16617) |
 | 2026-07-16 | [AT](docs/categories.md#at) | [SEED：自演化 On-Policy Distillation](papers/2026/07/2607.14777.md) | [2607.14777](https://arxiv.org/abs/2607.14777) |
-| 2026-07-14 | [AF](docs/categories.md#af) | [Harness Handbook：让 Agent Harness 可读、可导航、可修改](papers/2026/07/2607.13285.md) | [2607.13285](https://arxiv.org/abs/2607.13285) |
-| 2026-07-14 | [SE](docs/categories.md#se) | [函数感知 FIM：训练 Coding Agent 基座](papers/2026/07/2607.12463.md) | [2607.12463](https://arxiv.org/abs/2607.12463) |
 
 ### 月度归档
 

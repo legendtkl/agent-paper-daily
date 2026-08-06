@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-06 | [EV](../docs/categories.md#ev) | [持久化经验是否真的让 Agent 进步](2026/08/2608.04003.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
+| 2026-08-06 | [CU](../docs/categories.md#cu) | [工具可用，不等于 Agent 会用](2026/08/2608.03327.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
 | 2026-08-05 | [AF](../docs/categories.md#af) | [把长期 Agent 变成可审计状态机](2026/08/2608.01964.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
 | 2026-08-04 | [SE](../docs/categories.md#se) | [先取证再改代码：ECLoop 延迟 Coding Agent 过早提交](2026/08/2607.28815.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
 | 2026-08-04 | [EV](../docs/categories.md#ev) | [Agent 安全分数到底测了什么](2026/08/2607.28685.md) | [2607.28685](https://arxiv.org/abs/2607.28685) |
