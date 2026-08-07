@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**26** 篇
+- 已完成独立调研：**27** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**18** 期
+- 每日记录：**19** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 4、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 7、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 4、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 8、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
 
 ### 最近每日更新
 
+- [2026-08-07](daily/2026-08-07.md)
 - [2026-08-06](daily/2026-08-06.md)
 - [2026-08-05](daily/2026-08-05.md)
 - [2026-08-04](daily/2026-08-04.md)
@@ -41,12 +42,12 @@
 - [2026-07-30](daily/2026-07-30.md)
 - [2026-07-29](daily/2026-07-29.md)
 - [2026-07-24](daily/2026-07-24.md)
-- [2026-07-22](daily/2026-07-22.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-07 | [EV](docs/categories.md#ev) | [没有 Issue 报告，Coding Agent 还能主动修 Bug 吗](papers/2026/08/2608.04682.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](docs/categories.md#ev) | [持久化经验是否真的让 Agent 进步](papers/2026/08/2608.04003.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
 | 2026-08-06 | [CU](docs/categories.md#cu) | [工具可用，不等于 Agent 会用](papers/2026/08/2608.03327.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
 | 2026-08-05 | [AF](docs/categories.md#af) | [把长期 Agent 变成可审计状态机](papers/2026/08/2608.01964.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
@@ -66,7 +67,6 @@
 | 2026-07-21 | [EA](docs/categories.md#ea) | [ABot-World-0：单卡实时交互世界模型](papers/2026/07/2607.19191.md) | [2607.19191](https://arxiv.org/abs/2607.19191) |
 | 2026-07-20 | [SS](docs/categories.md#ss) | [Adaptive Adversaries：多轮自适应 Agent 安全评测](papers/2026/07/2607.18063.md) | [2607.18063](https://arxiv.org/abs/2607.18063) |
 | 2026-07-18 | [SE](docs/categories.md#se) | [DataFlow-Harness：可编辑数据流水线 Code Agent](papers/2026/07/2607.16617.md) | [2607.16617](https://arxiv.org/abs/2607.16617) |
-| 2026-07-16 | [AT](docs/categories.md#at) | [SEED：自演化 On-Policy Distillation](papers/2026/07/2607.14777.md) | [2607.14777](https://arxiv.org/abs/2607.14777) |
 
 ### 月度归档
 

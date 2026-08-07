@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-07 | [EV](../docs/categories.en.md#ev) | [Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports](2026/08/2608.04682.en.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](../docs/categories.en.md#ev) | [PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](2026/08/2608.04003.en.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
 | 2026-08-06 | [CU](../docs/categories.en.md#cu) | [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](2026/08/2608.03327.en.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
 | 2026-08-05 | [AF](../docs/categories.en.md#af) | [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](2026/08/2608.01964.en.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |

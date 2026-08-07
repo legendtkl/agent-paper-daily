@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **26**
+- Independent research notes: **27**
 - Papers covered by monthly reports: **165**
-- Daily updates: **18**
+- Daily updates: **19**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 4, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 7, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 1, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 2
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 4, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 8, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 1, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 2
 
 ### Recent daily updates
 
+- [2026-08-07](daily/2026-08-07.en.md)
 - [2026-08-06](daily/2026-08-06.en.md)
 - [2026-08-05](daily/2026-08-05.en.md)
 - [2026-08-04](daily/2026-08-04.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-07-30](daily/2026-07-30.en.md)
 - [2026-07-29](daily/2026-07-29.en.md)
 - [2026-07-24](daily/2026-07-24.en.md)
-- [2026-07-22](daily/2026-07-22.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-07 | [EV](docs/categories.en.md#ev) | [Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports](papers/2026/08/2608.04682.en.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](docs/categories.en.md#ev) | [PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](papers/2026/08/2608.04003.en.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
 | 2026-08-06 | [CU](docs/categories.en.md#cu) | [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](papers/2026/08/2608.03327.en.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
 | 2026-08-05 | [AF](docs/categories.en.md#af) | [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](papers/2026/08/2608.01964.en.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-07-21 | [EA](docs/categories.en.md#ea) | [ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](papers/2026/07/2607.19191.en.md) | [2607.19191](https://arxiv.org/abs/2607.19191) |
 | 2026-07-20 | [SS](docs/categories.en.md#ss) | [Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security](papers/2026/07/2607.18063.en.md) | [2607.18063](https://arxiv.org/abs/2607.18063) |
 | 2026-07-18 | [SE](docs/categories.en.md#se) | [DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines](papers/2026/07/2607.16617.en.md) | [2607.16617](https://arxiv.org/abs/2607.16617) |
-| 2026-07-16 | [AT](docs/categories.en.md#at) | [SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning](papers/2026/07/2607.14777.en.md) | [2607.14777](https://arxiv.org/abs/2607.14777) |
 
 ### Monthly reports
 

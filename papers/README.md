@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-07 | [EV](../docs/categories.md#ev) | [没有 Issue 报告，Coding Agent 还能主动修 Bug 吗](2026/08/2608.04682.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](../docs/categories.md#ev) | [持久化经验是否真的让 Agent 进步](2026/08/2608.04003.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
 | 2026-08-06 | [CU](../docs/categories.md#cu) | [工具可用，不等于 Agent 会用](2026/08/2608.03327.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
 | 2026-08-05 | [AF](../docs/categories.md#af) | [把长期 Agent 变成可审计状态机](2026/08/2608.01964.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
