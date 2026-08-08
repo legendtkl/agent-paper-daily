@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**27** 篇
+- 已完成独立调研：**29** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**19** 期
+- 每日记录：**20** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 4、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 8、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 4、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 10、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
 
 ### 最近每日更新
 
+- [2026-08-08](daily/2026-08-08.md)
 - [2026-08-07](daily/2026-08-07.md)
 - [2026-08-06](daily/2026-08-06.md)
 - [2026-08-05](daily/2026-08-05.md)
@@ -41,12 +42,13 @@
 - [2026-08-01](daily/2026-08-01.md)
 - [2026-07-30](daily/2026-07-30.md)
 - [2026-07-29](daily/2026-07-29.md)
-- [2026-07-24](daily/2026-07-24.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-08 | [EV](docs/categories.md#ev) | [让 Agent 自动改进 Agent：Harness 优化如何评测](papers/2026/08/2608.06301.md) | [2608.06301](https://arxiv.org/abs/2608.06301) |
+| 2026-08-08 | [EV](docs/categories.md#ev) | [视觉工具调用真的看了返回证据吗](papers/2026/08/2608.06270.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |
 | 2026-08-07 | [EV](docs/categories.md#ev) | [没有 Issue 报告，Coding Agent 还能主动修 Bug 吗](papers/2026/08/2608.04682.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](docs/categories.md#ev) | [持久化经验是否真的让 Agent 进步](papers/2026/08/2608.04003.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
 | 2026-08-06 | [CU](docs/categories.md#cu) | [工具可用，不等于 Agent 会用](papers/2026/08/2608.03327.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
@@ -65,8 +67,6 @@
 | 2026-07-24 | [SS](docs/categories.md#ss) | [GuardianAgentBench：生产框架上的 Agent 失效与运行时防护](papers/2026/07/2607.20982.md) | [2607.20982](https://arxiv.org/abs/2607.20982) |
 | 2026-07-22 | [RP](docs/categories.md#rp) | [AREX：验证驱动的递归自改进深度研究 Agent](papers/2026/07/2607.21461.md) | [2607.21461](https://arxiv.org/abs/2607.21461) |
 | 2026-07-21 | [EA](docs/categories.md#ea) | [ABot-World-0：单卡实时交互世界模型](papers/2026/07/2607.19191.md) | [2607.19191](https://arxiv.org/abs/2607.19191) |
-| 2026-07-20 | [SS](docs/categories.md#ss) | [Adaptive Adversaries：多轮自适应 Agent 安全评测](papers/2026/07/2607.18063.md) | [2607.18063](https://arxiv.org/abs/2607.18063) |
-| 2026-07-18 | [SE](docs/categories.md#se) | [DataFlow-Harness：可编辑数据流水线 Code Agent](papers/2026/07/2607.16617.md) | [2607.16617](https://arxiv.org/abs/2607.16617) |
 
 ### 月度归档
 

@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-08 | [EV](../docs/categories.en.md#ev) | [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization](2026/08/2608.06301.en.md) | [2608.06301](https://arxiv.org/abs/2608.06301) |
+| 2026-08-08 | [EV](../docs/categories.en.md#ev) | [The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](2026/08/2608.06270.en.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |
 | 2026-08-07 | [EV](../docs/categories.en.md#ev) | [Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports](2026/08/2608.04682.en.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](../docs/categories.en.md#ev) | [PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](2026/08/2608.04003.en.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
 | 2026-08-06 | [CU](../docs/categories.en.md#cu) | [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](2026/08/2608.03327.en.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
