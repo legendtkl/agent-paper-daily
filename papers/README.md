@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-09 | [AT](../docs/categories.md#at) | [不接真实环境，Agent 能否在内部排演中学会行动](2026/08/2608.06197.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
 | 2026-08-08 | [EV](../docs/categories.md#ev) | [让 Agent 自动改进 Agent：Harness 优化如何评测](2026/08/2608.06301.md) | [2608.06301](https://arxiv.org/abs/2608.06301) |
 | 2026-08-08 | [EV](../docs/categories.md#ev) | [视觉工具调用真的看了返回证据吗](2026/08/2608.06270.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |
 | 2026-08-07 | [EV](../docs/categories.md#ev) | [没有 Issue 报告，Coding Agent 还能主动修 Bug 吗](2026/08/2608.04682.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |

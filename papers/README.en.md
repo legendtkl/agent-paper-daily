@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-09 | [AT](../docs/categories.en.md#at) | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](2026/08/2608.06197.en.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
 | 2026-08-08 | [EV](../docs/categories.en.md#ev) | [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization](2026/08/2608.06301.en.md) | [2608.06301](https://arxiv.org/abs/2608.06301) |
 | 2026-08-08 | [EV](../docs/categories.en.md#ev) | [The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](2026/08/2608.06270.en.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |
 | 2026-08-07 | [EV](../docs/categories.en.md#ev) | [Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports](2026/08/2608.04682.en.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |

@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **29**
+- Independent research notes: **30**
 - Papers covered by monthly reports: **165**
-- Daily updates: **20**
+- Daily updates: **21**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 4, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 10, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 1, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 2
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 5, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 10, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 1, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 2
 
 ### Recent daily updates
 
+- [2026-08-09](daily/2026-08-09.en.md)
 - [2026-08-08](daily/2026-08-08.en.md)
 - [2026-08-07](daily/2026-08-07.en.md)
 - [2026-08-06](daily/2026-08-06.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-08-02](daily/2026-08-02.en.md)
 - [2026-08-01](daily/2026-08-01.en.md)
 - [2026-07-30](daily/2026-07-30.en.md)
-- [2026-07-29](daily/2026-07-29.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-09 | [AT](docs/categories.en.md#at) | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](papers/2026/08/2608.06197.en.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
 | 2026-08-08 | [EV](docs/categories.en.md#ev) | [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization](papers/2026/08/2608.06301.en.md) | [2608.06301](https://arxiv.org/abs/2608.06301) |
 | 2026-08-08 | [EV](docs/categories.en.md#ev) | [The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](papers/2026/08/2608.06270.en.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |
 | 2026-08-07 | [EV](docs/categories.en.md#ev) | [Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports](papers/2026/08/2608.04682.en.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-07-24 | [AT](docs/categories.en.md#at) | [OpenForgeRL](papers/2026/07/2607.21557.en.md) | [2607.21557](https://arxiv.org/abs/2607.21557) |
 | 2026-07-24 | [SS](docs/categories.en.md#ss) | [GuardianAgentBench: Where Agents Fail and How to Guard Them](papers/2026/07/2607.20982.en.md) | [2607.20982](https://arxiv.org/abs/2607.20982) |
 | 2026-07-22 | [RP](docs/categories.en.md#rp) | [AREX](papers/2026/07/2607.21461.en.md) | [2607.21461](https://arxiv.org/abs/2607.21461) |
-| 2026-07-21 | [EA](docs/categories.en.md#ea) | [ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU](papers/2026/07/2607.19191.en.md) | [2607.19191](https://arxiv.org/abs/2607.19191) |
 
 ### Monthly reports
 
