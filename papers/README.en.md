@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-11 | [RP](../docs/categories.en.md#rp) | [The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows](2026/08/2608.06714.en.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
+| 2026-08-11 | [EV](../docs/categories.en.md#ev) | [Recursive Synthesis for Long-Horizon Terminal Tasks](2026/08/2608.05466.en.md) | [2608.05466](https://arxiv.org/abs/2608.05466) |
 | 2026-08-09 | [AT](../docs/categories.en.md#at) | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](2026/08/2608.06197.en.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
 | 2026-08-08 | [EV](../docs/categories.en.md#ev) | [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization](2026/08/2608.06301.en.md) | [2608.06301](https://arxiv.org/abs/2608.06301) |
 | 2026-08-08 | [EV](../docs/categories.en.md#ev) | [The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](2026/08/2608.06270.en.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |

@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**30** 篇
+- 已完成独立调研：**32** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**21** 期
+- 每日记录：**22** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 5、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 10、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 1、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 5、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 11、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
 
 ### 最近每日更新
 
+- [2026-08-11](daily/2026-08-11.md)
 - [2026-08-09](daily/2026-08-09.md)
 - [2026-08-08](daily/2026-08-08.md)
 - [2026-08-07](daily/2026-08-07.md)
@@ -41,12 +42,13 @@
 - [2026-08-03](daily/2026-08-03.md)
 - [2026-08-02](daily/2026-08-02.md)
 - [2026-08-01](daily/2026-08-01.md)
-- [2026-07-30](daily/2026-07-30.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-11 | [RP](docs/categories.md#rp) | [让 Agent 接管优化搜索策略](papers/2026/08/2608.06714.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
+| 2026-08-11 | [EV](docs/categories.md#ev) | [递归合成可验证长程终端任务](papers/2026/08/2608.05466.md) | [2608.05466](https://arxiv.org/abs/2608.05466) |
 | 2026-08-09 | [AT](docs/categories.md#at) | [不接真实环境，Agent 能否在内部排演中学会行动](papers/2026/08/2608.06197.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
 | 2026-08-08 | [EV](docs/categories.md#ev) | [让 Agent 自动改进 Agent：Harness 优化如何评测](papers/2026/08/2608.06301.md) | [2608.06301](https://arxiv.org/abs/2608.06301) |
 | 2026-08-08 | [EV](docs/categories.md#ev) | [视觉工具调用真的看了返回证据吗](papers/2026/08/2608.06270.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |
@@ -65,8 +67,6 @@
 | 2026-07-30 | [CU](docs/categories.md#cu) | [Qwen-UI-Agent：面向真实设备的统一 GUI Agent](papers/2026/07/2607.28227.md) | [2607.28227](https://arxiv.org/abs/2607.28227) |
 | 2026-07-29 | [KM](docs/categories.md#km) | [Metis：原生记忆基础模型](papers/2026/07/2607.26760.md) | [2607.26760](https://arxiv.org/abs/2607.26760) |
 | 2026-07-24 | [AT](docs/categories.md#at) | [OpenForgeRL：在真实 Harness 中训练 Agent](papers/2026/07/2607.21557.md) | [2607.21557](https://arxiv.org/abs/2607.21557) |
-| 2026-07-24 | [SS](docs/categories.md#ss) | [GuardianAgentBench：生产框架上的 Agent 失效与运行时防护](papers/2026/07/2607.20982.md) | [2607.20982](https://arxiv.org/abs/2607.20982) |
-| 2026-07-22 | [RP](docs/categories.md#rp) | [AREX：验证驱动的递归自改进深度研究 Agent](papers/2026/07/2607.21461.md) | [2607.21461](https://arxiv.org/abs/2607.21461) |
 
 ### 月度归档
 
