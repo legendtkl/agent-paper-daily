@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-12 | [EV](../docs/categories.md#ev) | [跨文件重构正在暴露 Coding Agent 的能力上限](2026/08/2608.09802.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
+| 2026-08-12 | [EV](../docs/categories.md#ev) | [如何评测 Agent 自主改进自己的 Harness](2026/08/2608.09096.md) | [2608.09096](https://arxiv.org/abs/2608.09096) |
 | 2026-08-11 | [RP](../docs/categories.md#rp) | [让 Agent 接管优化搜索策略](2026/08/2608.06714.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
 | 2026-08-11 | [EV](../docs/categories.md#ev) | [递归合成可验证长程终端任务](2026/08/2608.05466.md) | [2608.05466](https://arxiv.org/abs/2608.05466) |
 | 2026-08-09 | [AT](../docs/categories.md#at) | [不接真实环境，Agent 能否在内部排演中学会行动](2026/08/2608.06197.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |

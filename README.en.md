@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **32**
+- Independent research notes: **34**
 - Papers covered by monthly reports: **165**
-- Daily updates: **22**
+- Daily updates: **23**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 5, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 11, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 2
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 5, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 13, [KM](docs/categories.en.md#km) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 2
 
 ### Recent daily updates
 
+- [2026-08-12](daily/2026-08-12.en.md)
 - [2026-08-11](daily/2026-08-11.en.md)
 - [2026-08-09](daily/2026-08-09.en.md)
 - [2026-08-08](daily/2026-08-08.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-08-04](daily/2026-08-04.en.md)
 - [2026-08-03](daily/2026-08-03.en.md)
 - [2026-08-02](daily/2026-08-02.en.md)
-- [2026-08-01](daily/2026-08-01.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-12 | [EV](docs/categories.en.md#ev) | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](papers/2026/08/2608.09802.en.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
+| 2026-08-12 | [EV](docs/categories.en.md#ev) | [Evo-Bench: Can Language Models Improve Agent Harness?](papers/2026/08/2608.09096.en.md) | [2608.09096](https://arxiv.org/abs/2608.09096) |
 | 2026-08-11 | [RP](docs/categories.en.md#rp) | [The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows](papers/2026/08/2608.06714.en.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
 | 2026-08-11 | [EV](docs/categories.en.md#ev) | [Recursive Synthesis for Long-Horizon Terminal Tasks](papers/2026/08/2608.05466.en.md) | [2608.05466](https://arxiv.org/abs/2608.05466) |
 | 2026-08-09 | [AT](docs/categories.en.md#at) | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](papers/2026/08/2608.06197.en.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-07-30 | [RA](docs/categories.en.md#ra) | [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](papers/2026/07/2607.28618.en.md) | [2607.28618](https://arxiv.org/abs/2607.28618) |
 | 2026-07-30 | [AT](docs/categories.en.md#at) | [Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering](papers/2026/07/2607.28568.en.md) | [2607.28568](https://arxiv.org/abs/2607.28568) |
 | 2026-07-30 | [CU](docs/categories.en.md#cu) | [Qwen-UI-Agent Technical Report](papers/2026/07/2607.28227.en.md) | [2607.28227](https://arxiv.org/abs/2607.28227) |
-| 2026-07-29 | [KM](docs/categories.en.md#km) | [Metis: Memory Foundation Model](papers/2026/07/2607.26760.en.md) | [2607.26760](https://arxiv.org/abs/2607.26760) |
-| 2026-07-24 | [AT](docs/categories.en.md#at) | [OpenForgeRL](papers/2026/07/2607.21557.en.md) | [2607.21557](https://arxiv.org/abs/2607.21557) |
 
 ### Monthly reports
 

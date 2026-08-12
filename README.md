@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**32** 篇
+- 已完成独立调研：**34** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**22** 期
+- 每日记录：**23** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 5、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 11、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 5、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 13、[KM](docs/categories.md#km) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
 
 ### 最近每日更新
 
+- [2026-08-12](daily/2026-08-12.md)
 - [2026-08-11](daily/2026-08-11.md)
 - [2026-08-09](daily/2026-08-09.md)
 - [2026-08-08](daily/2026-08-08.md)
@@ -41,12 +42,13 @@
 - [2026-08-04](daily/2026-08-04.md)
 - [2026-08-03](daily/2026-08-03.md)
 - [2026-08-02](daily/2026-08-02.md)
-- [2026-08-01](daily/2026-08-01.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-12 | [EV](docs/categories.md#ev) | [跨文件重构正在暴露 Coding Agent 的能力上限](papers/2026/08/2608.09802.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
+| 2026-08-12 | [EV](docs/categories.md#ev) | [如何评测 Agent 自主改进自己的 Harness](papers/2026/08/2608.09096.md) | [2608.09096](https://arxiv.org/abs/2608.09096) |
 | 2026-08-11 | [RP](docs/categories.md#rp) | [让 Agent 接管优化搜索策略](papers/2026/08/2608.06714.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
 | 2026-08-11 | [EV](docs/categories.md#ev) | [递归合成可验证长程终端任务](papers/2026/08/2608.05466.md) | [2608.05466](https://arxiv.org/abs/2608.05466) |
 | 2026-08-09 | [AT](docs/categories.md#at) | [不接真实环境，Agent 能否在内部排演中学会行动](papers/2026/08/2608.06197.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
@@ -65,8 +67,6 @@
 | 2026-07-30 | [RA](docs/categories.md#ra) | [AskChem：面向化学文献综合的主张级检索](papers/2026/07/2607.28618.md) | [2607.28618](https://arxiv.org/abs/2607.28618) |
 | 2026-07-30 | [AT](docs/categories.md#at) | [Frontis-MA1：面向 MLE 的 AI4AI 递归自改进](papers/2026/07/2607.28568.md) | [2607.28568](https://arxiv.org/abs/2607.28568) |
 | 2026-07-30 | [CU](docs/categories.md#cu) | [Qwen-UI-Agent：面向真实设备的统一 GUI Agent](papers/2026/07/2607.28227.md) | [2607.28227](https://arxiv.org/abs/2607.28227) |
-| 2026-07-29 | [KM](docs/categories.md#km) | [Metis：原生记忆基础模型](papers/2026/07/2607.26760.md) | [2607.26760](https://arxiv.org/abs/2607.26760) |
-| 2026-07-24 | [AT](docs/categories.md#at) | [OpenForgeRL：在真实 Harness 中训练 Agent](papers/2026/07/2607.21557.md) | [2607.21557](https://arxiv.org/abs/2607.21557) |
 
 ### 月度归档
 
