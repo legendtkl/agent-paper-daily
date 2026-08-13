@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-13 | [KM](../docs/categories.en.md#km) | [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](2026/08/2608.11095.en.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
+| 2026-08-13 | [EV](../docs/categories.en.md#ev) | [REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems](2026/08/2608.10669.en.md) | [2608.10669](https://arxiv.org/abs/2608.10669) |
 | 2026-08-12 | [EV](../docs/categories.en.md#ev) | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](2026/08/2608.09802.en.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
 | 2026-08-12 | [EV](../docs/categories.en.md#ev) | [Evo-Bench: Can Language Models Improve Agent Harness?](2026/08/2608.09096.en.md) | [2608.09096](https://arxiv.org/abs/2608.09096) |
 | 2026-08-11 | [RP](../docs/categories.en.md#rp) | [The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows](2026/08/2608.06714.en.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |

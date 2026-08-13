@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-13 | [KM](../docs/categories.md#km) | [Agent 指令为何只增不减](2026/08/2608.11095.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
+| 2026-08-13 | [EV](../docs/categories.md#ev) | [Agent 安全分数为何会随 Harness 改变](2026/08/2608.10669.md) | [2608.10669](https://arxiv.org/abs/2608.10669) |
 | 2026-08-12 | [EV](../docs/categories.md#ev) | [跨文件重构正在暴露 Coding Agent 的能力上限](2026/08/2608.09802.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
 | 2026-08-12 | [EV](../docs/categories.md#ev) | [如何评测 Agent 自主改进自己的 Harness](2026/08/2608.09096.md) | [2608.09096](https://arxiv.org/abs/2608.09096) |
 | 2026-08-11 | [RP](../docs/categories.md#rp) | [让 Agent 接管优化搜索策略](2026/08/2608.06714.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
