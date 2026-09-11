@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-16 | [LT](../docs/categories.md#lt) | [让 Agent 自动改进设计 Harness](2026/08/2608.13560.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
+| 2026-08-16 | [SS](../docs/categories.md#ss) | [一次危险成功如何变成持久技能](2026/08/2608.12851.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
 | 2026-08-13 | [KM](../docs/categories.md#km) | [Agent 指令为何只增不减](2026/08/2608.11095.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
 | 2026-08-13 | [EV](../docs/categories.md#ev) | [Agent 安全分数为何会随 Harness 改变](2026/08/2608.10669.md) | [2608.10669](https://arxiv.org/abs/2608.10669) |
 | 2026-08-12 | [EV](../docs/categories.md#ev) | [跨文件重构正在暴露 Coding Agent 的能力上限](2026/08/2608.09802.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |

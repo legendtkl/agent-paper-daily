@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**36** 篇
+- 已完成独立调研：**38** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**25** 期
+- 每日记录：**26** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 5、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 14、[KM](docs/categories.md#km) 2、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 2
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 5、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 14、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3
 
 ### 最近每日更新
 
+- [2026-08-16](daily/2026-08-16.md)
 - [2026-08-14](daily/2026-08-14.md)
 - [2026-08-13](daily/2026-08-13.md)
 - [2026-08-12](daily/2026-08-12.md)
@@ -41,12 +42,13 @@
 - [2026-08-07](daily/2026-08-07.md)
 - [2026-08-06](daily/2026-08-06.md)
 - [2026-08-05](daily/2026-08-05.md)
-- [2026-08-04](daily/2026-08-04.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-08-16 | [LT](docs/categories.md#lt) | [让 Agent 自动改进设计 Harness](papers/2026/08/2608.13560.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
+| 2026-08-16 | [SS](docs/categories.md#ss) | [一次危险成功如何变成持久技能](papers/2026/08/2608.12851.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
 | 2026-08-13 | [KM](docs/categories.md#km) | [Agent 指令为何只增不减](papers/2026/08/2608.11095.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
 | 2026-08-13 | [EV](docs/categories.md#ev) | [Agent 安全分数为何会随 Harness 改变](papers/2026/08/2608.10669.md) | [2608.10669](https://arxiv.org/abs/2608.10669) |
 | 2026-08-12 | [EV](docs/categories.md#ev) | [跨文件重构正在暴露 Coding Agent 的能力上限](papers/2026/08/2608.09802.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
@@ -65,8 +67,6 @@
 | 2026-08-02 | [AT](docs/categories.md#at) | [Echoverse：让 Computer-Use 训练环境随模型共同演进](papers/2026/08/2607.28074.md) | [2607.28074](https://arxiv.org/abs/2607.28074) |
 | 2026-08-01 | [EV](docs/categories.md#ev) | [OSReward：跨平台 Computer-Use 奖励模型评测](papers/2026/08/2607.28609.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
 | 2026-08-01 | [EV](docs/categories.md#ev) | [PAIChecker：检查 SWE-Bench 的问题—PR 对齐](papers/2026/08/2607.28587.md) | [2607.28587](https://arxiv.org/abs/2607.28587) |
-| 2026-08-01 | [MA](docs/categories.md#ma) | [MANTA：让多 Agent 通信拓扑在执行中自适应](papers/2026/08/2607.28527.md) | [2607.28527](https://arxiv.org/abs/2607.28527) |
-| 2026-07-30 | [RA](docs/categories.md#ra) | [AskChem：面向化学文献综合的主张级检索](papers/2026/07/2607.28618.md) | [2607.28618](https://arxiv.org/abs/2607.28618) |
 
 ### 月度归档
 

@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-08-16 | [LT](../docs/categories.en.md#lt) | [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](2026/08/2608.13560.en.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
+| 2026-08-16 | [SS](../docs/categories.en.md#ss) | [Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents](2026/08/2608.12851.en.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
 | 2026-08-13 | [KM](../docs/categories.en.md#km) | [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](2026/08/2608.11095.en.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
 | 2026-08-13 | [EV](../docs/categories.en.md#ev) | [REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems](2026/08/2608.10669.en.md) | [2608.10669](https://arxiv.org/abs/2608.10669) |
 | 2026-08-12 | [EV](../docs/categories.en.md#ev) | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](2026/08/2608.09802.en.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
