@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **38**
+- Independent research notes: **39**
 - Papers covered by monthly reports: **165**
-- Daily updates: **26**
+- Daily updates: **27**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 5, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 14, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 5, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 15, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 1, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3
 
 ### Recent daily updates
 
+- [2026-09-12](daily/2026-09-12.en.md)
 - [2026-08-16](daily/2026-08-16.en.md)
 - [2026-08-14](daily/2026-08-14.en.md)
 - [2026-08-13](daily/2026-08-13.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-08-08](daily/2026-08-08.en.md)
 - [2026-08-07](daily/2026-08-07.en.md)
 - [2026-08-06](daily/2026-08-06.en.md)
-- [2026-08-05](daily/2026-08-05.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-12 | [EV](docs/categories.en.md#ev) | [Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents](papers/2026/09/2609.11318.en.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
 | 2026-08-16 | [LT](docs/categories.en.md#lt) | [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](papers/2026/08/2608.13560.en.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
 | 2026-08-16 | [SS](docs/categories.en.md#ss) | [Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents](papers/2026/08/2608.12851.en.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
 | 2026-08-13 | [KM](docs/categories.en.md#km) | [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](papers/2026/08/2608.11095.en.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-08-04 | [EV](docs/categories.en.md#ev) | [Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks](papers/2026/08/2607.28685.en.md) | [2607.28685](https://arxiv.org/abs/2607.28685) |
 | 2026-08-02 | [AT](docs/categories.en.md#at) | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](papers/2026/08/2607.28074.en.md) | [2607.28074](https://arxiv.org/abs/2607.28074) |
 | 2026-08-01 | [EV](docs/categories.en.md#ev) | [OSReward](papers/2026/08/2607.28609.en.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
-| 2026-08-01 | [EV](docs/categories.en.md#ev) | [PAIChecker](papers/2026/08/2607.28587.en.md) | [2607.28587](https://arxiv.org/abs/2607.28587) |
 
 ### Monthly reports
 
