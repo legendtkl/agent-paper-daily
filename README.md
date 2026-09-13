@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**39** 篇
+- 已完成独立调研：**40** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**27** 期
+- 每日记录：**28** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 5、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 15、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 1、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 5、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 1、[EV](docs/categories.md#ev) 15、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 2、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3
 
 ### 最近每日更新
 
+- [2026-09-13](daily/2026-09-13.md)
 - [2026-09-12](daily/2026-09-12.md)
 - [2026-08-16](daily/2026-08-16.md)
 - [2026-08-14](daily/2026-08-14.md)
@@ -41,12 +42,12 @@
 - [2026-08-09](daily/2026-08-09.md)
 - [2026-08-08](daily/2026-08-08.md)
 - [2026-08-07](daily/2026-08-07.md)
-- [2026-08-06](daily/2026-08-06.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-13 | [LT](docs/categories.md#lt) | [上下文 Bandit 驱动的 Agent Skill 演化](papers/2026/09/2609.11682.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](docs/categories.md#ev) | [多模态长程深度研究 Agent 评测](papers/2026/09/2609.11318.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
 | 2026-08-16 | [LT](docs/categories.md#lt) | [让 Agent 自动改进设计 Harness](papers/2026/08/2608.13560.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
 | 2026-08-16 | [SS](docs/categories.md#ss) | [一次危险成功如何变成持久技能](papers/2026/08/2608.12851.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
@@ -66,7 +67,6 @@
 | 2026-08-04 | [SE](docs/categories.md#se) | [先取证再改代码：ECLoop 延迟 Coding Agent 过早提交](papers/2026/08/2607.28815.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
 | 2026-08-04 | [EV](docs/categories.md#ev) | [Agent 安全分数到底测了什么](papers/2026/08/2607.28685.md) | [2607.28685](https://arxiv.org/abs/2607.28685) |
 | 2026-08-02 | [AT](docs/categories.md#at) | [Echoverse：让 Computer-Use 训练环境随模型共同演进](papers/2026/08/2607.28074.md) | [2607.28074](https://arxiv.org/abs/2607.28074) |
-| 2026-08-01 | [EV](docs/categories.md#ev) | [OSReward：跨平台 Computer-Use 奖励模型评测](papers/2026/08/2607.28609.md) | [2607.28609](https://arxiv.org/abs/2607.28609) |
 
 ### 月度归档
 
