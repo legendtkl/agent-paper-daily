@@ -5,8 +5,10 @@ English | [中文](README.md)
 Each page records selected papers, watch-list candidates, capacity use, and evidence gaps for one run. Historical backfills are labeled explicitly.
 
 <!-- BEGIN AUTO:DAILY -->
+- [2026-09-14](2026-09-14.en.md)
 - [2026-09-13](2026-09-13.en.md)
 - [2026-09-12](2026-09-12.en.md)
+- [2026-09-11](2026-09-11.en.md)
 - [2026-08-16](2026-08-16.en.md)
 - [2026-08-14](2026-08-14.en.md)
 - [2026-08-13](2026-08-13.en.md)

@@ -24,31 +24,33 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **40**
+- Independent research notes: **42**
 - Papers covered by monthly reports: **165**
-- Daily updates: **28**
+- Daily updates: **30**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 5, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 1, [EV](docs/categories.en.md#ev) 15, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 6, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 15, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3
 
 ### Recent daily updates
 
+- [2026-09-14](daily/2026-09-14.en.md)
 - [2026-09-13](daily/2026-09-13.en.md)
 - [2026-09-12](daily/2026-09-12.en.md)
+- [2026-09-11](daily/2026-09-11.en.md)
 - [2026-08-16](daily/2026-08-16.en.md)
 - [2026-08-14](daily/2026-08-14.en.md)
 - [2026-08-13](daily/2026-08-13.en.md)
 - [2026-08-12](daily/2026-08-12.en.md)
 - [2026-08-11](daily/2026-08-11.en.md)
 - [2026-08-09](daily/2026-08-09.en.md)
-- [2026-08-08](daily/2026-08-08.en.md)
-- [2026-08-07](daily/2026-08-07.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-14 | [AT](docs/categories.en.md#at) | [T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](papers/2026/09/2609.11042.en.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
 | 2026-09-13 | [LT](docs/categories.en.md#lt) | [COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization](papers/2026/09/2609.11682.en.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](docs/categories.en.md#ev) | [Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents](papers/2026/09/2609.11318.en.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
+| 2026-09-11 | [EA](docs/categories.en.md#ea) | [Show-Harness: Just a VLM Agent Can Play Robots](papers/2026/09/2609.10522.en.md) | [2609.10522](https://arxiv.org/abs/2609.10522) |
 | 2026-08-16 | [LT](docs/categories.en.md#lt) | [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](papers/2026/08/2608.13560.en.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
 | 2026-08-16 | [SS](docs/categories.en.md#ss) | [Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents](papers/2026/08/2608.12851.en.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
 | 2026-08-13 | [KM](docs/categories.en.md#km) | [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](papers/2026/08/2608.11095.en.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-08-06 | [CU](docs/categories.en.md#cu) | [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](papers/2026/08/2608.03327.en.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
 | 2026-08-05 | [AF](docs/categories.en.md#af) | [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](papers/2026/08/2608.01964.en.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
 | 2026-08-04 | [SE](docs/categories.en.md#se) | [Preventing Premature Commitment in Coding Agents with an Evidence-Conditioned Execution Layer](papers/2026/08/2607.28815.en.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
-| 2026-08-04 | [EV](docs/categories.en.md#ev) | [Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks](papers/2026/08/2607.28685.en.md) | [2607.28685](https://arxiv.org/abs/2607.28685) |
-| 2026-08-02 | [AT](docs/categories.en.md#at) | [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](papers/2026/08/2607.28074.en.md) | [2607.28074](https://arxiv.org/abs/2607.28074) |
 
 ### Monthly reports
 

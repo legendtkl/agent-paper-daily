@@ -7,8 +7,10 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-14 | [AT](../docs/categories.md#at) | [长程终端 Agent 强化学习](2026/09/2609.11042.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
 | 2026-09-13 | [LT](../docs/categories.md#lt) | [上下文 Bandit 驱动的 Agent Skill 演化](2026/09/2609.11682.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](../docs/categories.md#ev) | [多模态长程深度研究 Agent 评测](2026/09/2609.11318.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
+| 2026-09-11 | [EA](../docs/categories.md#ea) | [用语义动作接口让 VLM 操作真实机器人](2026/09/2609.10522.md) | [2609.10522](https://arxiv.org/abs/2609.10522) |
 | 2026-08-16 | [LT](../docs/categories.md#lt) | [让 Agent 自动改进设计 Harness](2026/08/2608.13560.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
 | 2026-08-16 | [SS](../docs/categories.md#ss) | [一次危险成功如何变成持久技能](2026/08/2608.12851.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
 | 2026-08-13 | [KM](../docs/categories.md#km) | [Agent 指令为何只增不减](2026/08/2608.11095.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
