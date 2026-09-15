@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-15 | [EV](../docs/categories.md#ev) | [有限试错预算下评测 Agent 反思](2026/09/2609.12404.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
+| 2026-09-15 | [AT](../docs/categories.md#at) | [真实设备闭环训练移动 GUI Agent](2026/09/2609.12394.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
 | 2026-09-14 | [AT](../docs/categories.md#at) | [长程终端 Agent 强化学习](2026/09/2609.11042.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
 | 2026-09-13 | [LT](../docs/categories.md#lt) | [上下文 Bandit 驱动的 Agent Skill 演化](2026/09/2609.11682.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](../docs/categories.md#ev) | [多模态长程深度研究 Agent 评测](2026/09/2609.11318.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |

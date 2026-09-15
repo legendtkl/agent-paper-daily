@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**42** 篇
+- 已完成独立调研：**44** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**30** 期
+- 每日记录：**31** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 6、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 15、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 2、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 7、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 16、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 2、[MA](docs/categories.md#ma) 1、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3
 
 ### 最近每日更新
 
+- [2026-09-15](daily/2026-09-15.md)
 - [2026-09-14](daily/2026-09-14.md)
 - [2026-09-13](daily/2026-09-13.md)
 - [2026-09-12](daily/2026-09-12.md)
@@ -41,12 +42,13 @@
 - [2026-08-13](daily/2026-08-13.md)
 - [2026-08-12](daily/2026-08-12.md)
 - [2026-08-11](daily/2026-08-11.md)
-- [2026-08-09](daily/2026-08-09.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-15 | [EV](docs/categories.md#ev) | [有限试错预算下评测 Agent 反思](papers/2026/09/2609.12404.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
+| 2026-09-15 | [AT](docs/categories.md#at) | [真实设备闭环训练移动 GUI Agent](papers/2026/09/2609.12394.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
 | 2026-09-14 | [AT](docs/categories.md#at) | [长程终端 Agent 强化学习](papers/2026/09/2609.11042.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
 | 2026-09-13 | [LT](docs/categories.md#lt) | [上下文 Bandit 驱动的 Agent Skill 演化](papers/2026/09/2609.11682.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](docs/categories.md#ev) | [多模态长程深度研究 Agent 评测](papers/2026/09/2609.11318.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
@@ -65,8 +67,6 @@
 | 2026-08-07 | [EV](docs/categories.md#ev) | [没有 Issue 报告，Coding Agent 还能主动修 Bug 吗](papers/2026/08/2608.04682.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](docs/categories.md#ev) | [持久化经验是否真的让 Agent 进步](papers/2026/08/2608.04003.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
 | 2026-08-06 | [CU](docs/categories.md#cu) | [工具可用，不等于 Agent 会用](papers/2026/08/2608.03327.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
-| 2026-08-05 | [AF](docs/categories.md#af) | [把长期 Agent 变成可审计状态机](papers/2026/08/2608.01964.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
-| 2026-08-04 | [SE](docs/categories.md#se) | [先取证再改代码：ECLoop 延迟 Coding Agent 过早提交](papers/2026/08/2607.28815.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
 
 ### 月度归档
 

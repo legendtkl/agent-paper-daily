@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **42**
+- Independent research notes: **44**
 - Papers covered by monthly reports: **165**
-- Daily updates: **30**
+- Daily updates: **31**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 6, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 15, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 7, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 16, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3
 
 ### Recent daily updates
 
+- [2026-09-15](daily/2026-09-15.en.md)
 - [2026-09-14](daily/2026-09-14.en.md)
 - [2026-09-13](daily/2026-09-13.en.md)
 - [2026-09-12](daily/2026-09-12.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-08-13](daily/2026-08-13.en.md)
 - [2026-08-12](daily/2026-08-12.en.md)
 - [2026-08-11](daily/2026-08-11.en.md)
-- [2026-08-09](daily/2026-08-09.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-15 | [EV](docs/categories.en.md#ev) | [VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets](papers/2026/09/2609.12404.en.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
+| 2026-09-15 | [AT](docs/categories.en.md#at) | [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](papers/2026/09/2609.12394.en.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
 | 2026-09-14 | [AT](docs/categories.en.md#at) | [T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](papers/2026/09/2609.11042.en.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
 | 2026-09-13 | [LT](docs/categories.en.md#lt) | [COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization](papers/2026/09/2609.11682.en.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](docs/categories.en.md#ev) | [Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents](papers/2026/09/2609.11318.en.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-08-07 | [EV](docs/categories.en.md#ev) | [Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports](papers/2026/08/2608.04682.en.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](docs/categories.en.md#ev) | [PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](papers/2026/08/2608.04003.en.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
 | 2026-08-06 | [CU](docs/categories.en.md#cu) | [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](papers/2026/08/2608.03327.en.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
-| 2026-08-05 | [AF](docs/categories.en.md#af) | [LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks](papers/2026/08/2608.01964.en.md) | [2608.01964](https://arxiv.org/abs/2608.01964) |
-| 2026-08-04 | [SE](docs/categories.en.md#se) | [Preventing Premature Commitment in Coding Agents with an Evidence-Conditioned Execution Layer](papers/2026/08/2607.28815.en.md) | [2607.28815](https://arxiv.org/abs/2607.28815) |
 
 ### Monthly reports
 

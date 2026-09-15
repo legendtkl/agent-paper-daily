@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-15 | [EV](../docs/categories.en.md#ev) | [VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets](2026/09/2609.12404.en.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
+| 2026-09-15 | [AT](../docs/categories.en.md#at) | [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](2026/09/2609.12394.en.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
 | 2026-09-14 | [AT](../docs/categories.en.md#at) | [T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](2026/09/2609.11042.en.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
 | 2026-09-13 | [LT](../docs/categories.en.md#lt) | [COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization](2026/09/2609.11682.en.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](../docs/categories.en.md#ev) | [Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents](2026/09/2609.11318.en.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
