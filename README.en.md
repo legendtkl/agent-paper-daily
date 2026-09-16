@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **44**
+- Independent research notes: **45**
 - Papers covered by monthly reports: **165**
-- Daily updates: **31**
+- Daily updates: **32**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 7, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 16, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 7, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 16, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 1, [RA](docs/categories.en.md#ra) 2, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 1
 
 ### Recent daily updates
 
+- [2026-09-16](daily/2026-09-16.en.md)
 - [2026-09-15](daily/2026-09-15.en.md)
 - [2026-09-14](daily/2026-09-14.en.md)
 - [2026-09-13](daily/2026-09-13.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-08-14](daily/2026-08-14.en.md)
 - [2026-08-13](daily/2026-08-13.en.md)
 - [2026-08-12](daily/2026-08-12.en.md)
-- [2026-08-11](daily/2026-08-11.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-16 | [SY](docs/categories.en.md#sy) | [AgentKV: Phase-Aware KV Eviction for Agentic LLMs](papers/2026/09/2609.14872.en.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
 | 2026-09-15 | [EV](docs/categories.en.md#ev) | [VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets](papers/2026/09/2609.12404.en.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
 | 2026-09-15 | [AT](docs/categories.en.md#at) | [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](papers/2026/09/2609.12394.en.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
 | 2026-09-14 | [AT](docs/categories.en.md#at) | [T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](papers/2026/09/2609.11042.en.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-08-08 | [EV](docs/categories.en.md#ev) | [The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](papers/2026/08/2608.06270.en.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |
 | 2026-08-07 | [EV](docs/categories.en.md#ev) | [Active-SWE: Benchmarking Coding Agents for Proactive Bug Fixing without Issue Reports](papers/2026/08/2608.04682.en.md) | [2608.04682](https://arxiv.org/abs/2608.04682) |
 | 2026-08-06 | [EV](docs/categories.en.md#ev) | [PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](papers/2026/08/2608.04003.en.md) | [2608.04003](https://arxiv.org/abs/2608.04003) |
-| 2026-08-06 | [CU](docs/categories.en.md#cu) | [Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents](papers/2026/08/2608.03327.en.md) | [2608.03327](https://arxiv.org/abs/2608.03327) |
 
 ### Monthly reports
 

@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-16 | [SY](../docs/categories.en.md#sy) | [AgentKV: Phase-Aware KV Eviction for Agentic LLMs](2026/09/2609.14872.en.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
 | 2026-09-15 | [EV](../docs/categories.en.md#ev) | [VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets](2026/09/2609.12404.en.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
 | 2026-09-15 | [AT](../docs/categories.en.md#at) | [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](2026/09/2609.12394.en.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
 | 2026-09-14 | [AT](../docs/categories.en.md#at) | [T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](2026/09/2609.11042.en.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |

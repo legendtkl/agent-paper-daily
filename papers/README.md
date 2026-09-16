@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-16 | [SY](../docs/categories.md#sy) | [按行动阶段保留 Agent KV 状态](2026/09/2609.14872.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
 | 2026-09-15 | [EV](../docs/categories.md#ev) | [有限试错预算下评测 Agent 反思](2026/09/2609.12404.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
 | 2026-09-15 | [AT](../docs/categories.md#at) | [真实设备闭环训练移动 GUI Agent](2026/09/2609.12394.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
 | 2026-09-14 | [AT](../docs/categories.md#at) | [长程终端 Agent 强化学习](2026/09/2609.11042.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
