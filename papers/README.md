@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-17 | [AT](../docs/categories.md#at) | [用依赖图精炼多轮 Agent 训练轨迹](2026/09/2609.18417.md) | [2609.18417](https://arxiv.org/abs/2609.18417) |
+| 2026-09-17 | [MA](../docs/categories.md#ma) | [用 Git 共享记忆组织自治科研 Agent](2026/09/2609.18094.md) | [2609.18094](https://arxiv.org/abs/2609.18094) |
 | 2026-09-16 | [SY](../docs/categories.md#sy) | [按行动阶段保留 Agent KV 状态](2026/09/2609.14872.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
 | 2026-09-15 | [EV](../docs/categories.md#ev) | [有限试错预算下评测 Agent 反思](2026/09/2609.12404.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
 | 2026-09-15 | [AT](../docs/categories.md#at) | [真实设备闭环训练移动 GUI Agent](2026/09/2609.12394.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
