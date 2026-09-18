@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-18 | [RA](../docs/categories.en.md#ra) | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](2026/09/2609.19134.en.md) | [2609.19134](https://arxiv.org/abs/2609.19134) |
 | 2026-09-17 | [AT](../docs/categories.en.md#at) | [Dependency-Aware Trajectory Refinement for Efficient Multi-Turn Agent Fine-Tuning](2026/09/2609.18417.en.md) | [2609.18417](https://arxiv.org/abs/2609.18417) |
 | 2026-09-17 | [MA](../docs/categories.en.md#ma) | [Agora: Git as Shared Memory for Collective AutoResearch](2026/09/2609.18094.en.md) | [2609.18094](https://arxiv.org/abs/2609.18094) |
 | 2026-09-16 | [SY](../docs/categories.en.md#sy) | [AgentKV: Phase-Aware KV Eviction for Agentic LLMs](2026/09/2609.14872.en.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |

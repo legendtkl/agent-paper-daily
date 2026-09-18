@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**47** 篇
+- 已完成独立调研：**48** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**33** 期
+- 每日记录：**34** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 8、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 16、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 2、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 2、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3、[SY](docs/categories.md#sy) 1
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 8、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 16、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 2、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3、[SY](docs/categories.md#sy) 1
 
 ### 最近每日更新
 
+- [2026-09-18](daily/2026-09-18.md)
 - [2026-09-17](daily/2026-09-17.md)
 - [2026-09-16](daily/2026-09-16.md)
 - [2026-09-15](daily/2026-09-15.md)
@@ -41,12 +42,12 @@
 - [2026-09-11](daily/2026-09-11.md)
 - [2026-08-16](daily/2026-08-16.md)
 - [2026-08-14](daily/2026-08-14.md)
-- [2026-08-13](daily/2026-08-13.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-18 | [RA](docs/categories.md#ra) | [把科学代码变成 Agent 可学习环境](papers/2026/09/2609.19134.md) | [2609.19134](https://arxiv.org/abs/2609.19134) |
 | 2026-09-17 | [AT](docs/categories.md#at) | [用依赖图精炼多轮 Agent 训练轨迹](papers/2026/09/2609.18417.md) | [2609.18417](https://arxiv.org/abs/2609.18417) |
 | 2026-09-17 | [MA](docs/categories.md#ma) | [用 Git 共享记忆组织自治科研 Agent](papers/2026/09/2609.18094.md) | [2609.18094](https://arxiv.org/abs/2609.18094) |
 | 2026-09-16 | [SY](docs/categories.md#sy) | [按行动阶段保留 Agent KV 状态](papers/2026/09/2609.14872.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
@@ -66,7 +67,6 @@
 | 2026-08-11 | [EV](docs/categories.md#ev) | [递归合成可验证长程终端任务](papers/2026/08/2608.05466.md) | [2608.05466](https://arxiv.org/abs/2608.05466) |
 | 2026-08-09 | [AT](docs/categories.md#at) | [不接真实环境，Agent 能否在内部排演中学会行动](papers/2026/08/2608.06197.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
 | 2026-08-08 | [EV](docs/categories.md#ev) | [让 Agent 自动改进 Agent：Harness 优化如何评测](papers/2026/08/2608.06301.md) | [2608.06301](https://arxiv.org/abs/2608.06301) |
-| 2026-08-08 | [EV](docs/categories.md#ev) | [视觉工具调用真的看了返回证据吗](papers/2026/08/2608.06270.md) | [2608.06270](https://arxiv.org/abs/2608.06270) |
 
 ### 月度归档
 
