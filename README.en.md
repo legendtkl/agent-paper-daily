@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **49**
+- Independent research notes: **50**
 - Papers covered by monthly reports: **165**
-- Daily updates: **35**
+- Daily updates: **36**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 8, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 16, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 2
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 8, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 16, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 3
 
 ### Recent daily updates
 
+- [2026-09-20](daily/2026-09-20.en.md)
 - [2026-09-19](daily/2026-09-19.en.md)
 - [2026-09-18](daily/2026-09-18.en.md)
 - [2026-09-17](daily/2026-09-17.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-09-13](daily/2026-09-13.en.md)
 - [2026-09-12](daily/2026-09-12.en.md)
 - [2026-09-11](daily/2026-09-11.en.md)
-- [2026-08-16](daily/2026-08-16.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-20 | [SY](docs/categories.en.md#sy) | [An Empirical Study of Harness Design for Coding Agents](papers/2026/09/2609.20804.en.md) | [2609.20804](https://arxiv.org/abs/2609.20804) |
 | 2026-09-19 | [SY](docs/categories.en.md#sy) | [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](papers/2026/09/2609.20519.en.md) | [2609.20519](https://arxiv.org/abs/2609.20519) |
 | 2026-09-18 | [RA](docs/categories.en.md#ra) | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](papers/2026/09/2609.19134.en.md) | [2609.19134](https://arxiv.org/abs/2609.19134) |
 | 2026-09-17 | [AT](docs/categories.en.md#at) | [Dependency-Aware Trajectory Refinement for Efficient Multi-Turn Agent Fine-Tuning](papers/2026/09/2609.18417.en.md) | [2609.18417](https://arxiv.org/abs/2609.18417) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-08-12 | [EV](docs/categories.en.md#ev) | [Evo-Bench: Can Language Models Improve Agent Harness?](papers/2026/08/2608.09096.en.md) | [2608.09096](https://arxiv.org/abs/2608.09096) |
 | 2026-08-11 | [RP](docs/categories.en.md#rp) | [The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows](papers/2026/08/2608.06714.en.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
 | 2026-08-11 | [EV](docs/categories.en.md#ev) | [Recursive Synthesis for Long-Horizon Terminal Tasks](papers/2026/08/2608.05466.en.md) | [2608.05466](https://arxiv.org/abs/2608.05466) |
-| 2026-08-09 | [AT](docs/categories.en.md#at) | [EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning](papers/2026/08/2608.06197.en.md) | [2608.06197](https://arxiv.org/abs/2608.06197) |
 
 ### Monthly reports
 
