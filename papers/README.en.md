@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-21 | [EV](../docs/categories.en.md#ev) | [Quantifying Overclaiming Propensity in Frontier LLM Agents](2026/09/2609.20812.en.md) | [2609.20812](https://arxiv.org/abs/2609.20812) |
 | 2026-09-20 | [SY](../docs/categories.en.md#sy) | [An Empirical Study of Harness Design for Coding Agents](2026/09/2609.20804.en.md) | [2609.20804](https://arxiv.org/abs/2609.20804) |
 | 2026-09-19 | [SY](../docs/categories.en.md#sy) | [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](2026/09/2609.20519.en.md) | [2609.20519](https://arxiv.org/abs/2609.20519) |
 | 2026-09-18 | [RA](../docs/categories.en.md#ra) | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](2026/09/2609.19134.en.md) | [2609.19134](https://arxiv.org/abs/2609.19134) |
