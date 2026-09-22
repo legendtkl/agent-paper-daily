@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**51** 篇
+- 已完成独立调研：**53** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**37** 期
+- 每日记录：**38** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 8、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 17、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 2、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3、[SY](docs/categories.md#sy) 3
+- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 9、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 18、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 2、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3、[SY](docs/categories.md#sy) 3
 
 ### 最近每日更新
 
+- [2026-09-22](daily/2026-09-22.md)
 - [2026-09-21](daily/2026-09-21.md)
 - [2026-09-20](daily/2026-09-20.md)
 - [2026-09-19](daily/2026-09-19.md)
@@ -41,12 +42,13 @@
 - [2026-09-15](daily/2026-09-15.md)
 - [2026-09-14](daily/2026-09-14.md)
 - [2026-09-13](daily/2026-09-13.md)
-- [2026-09-12](daily/2026-09-12.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-22 | [AT](docs/categories.md#at) | [从源码自动构建 Coding Agent 强化学习环境](papers/2026/09/2609.22068.md) | [2609.22068](https://arxiv.org/abs/2609.22068) |
+| 2026-09-22 | [EV](docs/categories.md#ev) | [跨五平台评测混合 Computer-Use Agent](papers/2026/09/2609.22000.md) | [2609.22000](https://arxiv.org/abs/2609.22000) |
 | 2026-09-21 | [EV](docs/categories.md#ev) | [编码 Agent 未完成工作时的过度声称](papers/2026/09/2609.20812.md) | [2609.20812](https://arxiv.org/abs/2609.20812) |
 | 2026-09-20 | [SY](docs/categories.md#sy) | [编码 Agent Harness 组件的条件收益](papers/2026/09/2609.20804.md) | [2609.20804](https://arxiv.org/abs/2609.20804) |
 | 2026-09-19 | [SY](docs/categories.md#sy) | [用自动研究循环压缩 Agent Harness 成本](papers/2026/09/2609.20519.md) | [2609.20519](https://arxiv.org/abs/2609.20519) |
@@ -65,8 +67,6 @@
 | 2026-08-13 | [KM](docs/categories.md#km) | [Agent 指令为何只增不减](papers/2026/08/2608.11095.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
 | 2026-08-13 | [EV](docs/categories.md#ev) | [Agent 安全分数为何会随 Harness 改变](papers/2026/08/2608.10669.md) | [2608.10669](https://arxiv.org/abs/2608.10669) |
 | 2026-08-12 | [EV](docs/categories.md#ev) | [跨文件重构正在暴露 Coding Agent 的能力上限](papers/2026/08/2608.09802.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
-| 2026-08-12 | [EV](docs/categories.md#ev) | [如何评测 Agent 自主改进自己的 Harness](papers/2026/08/2608.09096.md) | [2608.09096](https://arxiv.org/abs/2608.09096) |
-| 2026-08-11 | [RP](docs/categories.md#rp) | [让 Agent 接管优化搜索策略](papers/2026/08/2608.06714.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
 
 ### 月度归档
 

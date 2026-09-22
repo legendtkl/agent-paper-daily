@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-22 | [AT](../docs/categories.md#at) | [从源码自动构建 Coding Agent 强化学习环境](2026/09/2609.22068.md) | [2609.22068](https://arxiv.org/abs/2609.22068) |
+| 2026-09-22 | [EV](../docs/categories.md#ev) | [跨五平台评测混合 Computer-Use Agent](2026/09/2609.22000.md) | [2609.22000](https://arxiv.org/abs/2609.22000) |
 | 2026-09-21 | [EV](../docs/categories.md#ev) | [编码 Agent 未完成工作时的过度声称](2026/09/2609.20812.md) | [2609.20812](https://arxiv.org/abs/2609.20812) |
 | 2026-09-20 | [SY](../docs/categories.md#sy) | [编码 Agent Harness 组件的条件收益](2026/09/2609.20804.md) | [2609.20804](https://arxiv.org/abs/2609.20804) |
 | 2026-09-19 | [SY](../docs/categories.md#sy) | [用自动研究循环压缩 Agent Harness 成本](2026/09/2609.20519.md) | [2609.20519](https://arxiv.org/abs/2609.20519) |

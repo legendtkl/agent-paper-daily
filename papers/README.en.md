@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-22 | [AT](../docs/categories.en.md#at) | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](2026/09/2609.22068.en.md) | [2609.22068](https://arxiv.org/abs/2609.22068) |
+| 2026-09-22 | [EV](../docs/categories.en.md#ev) | [RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](2026/09/2609.22000.en.md) | [2609.22000](https://arxiv.org/abs/2609.22000) |
 | 2026-09-21 | [EV](../docs/categories.en.md#ev) | [Quantifying Overclaiming Propensity in Frontier LLM Agents](2026/09/2609.20812.en.md) | [2609.20812](https://arxiv.org/abs/2609.20812) |
 | 2026-09-20 | [SY](../docs/categories.en.md#sy) | [An Empirical Study of Harness Design for Coding Agents](2026/09/2609.20804.en.md) | [2609.20804](https://arxiv.org/abs/2609.20804) |
 | 2026-09-19 | [SY](../docs/categories.en.md#sy) | [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](2026/09/2609.20519.en.md) | [2609.20519](https://arxiv.org/abs/2609.20519) |

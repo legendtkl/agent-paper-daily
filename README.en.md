@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **51**
+- Independent research notes: **53**
 - Papers covered by monthly reports: **165**
-- Daily updates: **37**
+- Daily updates: **38**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 8, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 17, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 3
+- Primary-category distribution: [AF](docs/categories.en.md#af) 2, [AT](docs/categories.en.md#at) 9, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 18, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 2, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 3
 
 ### Recent daily updates
 
+- [2026-09-22](daily/2026-09-22.en.md)
 - [2026-09-21](daily/2026-09-21.en.md)
 - [2026-09-20](daily/2026-09-20.en.md)
 - [2026-09-19](daily/2026-09-19.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-09-15](daily/2026-09-15.en.md)
 - [2026-09-14](daily/2026-09-14.en.md)
 - [2026-09-13](daily/2026-09-13.en.md)
-- [2026-09-12](daily/2026-09-12.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-22 | [AT](docs/categories.en.md#at) | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](papers/2026/09/2609.22068.en.md) | [2609.22068](https://arxiv.org/abs/2609.22068) |
+| 2026-09-22 | [EV](docs/categories.en.md#ev) | [RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](papers/2026/09/2609.22000.en.md) | [2609.22000](https://arxiv.org/abs/2609.22000) |
 | 2026-09-21 | [EV](docs/categories.en.md#ev) | [Quantifying Overclaiming Propensity in Frontier LLM Agents](papers/2026/09/2609.20812.en.md) | [2609.20812](https://arxiv.org/abs/2609.20812) |
 | 2026-09-20 | [SY](docs/categories.en.md#sy) | [An Empirical Study of Harness Design for Coding Agents](papers/2026/09/2609.20804.en.md) | [2609.20804](https://arxiv.org/abs/2609.20804) |
 | 2026-09-19 | [SY](docs/categories.en.md#sy) | [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](papers/2026/09/2609.20519.en.md) | [2609.20519](https://arxiv.org/abs/2609.20519) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-08-13 | [KM](docs/categories.en.md#km) | [Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding](papers/2026/08/2608.11095.en.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |
 | 2026-08-13 | [EV](docs/categories.en.md#ev) | [REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems](papers/2026/08/2608.10669.en.md) | [2608.10669](https://arxiv.org/abs/2608.10669) |
 | 2026-08-12 | [EV](docs/categories.en.md#ev) | [SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring](papers/2026/08/2608.09802.en.md) | [2608.09802](https://arxiv.org/abs/2608.09802) |
-| 2026-08-12 | [EV](docs/categories.en.md#ev) | [Evo-Bench: Can Language Models Improve Agent Harness?](papers/2026/08/2608.09096.en.md) | [2608.09096](https://arxiv.org/abs/2608.09096) |
-| 2026-08-11 | [RP](docs/categories.en.md#rp) | [The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows](papers/2026/08/2608.06714.en.md) | [2608.06714](https://arxiv.org/abs/2608.06714) |
 
 ### Monthly reports
 
