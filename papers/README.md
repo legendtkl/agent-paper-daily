@@ -7,6 +7,9 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-26 | [EV](../docs/categories.md#ev) | [Agent 能否复现机器学习论文的核心结论](2026/09/2609.28850.md) | [2609.28850](https://arxiv.org/abs/2609.28850) |
+| 2026-09-26 | [EV](../docs/categories.md#ev) | [从长程轨迹衡量并训练 Agent 的决策品味](2026/09/2609.25804.md) | [2609.25804](https://arxiv.org/abs/2609.25804) |
+| 2026-09-26 | [LT](../docs/categories.md#lt) | [用正则化约束 Agent Harness 递归自我改进](2026/09/2609.24972.md) | [2609.24972](https://arxiv.org/abs/2609.24972) |
 | 2026-09-22 | [AT](../docs/categories.md#at) | [从源码自动构建 Coding Agent 强化学习环境](2026/09/2609.22068.md) | [2609.22068](https://arxiv.org/abs/2609.22068) |
 | 2026-09-22 | [EV](../docs/categories.md#ev) | [跨五平台评测混合 Computer-Use Agent](2026/09/2609.22000.md) | [2609.22000](https://arxiv.org/abs/2609.22000) |
 | 2026-09-21 | [EV](../docs/categories.md#ev) | [编码 Agent 未完成工作时的过度声称](2026/09/2609.20812.md) | [2609.20812](https://arxiv.org/abs/2609.20812) |

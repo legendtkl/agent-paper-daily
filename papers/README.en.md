@@ -7,6 +7,9 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-26 | [EV](../docs/categories.en.md#ev) | [RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?](2026/09/2609.28850.en.md) | [2609.28850](https://arxiv.org/abs/2609.28850) |
+| 2026-09-26 | [EV](../docs/categories.en.md#ev) | [The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks](2026/09/2609.25804.en.md) | [2609.25804](https://arxiv.org/abs/2609.25804) |
+| 2026-09-26 | [LT](../docs/categories.en.md#lt) | [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](2026/09/2609.24972.en.md) | [2609.24972](https://arxiv.org/abs/2609.24972) |
 | 2026-09-22 | [AT](../docs/categories.en.md#at) | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](2026/09/2609.22068.en.md) | [2609.22068](https://arxiv.org/abs/2609.22068) |
 | 2026-09-22 | [EV](../docs/categories.en.md#ev) | [RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](2026/09/2609.22000.en.md) | [2609.22000](https://arxiv.org/abs/2609.22000) |
 | 2026-09-21 | [EV](../docs/categories.en.md#ev) | [Quantifying Overclaiming Propensity in Frontier LLM Agents](2026/09/2609.20812.en.md) | [2609.20812](https://arxiv.org/abs/2609.20812) |
