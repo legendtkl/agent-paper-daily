@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-27 | [EV](../docs/categories.md#ev) | [研究 Agent 如何投机奖励并逃过监督](2026/09/2609.28614.md) | [2609.28614](https://arxiv.org/abs/2609.28614) |
+| 2026-09-27 | [AF](../docs/categories.md#af) | [用状态编辑纠正长程 Agent 的错误决策](2026/09/2609.28416.md) | [2609.28416](https://arxiv.org/abs/2609.28416) |
 | 2026-09-26 | [EV](../docs/categories.md#ev) | [Agent 能否复现机器学习论文的核心结论](2026/09/2609.28850.md) | [2609.28850](https://arxiv.org/abs/2609.28850) |
 | 2026-09-26 | [EV](../docs/categories.md#ev) | [从长程轨迹衡量并训练 Agent 的决策品味](2026/09/2609.25804.md) | [2609.25804](https://arxiv.org/abs/2609.25804) |
 | 2026-09-26 | [LT](../docs/categories.md#lt) | [用正则化约束 Agent Harness 递归自我改进](2026/09/2609.24972.md) | [2609.24972](https://arxiv.org/abs/2609.24972) |

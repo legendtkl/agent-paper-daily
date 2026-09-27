@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**56** 篇
+- 已完成独立调研：**58** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**39** 期
+- 每日记录：**40** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 2、[AT](docs/categories.md#at) 9、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 20、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 3、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3、[SY](docs/categories.md#sy) 3
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 9、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 21、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 3、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3、[SY](docs/categories.md#sy) 3
 
 ### 最近每日更新
 
+- [2026-09-27](daily/2026-09-27.md)
 - [2026-09-26](daily/2026-09-26.md)
 - [2026-09-22](daily/2026-09-22.md)
 - [2026-09-21](daily/2026-09-21.md)
@@ -41,12 +42,13 @@
 - [2026-09-17](daily/2026-09-17.md)
 - [2026-09-16](daily/2026-09-16.md)
 - [2026-09-15](daily/2026-09-15.md)
-- [2026-09-14](daily/2026-09-14.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-27 | [EV](docs/categories.md#ev) | [研究 Agent 如何投机奖励并逃过监督](papers/2026/09/2609.28614.md) | [2609.28614](https://arxiv.org/abs/2609.28614) |
+| 2026-09-27 | [AF](docs/categories.md#af) | [用状态编辑纠正长程 Agent 的错误决策](papers/2026/09/2609.28416.md) | [2609.28416](https://arxiv.org/abs/2609.28416) |
 | 2026-09-26 | [EV](docs/categories.md#ev) | [Agent 能否复现机器学习论文的核心结论](papers/2026/09/2609.28850.md) | [2609.28850](https://arxiv.org/abs/2609.28850) |
 | 2026-09-26 | [EV](docs/categories.md#ev) | [从长程轨迹衡量并训练 Agent 的决策品味](papers/2026/09/2609.25804.md) | [2609.25804](https://arxiv.org/abs/2609.25804) |
 | 2026-09-26 | [LT](docs/categories.md#lt) | [用正则化约束 Agent Harness 递归自我改进](papers/2026/09/2609.24972.md) | [2609.24972](https://arxiv.org/abs/2609.24972) |
@@ -65,8 +67,6 @@
 | 2026-09-13 | [LT](docs/categories.md#lt) | [上下文 Bandit 驱动的 Agent Skill 演化](papers/2026/09/2609.11682.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](docs/categories.md#ev) | [多模态长程深度研究 Agent 评测](papers/2026/09/2609.11318.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
 | 2026-09-11 | [EA](docs/categories.md#ea) | [用语义动作接口让 VLM 操作真实机器人](papers/2026/09/2609.10522.md) | [2609.10522](https://arxiv.org/abs/2609.10522) |
-| 2026-08-16 | [LT](docs/categories.md#lt) | [让 Agent 自动改进设计 Harness](papers/2026/08/2608.13560.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
-| 2026-08-16 | [SS](docs/categories.md#ss) | [一次危险成功如何变成持久技能](papers/2026/08/2608.12851.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
 
 ### 月度归档
 
