@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **58**
+- Independent research notes: **59**
 - Papers covered by monthly reports: **165**
-- Daily updates: **40**
+- Daily updates: **41**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 9, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 21, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 3, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 3
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 9, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 22, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 3, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 3
 
 ### Recent daily updates
 
+- [2026-09-28](daily/2026-09-28.en.md)
 - [2026-09-27](daily/2026-09-27.en.md)
 - [2026-09-26](daily/2026-09-26.en.md)
 - [2026-09-22](daily/2026-09-22.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-09-18](daily/2026-09-18.en.md)
 - [2026-09-17](daily/2026-09-17.en.md)
 - [2026-09-16](daily/2026-09-16.en.md)
-- [2026-09-15](daily/2026-09-15.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-28 | [EV](docs/categories.en.md#ev) | [ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds](papers/2026/09/2609.30199.en.md) | [2609.30199](https://arxiv.org/abs/2609.30199) |
 | 2026-09-27 | [EV](docs/categories.en.md#ev) | [Reward Hacking Challenges Oversight of Autonomous Research Agents](papers/2026/09/2609.28614.en.md) | [2609.28614](https://arxiv.org/abs/2609.28614) |
 | 2026-09-27 | [AF](docs/categories.en.md#af) | [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](papers/2026/09/2609.28416.en.md) | [2609.28416](https://arxiv.org/abs/2609.28416) |
 | 2026-09-26 | [EV](docs/categories.en.md#ev) | [RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?](papers/2026/09/2609.28850.en.md) | [2609.28850](https://arxiv.org/abs/2609.28850) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-09-14 | [AT](docs/categories.en.md#at) | [T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](papers/2026/09/2609.11042.en.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
 | 2026-09-13 | [LT](docs/categories.en.md#lt) | [COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization](papers/2026/09/2609.11682.en.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](docs/categories.en.md#ev) | [Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents](papers/2026/09/2609.11318.en.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
-| 2026-09-11 | [EA](docs/categories.en.md#ea) | [Show-Harness: Just a VLM Agent Can Play Robots](papers/2026/09/2609.10522.en.md) | [2609.10522](https://arxiv.org/abs/2609.10522) |
 
 ### Monthly reports
 

@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-28 | [EV](../docs/categories.en.md#ev) | [ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds](2026/09/2609.30199.en.md) | [2609.30199](https://arxiv.org/abs/2609.30199) |
 | 2026-09-27 | [EV](../docs/categories.en.md#ev) | [Reward Hacking Challenges Oversight of Autonomous Research Agents](2026/09/2609.28614.en.md) | [2609.28614](https://arxiv.org/abs/2609.28614) |
 | 2026-09-27 | [AF](../docs/categories.en.md#af) | [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](2026/09/2609.28416.en.md) | [2609.28416](https://arxiv.org/abs/2609.28416) |
 | 2026-09-26 | [EV](../docs/categories.en.md#ev) | [RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?](2026/09/2609.28850.en.md) | [2609.28850](https://arxiv.org/abs/2609.28850) |
