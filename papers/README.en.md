@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-29 | [EV](../docs/categories.en.md#ev) | [AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs](2026/09/2609.31590.en.md) | [2609.31590](https://arxiv.org/abs/2609.31590) |
+| 2026-09-29 | [SY](../docs/categories.en.md#sy) | [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](2026/09/2609.30725.en.md) | [2609.30725](https://arxiv.org/abs/2609.30725) |
 | 2026-09-28 | [EV](../docs/categories.en.md#ev) | [ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds](2026/09/2609.30199.en.md) | [2609.30199](https://arxiv.org/abs/2609.30199) |
 | 2026-09-27 | [EV](../docs/categories.en.md#ev) | [Reward Hacking Challenges Oversight of Autonomous Research Agents](2026/09/2609.28614.en.md) | [2609.28614](https://arxiv.org/abs/2609.28614) |
 | 2026-09-27 | [AF](../docs/categories.en.md#af) | [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](2026/09/2609.28416.en.md) | [2609.28416](https://arxiv.org/abs/2609.28416) |
