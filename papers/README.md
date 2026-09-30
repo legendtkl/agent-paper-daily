@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-09-30 | [EV](../docs/categories.md#ev) | [工具 Schema 选择如何改变 Agent 能力](2026/09/2609.34971.md) | [2609.34971](https://arxiv.org/abs/2609.34971) |
 | 2026-09-29 | [EV](../docs/categories.md#ev) | [用长程沙箱测量多 Agent 真协作](2026/09/2609.31590.md) | [2609.31590](https://arxiv.org/abs/2609.31590) |
 | 2026-09-29 | [SY](../docs/categories.md#sy) | [Coding Agent 成本浪费与技能干预](2026/09/2609.30725.md) | [2609.30725](https://arxiv.org/abs/2609.30725) |
 | 2026-09-28 | [EV](../docs/categories.md#ev) | [用可验证外星世界测量 Agent 探索](2026/09/2609.30199.md) | [2609.30199](https://arxiv.org/abs/2609.30199) |

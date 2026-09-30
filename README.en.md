@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **61**
+- Independent research notes: **62**
 - Papers covered by monthly reports: **165**
-- Daily updates: **42**
+- Daily updates: **43**
 - Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 9, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 23, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 3, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 4
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 9, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 24, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 3, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 3, [SY](docs/categories.en.md#sy) 4
 
 ### Recent daily updates
 
+- [2026-09-30](daily/2026-09-30.en.md)
 - [2026-09-29](daily/2026-09-29.en.md)
 - [2026-09-28](daily/2026-09-28.en.md)
 - [2026-09-27](daily/2026-09-27.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-09-20](daily/2026-09-20.en.md)
 - [2026-09-19](daily/2026-09-19.en.md)
 - [2026-09-18](daily/2026-09-18.en.md)
-- [2026-09-17](daily/2026-09-17.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-09-30 | [EV](docs/categories.en.md#ev) | [Action-Space Shaping for LLM Agents: Measuring and Mitigating Tool-Schema Bias](papers/2026/09/2609.34971.en.md) | [2609.34971](https://arxiv.org/abs/2609.34971) |
 | 2026-09-29 | [EV](docs/categories.en.md#ev) | [AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs](papers/2026/09/2609.31590.en.md) | [2609.31590](https://arxiv.org/abs/2609.31590) |
 | 2026-09-29 | [SY](docs/categories.en.md#sy) | [Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents](papers/2026/09/2609.30725.en.md) | [2609.30725](https://arxiv.org/abs/2609.30725) |
 | 2026-09-28 | [EV](docs/categories.en.md#ev) | [ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds](papers/2026/09/2609.30199.en.md) | [2609.30199](https://arxiv.org/abs/2609.30199) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-09-16 | [SY](docs/categories.en.md#sy) | [AgentKV: Phase-Aware KV Eviction for Agentic LLMs](papers/2026/09/2609.14872.en.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
 | 2026-09-15 | [EV](docs/categories.en.md#ev) | [VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets](papers/2026/09/2609.12404.en.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
 | 2026-09-15 | [AT](docs/categories.en.md#at) | [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](papers/2026/09/2609.12394.en.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
-| 2026-09-14 | [AT](docs/categories.en.md#at) | [T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks](papers/2026/09/2609.11042.en.md) | [2609.11042](https://arxiv.org/abs/2609.11042) |
 
 ### Monthly reports
 
