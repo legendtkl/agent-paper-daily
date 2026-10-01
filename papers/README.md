@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-01 | [SS](../docs/categories.md#ss) | [工具静默说谎时，Agent 为什么验证后仍会答错](2026/10/2609.37153.md) | [2609.37153](https://arxiv.org/abs/2609.37153) |
+| 2026-10-01 | [EV](../docs/categories.md#ev) | [Agent 为 Agent 设计库时，什么才算好接口](2026/10/2609.36730.md) | [2609.36730](https://arxiv.org/abs/2609.36730) |
 | 2026-09-30 | [EV](../docs/categories.md#ev) | [工具 Schema 选择如何改变 Agent 能力](2026/09/2609.34971.md) | [2609.34971](https://arxiv.org/abs/2609.34971) |
 | 2026-09-29 | [EV](../docs/categories.md#ev) | [用长程沙箱测量多 Agent 真协作](2026/09/2609.31590.md) | [2609.31590](https://arxiv.org/abs/2609.31590) |
 | 2026-09-29 | [SY](../docs/categories.md#sy) | [Coding Agent 成本浪费与技能干预](2026/09/2609.30725.md) | [2609.30725](https://arxiv.org/abs/2609.30725) |

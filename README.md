@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**62** 篇
+- 已完成独立调研：**64** 篇
 - 月报覆盖论文：**165** 篇
-- 每日记录：**43** 期
+- 每日记录：**44** 期
 - 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 9、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 24、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 3、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 3、[SY](docs/categories.md#sy) 4
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 9、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 25、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 3、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 4、[SY](docs/categories.md#sy) 4
 
 ### 最近每日更新
 
+- [2026-10-01](daily/2026-10-01.md)
 - [2026-09-30](daily/2026-09-30.md)
 - [2026-09-29](daily/2026-09-29.md)
 - [2026-09-28](daily/2026-09-28.md)
@@ -41,12 +42,13 @@
 - [2026-09-21](daily/2026-09-21.md)
 - [2026-09-20](daily/2026-09-20.md)
 - [2026-09-19](daily/2026-09-19.md)
-- [2026-09-18](daily/2026-09-18.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-01 | [SS](docs/categories.md#ss) | [工具静默说谎时，Agent 为什么验证后仍会答错](papers/2026/10/2609.37153.md) | [2609.37153](https://arxiv.org/abs/2609.37153) |
+| 2026-10-01 | [EV](docs/categories.md#ev) | [Agent 为 Agent 设计库时，什么才算好接口](papers/2026/10/2609.36730.md) | [2609.36730](https://arxiv.org/abs/2609.36730) |
 | 2026-09-30 | [EV](docs/categories.md#ev) | [工具 Schema 选择如何改变 Agent 能力](papers/2026/09/2609.34971.md) | [2609.34971](https://arxiv.org/abs/2609.34971) |
 | 2026-09-29 | [EV](docs/categories.md#ev) | [用长程沙箱测量多 Agent 真协作](papers/2026/09/2609.31590.md) | [2609.31590](https://arxiv.org/abs/2609.31590) |
 | 2026-09-29 | [SY](docs/categories.md#sy) | [Coding Agent 成本浪费与技能干预](papers/2026/09/2609.30725.md) | [2609.30725](https://arxiv.org/abs/2609.30725) |
@@ -65,8 +67,6 @@
 | 2026-09-17 | [AT](docs/categories.md#at) | [用依赖图精炼多轮 Agent 训练轨迹](papers/2026/09/2609.18417.md) | [2609.18417](https://arxiv.org/abs/2609.18417) |
 | 2026-09-17 | [MA](docs/categories.md#ma) | [用 Git 共享记忆组织自治科研 Agent](papers/2026/09/2609.18094.md) | [2609.18094](https://arxiv.org/abs/2609.18094) |
 | 2026-09-16 | [SY](docs/categories.md#sy) | [按行动阶段保留 Agent KV 状态](papers/2026/09/2609.14872.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
-| 2026-09-15 | [EV](docs/categories.md#ev) | [有限试错预算下评测 Agent 反思](papers/2026/09/2609.12404.md) | [2609.12404](https://arxiv.org/abs/2609.12404) |
-| 2026-09-15 | [AT](docs/categories.md#at) | [真实设备闭环训练移动 GUI Agent](papers/2026/09/2609.12394.md) | [2609.12394](https://arxiv.org/abs/2609.12394) |
 
 ### 月度归档
 
