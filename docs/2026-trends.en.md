@@ -1,8 +1,8 @@
-# 2026 AI Agent paper trends｜January–July
+# 2026 AI Agent paper trends｜January–September
 
 English | [中文](2026-trends.md)
 
-> This page analyzes a curated set of 165 papers whose arXiv metadata and abstracts were verified. It is not a complete arXiv bibliometric study. All seven months are historical backfills, so paper counts and category shares must not be interpreted as field-wide popularity.
+> This page extends the 165-paper January–July historical backfill with 41 daily selections from August and 37 from September. These archive policies differ and do not form a complete arXiv bibliometric study; counts and category shares must not be interpreted as field-wide popularity.
 
 ## Monthly trajectory
 
@@ -15,6 +15,8 @@ English | [中文](2026-trends.md)
 | May | 24 | Memory lifecycles, skill engineering, and process safety | Memory research covered formation, transfer, forgetting, and provenance; skills became executable artifacts and supply-chain risks. | [2026-05](../monthly/2026-05.en.md) |
 | June | 24 | Dynamic failures, real workflows, and runtime self-repair | Planning benchmarks added failure recovery and user clarification; infrastructure took on training, permission, observability, and repair duties. | [2026-06](../monthly/2026-06.en.md) |
 | July | 20 | Verifiable execution, native state, and real harnesses | Training, evaluation, runtimes, and real environments converged further; verifiers and environment feedback entered training and recursive improvement directly. | [2026-07](../monthly/2026-07.en.md) |
+| August | 41 | Daily curation, real harnesses, and engineering verification | The archive moved from historical backfill to a daily-selection policy centered on auditable run records, independent notes, and community evidence. | [2026-08](https://bytedance.larkoffice.com/docx/USZYd7cxWomYp2xj3fZcRaWDnQc) |
+| September | 37 | Harnesses, execution environments, evaluation infrastructure, and cost | Evaluation expanded from final answers to tool schemas, traces, environments, delivery constraints, and budgets. | [2026-09](../monthly/2026-09.en.md) |
 
 ## Cross-month trends
 
@@ -42,9 +44,13 @@ Memory control-flow attacks, tool-chain vulnerabilities, data overexposure, leas
 
 Computer Use, terminals, industrial repositories, scientific research, real devices, and interactive world models appear more frequently across the sample. Evaluation has expanded from single-turn accuracy to long execution, cross-application state, user clarification, recovery, cost, and permissions. Real environments improve external validity but introduce mutable state, contamination, platform variance, and higher reproduction cost.
 
+### 7. September adds interface representation, delivery constraints, and cost to validity
+
+The September sample shows that the same model can behave very differently under different tool schemas, context policies, harness components, requirement-recovery processes, and review constraints. APIFlow-Bench, OverclaimBench, ToolSchemaSpace, harness-component experiments, and cost interventions together require separate reporting of terminal correctness, trustworthy delivery claims, interface fairness, and resource cost. This conclusion comes from the curated daily sample and is not a field-wide estimate.
+
 ## Method and evidence changes
 
-| Research layer | Common starting point | Change observed from January to July | Open problem |
+| Research layer | Common starting point | Change observed from January to September | Open problem |
 |---|---|---|---|
 | Training | Fixed trajectories and sparse terminal rewards | Decisive-step signals, self-generated experience, executable verification, and harness-native RL | Reward bias, environment exploits, cost, and transfer |
 | Memory | External retrieval modules | Learnable writes, active forgetting, provenance, cross-Agent transfer, and native state | Compression loss, deletion proof, privacy, and common evaluation |
@@ -54,8 +60,8 @@ Computer Use, terminals, industrial repositories, scientific research, real devi
 
 ## Interpretation limits
 
-- The 165 papers are a targeted Agent sample, not an estimate of field-wide volume or growth.
-- The reports use arXiv `v1` submission dates. Historical monthly counts must not be used to infer the daily selection rate at the time.
-- Experimental results are author-reported. Metadata and abstracts were checked, but the repository does not claim 165 independent reproductions.
+- January–July contains 165 historical backfills, while August and September use deduplicated daily selections. Neither scope estimates field-wide volume or growth.
+- January–July has no complete historical daily-selection pipeline. August and September have daily records, but curated counts still do not measure publication activity.
+- Most experimental results are author-reported. The archive checks metadata, paper evidence, and some artifacts, but does not independently reproduce every headline experiment.
 - Preprints may change. Code, data, licenses, and community responses require continuing review.
 - Community activity is evidence of distribution, not a substitute for technical validity.

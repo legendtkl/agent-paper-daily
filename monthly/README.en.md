@@ -9,6 +9,7 @@ Each report includes a contribution and selection rationale for every paper, gro
 See [2026 Agent paper trends, January–July](../docs/2026-trends.en.md) for cross-month analysis.
 
 <!-- BEGIN AUTO:MONTHLY -->
+- [2026-09](2026-09.en.md)
 - [2026-07](2026-07.en.md)
 - [2026-06](2026-06.en.md)
 - [2026-05](2026-05.en.md)

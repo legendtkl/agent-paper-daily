@@ -33,6 +33,19 @@
 | 2026-09-13 | [LT](../docs/categories.md#lt) | [上下文 Bandit 驱动的 Agent Skill 演化](2026/09/2609.11682.md) | [2609.11682](https://arxiv.org/abs/2609.11682) |
 | 2026-09-12 | [EV](../docs/categories.md#ev) | [多模态长程深度研究 Agent 评测](2026/09/2609.11318.md) | [2609.11318](https://arxiv.org/abs/2609.11318) |
 | 2026-09-11 | [EA](../docs/categories.md#ea) | [用语义动作接口让 VLM 操作真实机器人](2026/09/2609.10522.md) | [2609.10522](https://arxiv.org/abs/2609.10522) |
+| 2026-09-09 | [EV](../docs/categories.md#ev) | [让 Coding Agent 构建可部署 Agent](2026/09/2609.04611.md) | [2609.04611](https://arxiv.org/abs/2609.04611) |
+| 2026-09-09 | [SE](../docs/categories.md#se) | [用多 Agent 搜索优化 TPU 内核](2026/09/2609.04523.md) | [2609.04523](https://arxiv.org/abs/2609.04523) |
+| 2026-09-08 | [EV](../docs/categories.md#ev) | [统一并压缩 Agent 评测基础设施](2026/09/2609.04298.md) | [2609.04298](https://arxiv.org/abs/2609.04298) |
+| 2026-09-06 | [EV](../docs/categories.md#ev) | [功能测试通过仍可能不满足代码评审约束](2026/09/2609.04167.md) | [2609.04167](https://arxiv.org/abs/2609.04167) |
+| 2026-09-05 | [AT](../docs/categories.md#at) | [从 Agent 轨迹重建可复用终端环境](2026/09/2609.04148.md) | [2609.04148](https://arxiv.org/abs/2609.04148) |
+| 2026-09-05 | [AT](../docs/categories.md#at) | [无 Verifier 的长程 Agent 细粒度信用分配](2026/09/2609.04094.md) | [2609.04094](https://arxiv.org/abs/2609.04094) |
+| 2026-09-04 | [KM](../docs/categories.md#km) | [从 GitHub 仓库蒸馏可验证 Agent Skill](2026/09/2609.02749.md) | [2609.02749](https://arxiv.org/abs/2609.02749) |
+| 2026-09-04 | [EV](../docs/categories.md#ev) | [Agent 能否自主构建并演化 Harness](2026/09/2609.01437.md) | [2609.01437](https://arxiv.org/abs/2609.01437) |
+| 2026-09-03 | [SE](../docs/categories.md#se) | [持续改进的多日 Coding Agent](2026/09/2609.01481.md) | [2609.01481](https://arxiv.org/abs/2609.01481) |
+| 2026-09-02 | [EV](../docs/categories.md#ev) | [长依赖 API 工作流的 Agent 可靠性评测](2026/09/2608.29128.md) | [2608.29128](https://arxiv.org/abs/2608.29128) |
+| 2026-09-02 | [EV](../docs/categories.md#ev) | [Coding Agent 验证工具的收益边界](2026/09/2608.28795.md) | [2608.28795](https://arxiv.org/abs/2608.28795) |
+| 2026-09-01 | [LT](../docs/categories.md#lt) | [主动管理上下文的长程 Agent](2026/09/2608.28476.md) | [2608.28476](https://arxiv.org/abs/2608.28476) |
+| 2026-09-01 | [SS](../docs/categories.md#ss) | [为计算机操作 Agent 提供可校准运行告警](2026/09/2608.27808.md) | [2608.27808](https://arxiv.org/abs/2608.27808) |
 | 2026-08-16 | [LT](../docs/categories.md#lt) | [让 Agent 自动改进设计 Harness](2026/08/2608.13560.md) | [2608.13560](https://arxiv.org/abs/2608.13560) |
 | 2026-08-16 | [SS](../docs/categories.md#ss) | [一次危险成功如何变成持久技能](2026/08/2608.12851.md) | [2608.12851](https://arxiv.org/abs/2608.12851) |
 | 2026-08-13 | [KM](../docs/categories.md#km) | [Agent 指令为何只增不减](2026/08/2608.11095.md) | [2608.11095](https://arxiv.org/abs/2608.11095) |

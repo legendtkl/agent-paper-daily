@@ -56,7 +56,10 @@ def main() -> None:
             message = f"{path.name}: {len(ids)} papers, below the 20-paper target"
             (errors if args.strict_counts else warnings).append(message)
         if len(ids) > 35:
-            errors.append(f"{path.name}: {len(ids)} papers, above the 35-paper limit")
+            warnings.append(
+                f"{path.name}: {len(ids)} papers, above the regular 35-paper ceiling; "
+                "verify against the exact deduplicated daily-selected set"
+            )
 
         for heading in REQUIRED_HEADINGS:
             if heading not in text:

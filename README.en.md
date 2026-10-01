@@ -24,11 +24,11 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **64**
-- Papers covered by monthly reports: **165**
-- Daily updates: **44**
-- Monthly reports: **7**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 9, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 25, [KM](docs/categories.en.md#km) 2, [LT](docs/categories.en.md#lt) 3, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 3, [SS](docs/categories.en.md#ss) 4, [SY](docs/categories.en.md#sy) 4
+- Independent research notes: **77**
+- Papers covered by monthly reports: **202**
+- Daily updates: **53**
+- Monthly reports: **8**
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 11, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 31, [KM](docs/categories.en.md#km) 3, [LT](docs/categories.en.md#lt) 4, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 5, [SY](docs/categories.en.md#sy) 4
 
 ### Recent daily updates
 
@@ -70,6 +70,7 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 
 ### Monthly reports
 
+- [2026-09](monthly/2026-09.en.md)
 - [2026-07](monthly/2026-07.en.md)
 - [2026-06](monthly/2026-06.en.md)
 - [2026-05](monthly/2026-05.en.md)

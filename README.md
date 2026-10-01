@@ -24,11 +24,11 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**64** 篇
-- 月报覆盖论文：**165** 篇
-- 每日记录：**44** 期
-- 月度归档：**7** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 9、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 25、[KM](docs/categories.md#km) 2、[LT](docs/categories.md#lt) 3、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 3、[SS](docs/categories.md#ss) 4、[SY](docs/categories.md#sy) 4
+- 已完成独立调研：**77** 篇
+- 月报覆盖论文：**202** 篇
+- 每日记录：**53** 期
+- 月度归档：**8** 期
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 11、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 31、[KM](docs/categories.md#km) 3、[LT](docs/categories.md#lt) 4、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 5、[SY](docs/categories.md#sy) 4
 
 ### 最近每日更新
 
@@ -70,6 +70,7 @@
 
 ### 月度归档
 
+- [2026-09](monthly/2026-09.md)
 - [2026-07](monthly/2026-07.md)
 - [2026-06](monthly/2026-06.md)
 - [2026-05](monthly/2026-05.md)
