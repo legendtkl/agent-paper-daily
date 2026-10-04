@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-04 | [KM](../docs/categories.md#km) | [长程 Agent 不只需要记忆，还需要维护当前信念](2026/10/2610.01415.md) | [2610.01415](https://arxiv.org/abs/2610.01415) |
+| 2026-10-04 | [LT](../docs/categories.md#lt) | [让 Agent Harness 的训练任务随失败动态变化](2026/10/2610.00906.md) | [2610.00906](https://arxiv.org/abs/2610.00906) |
 | 2026-10-01 | [SS](../docs/categories.md#ss) | [工具静默说谎时，Agent 为什么验证后仍会答错](2026/10/2609.37153.md) | [2609.37153](https://arxiv.org/abs/2609.37153) |
 | 2026-10-01 | [EV](../docs/categories.md#ev) | [Agent 为 Agent 设计库时，什么才算好接口](2026/10/2609.36730.md) | [2609.36730](https://arxiv.org/abs/2609.36730) |
 | 2026-09-30 | [EV](../docs/categories.md#ev) | [工具 Schema 选择如何改变 Agent 能力](2026/09/2609.34971.md) | [2609.34971](https://arxiv.org/abs/2609.34971) |

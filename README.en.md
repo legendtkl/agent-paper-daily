@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **77**
+- Independent research notes: **79**
 - Papers covered by monthly reports: **202**
-- Daily updates: **53**
+- Daily updates: **54**
 - Monthly reports: **8**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 11, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 31, [KM](docs/categories.en.md#km) 3, [LT](docs/categories.en.md#lt) 4, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 5, [SY](docs/categories.en.md#sy) 4
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 11, [CU](docs/categories.en.md#cu) 2, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 31, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 5, [MA](docs/categories.en.md#ma) 2, [RA](docs/categories.en.md#ra) 3, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 5, [SY](docs/categories.en.md#sy) 4
 
 ### Recent daily updates
 
+- [2026-10-04](daily/2026-10-04.en.md)
 - [2026-10-01](daily/2026-10-01.en.md)
 - [2026-09-30](daily/2026-09-30.en.md)
 - [2026-09-29](daily/2026-09-29.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-09-22](daily/2026-09-22.en.md)
 - [2026-09-21](daily/2026-09-21.en.md)
 - [2026-09-20](daily/2026-09-20.en.md)
-- [2026-09-19](daily/2026-09-19.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-04 | [KM](docs/categories.en.md#km) | [Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States](papers/2026/10/2610.01415.en.md) | [2610.01415](https://arxiv.org/abs/2610.01415) |
+| 2026-10-04 | [LT](docs/categories.en.md#lt) | [ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization](papers/2026/10/2610.00906.en.md) | [2610.00906](https://arxiv.org/abs/2610.00906) |
 | 2026-10-01 | [SS](docs/categories.en.md#ss) | [When Tools Silently Lie: Evaluating and Mitigating Blind Compliance in Tool-Augmented Data Agents](papers/2026/10/2609.37153.en.md) | [2609.37153](https://arxiv.org/abs/2609.37153) |
 | 2026-10-01 | [EV](docs/categories.en.md#ev) | [Can Agents Design Libraries for Agents?](papers/2026/10/2609.36730.en.md) | [2609.36730](https://arxiv.org/abs/2609.36730) |
 | 2026-09-30 | [EV](docs/categories.en.md#ev) | [Action-Space Shaping for LLM Agents: Measuring and Mitigating Tool-Schema Bias](papers/2026/09/2609.34971.en.md) | [2609.34971](https://arxiv.org/abs/2609.34971) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-09-19 | [SY](docs/categories.en.md#sy) | [SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness](papers/2026/09/2609.20519.en.md) | [2609.20519](https://arxiv.org/abs/2609.20519) |
 | 2026-09-18 | [RA](docs/categories.en.md#ra) | [ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](papers/2026/09/2609.19134.en.md) | [2609.19134](https://arxiv.org/abs/2609.19134) |
 | 2026-09-17 | [AT](docs/categories.en.md#at) | [Dependency-Aware Trajectory Refinement for Efficient Multi-Turn Agent Fine-Tuning](papers/2026/09/2609.18417.en.md) | [2609.18417](https://arxiv.org/abs/2609.18417) |
-| 2026-09-17 | [MA](docs/categories.en.md#ma) | [Agora: Git as Shared Memory for Collective AutoResearch](papers/2026/09/2609.18094.en.md) | [2609.18094](https://arxiv.org/abs/2609.18094) |
-| 2026-09-16 | [SY](docs/categories.en.md#sy) | [AgentKV: Phase-Aware KV Eviction for Agentic LLMs](papers/2026/09/2609.14872.en.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
 
 ### Monthly reports
 

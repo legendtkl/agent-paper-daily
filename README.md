@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**77** 篇
+- 已完成独立调研：**79** 篇
 - 月报覆盖论文：**202** 篇
-- 每日记录：**53** 期
+- 每日记录：**54** 期
 - 月度归档：**8** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 11、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 31、[KM](docs/categories.md#km) 3、[LT](docs/categories.md#lt) 4、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 5、[SY](docs/categories.md#sy) 4
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 11、[CU](docs/categories.md#cu) 2、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 31、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 5、[MA](docs/categories.md#ma) 2、[RA](docs/categories.md#ra) 3、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 5、[SY](docs/categories.md#sy) 4
 
 ### 最近每日更新
 
+- [2026-10-04](daily/2026-10-04.md)
 - [2026-10-01](daily/2026-10-01.md)
 - [2026-09-30](daily/2026-09-30.md)
 - [2026-09-29](daily/2026-09-29.md)
@@ -41,12 +42,13 @@
 - [2026-09-22](daily/2026-09-22.md)
 - [2026-09-21](daily/2026-09-21.md)
 - [2026-09-20](daily/2026-09-20.md)
-- [2026-09-19](daily/2026-09-19.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-04 | [KM](docs/categories.md#km) | [长程 Agent 不只需要记忆，还需要维护当前信念](papers/2026/10/2610.01415.md) | [2610.01415](https://arxiv.org/abs/2610.01415) |
+| 2026-10-04 | [LT](docs/categories.md#lt) | [让 Agent Harness 的训练任务随失败动态变化](papers/2026/10/2610.00906.md) | [2610.00906](https://arxiv.org/abs/2610.00906) |
 | 2026-10-01 | [SS](docs/categories.md#ss) | [工具静默说谎时，Agent 为什么验证后仍会答错](papers/2026/10/2609.37153.md) | [2609.37153](https://arxiv.org/abs/2609.37153) |
 | 2026-10-01 | [EV](docs/categories.md#ev) | [Agent 为 Agent 设计库时，什么才算好接口](papers/2026/10/2609.36730.md) | [2609.36730](https://arxiv.org/abs/2609.36730) |
 | 2026-09-30 | [EV](docs/categories.md#ev) | [工具 Schema 选择如何改变 Agent 能力](papers/2026/09/2609.34971.md) | [2609.34971](https://arxiv.org/abs/2609.34971) |
@@ -65,8 +67,6 @@
 | 2026-09-19 | [SY](docs/categories.md#sy) | [用自动研究循环压缩 Agent Harness 成本](papers/2026/09/2609.20519.md) | [2609.20519](https://arxiv.org/abs/2609.20519) |
 | 2026-09-18 | [RA](docs/categories.md#ra) | [把科学代码变成 Agent 可学习环境](papers/2026/09/2609.19134.md) | [2609.19134](https://arxiv.org/abs/2609.19134) |
 | 2026-09-17 | [AT](docs/categories.md#at) | [用依赖图精炼多轮 Agent 训练轨迹](papers/2026/09/2609.18417.md) | [2609.18417](https://arxiv.org/abs/2609.18417) |
-| 2026-09-17 | [MA](docs/categories.md#ma) | [用 Git 共享记忆组织自治科研 Agent](papers/2026/09/2609.18094.md) | [2609.18094](https://arxiv.org/abs/2609.18094) |
-| 2026-09-16 | [SY](docs/categories.md#sy) | [按行动阶段保留 Agent KV 状态](papers/2026/09/2609.14872.md) | [2609.14872](https://arxiv.org/abs/2609.14872) |
 
 ### 月度归档
 

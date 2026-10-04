@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-04 | [KM](../docs/categories.en.md#km) | [Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States](2026/10/2610.01415.en.md) | [2610.01415](https://arxiv.org/abs/2610.01415) |
+| 2026-10-04 | [LT](../docs/categories.en.md#lt) | [ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization](2026/10/2610.00906.en.md) | [2610.00906](https://arxiv.org/abs/2610.00906) |
 | 2026-10-01 | [SS](../docs/categories.en.md#ss) | [When Tools Silently Lie: Evaluating and Mitigating Blind Compliance in Tool-Augmented Data Agents](2026/10/2609.37153.en.md) | [2609.37153](https://arxiv.org/abs/2609.37153) |
 | 2026-10-01 | [EV](../docs/categories.en.md#ev) | [Can Agents Design Libraries for Agents?](2026/10/2609.36730.en.md) | [2609.36730](https://arxiv.org/abs/2609.36730) |
 | 2026-09-30 | [EV](../docs/categories.en.md#ev) | [Action-Space Shaping for LLM Agents: Measuring and Mitigating Tool-Schema Bias](2026/09/2609.34971.en.md) | [2609.34971](https://arxiv.org/abs/2609.34971) |
