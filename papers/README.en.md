@@ -7,6 +7,30 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-21 | [TU](../docs/categories.en.md#tu) | [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](2026/10/2610.26860.en.md) | [2610.26860](https://arxiv.org/abs/2610.26860) |
+| 2026-10-20 | [AT](../docs/categories.en.md#at) | [Self-Evolving Coding Agents via Harness-Policy Optimization](2026/10/2610.22791.en.md) | [2610.22791](https://arxiv.org/abs/2610.22791) |
+| 2026-10-20 | [EV](../docs/categories.en.md#ev) | [Has GPT-6-Astra Achieved Embodied Intelligence?](2026/10/2610.22471.en.md) | [2610.22471](https://arxiv.org/abs/2610.22471) |
+| 2026-10-19 | [AT](../docs/categories.en.md#at) | [Data World: Scaling Data Environments from Scratch](2026/10/2610.21656.en.md) | [2610.21656](https://arxiv.org/abs/2610.21656) |
+| 2026-10-18 | [EV](../docs/categories.en.md#ev) | [Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents](2026/10/2610.20344.en.md) | [2610.20344](https://arxiv.org/abs/2610.20344) |
+| 2026-10-17 | [EV](../docs/categories.en.md#ev) | [FDE-Gym: The Last Mile of AI Delivery](2026/10/2610.22350.en.md) | [2610.22350](https://arxiv.org/abs/2610.22350) |
+| 2026-10-17 | [CU](../docs/categories.en.md#cu) | [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](2026/10/2610.22200.en.md) | [2610.22200](https://arxiv.org/abs/2610.22200) |
+| 2026-10-15 | [AT](../docs/categories.en.md#at) | [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](2026/10/2610.18868.en.md) | [2610.18868](https://arxiv.org/abs/2610.18868) |
+| 2026-10-15 | [AT](../docs/categories.en.md#at) | [ReTerm: Recovery Training for Self-Improving Terminal Agents](2026/10/2610.18484.en.md) | [2610.18484](https://arxiv.org/abs/2610.18484) |
+| 2026-10-14 | [EV](../docs/categories.en.md#ev) | [SWE-Duel: Towards a Self-Scaling Arena for Coding Agents](2026/10/2610.12569.en.md) | [2610.12569](https://arxiv.org/abs/2610.12569) |
+| 2026-10-13 | [LT](../docs/categories.en.md#lt) | [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](2026/10/2610.12984.en.md) | [2610.12984](https://arxiv.org/abs/2610.12984) |
+| 2026-10-13 | [AT](../docs/categories.en.md#at) | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](2026/10/2610.12611.en.md) | [2610.12611](https://arxiv.org/abs/2610.12611) |
+| 2026-10-12 | [LT](../docs/categories.en.md#lt) | [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition](2026/10/2610.12341.en.md) | [2610.12341](https://arxiv.org/abs/2610.12341) |
+| 2026-10-11 | [EV](../docs/categories.en.md#ev) | [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](2026/10/2610.11050.en.md) | [2610.11050](https://arxiv.org/abs/2610.11050) |
+| 2026-10-10 | [EV](../docs/categories.en.md#ev) | [One Skill Too Many: How Co-Installed Skills Conflict in Coding Agents](2026/10/2610.11647.en.md) | [2610.11647](https://arxiv.org/abs/2610.11647) |
+| 2026-10-09 | [MA](../docs/categories.en.md#ma) | [When Sub-Agents Work in Parallel: The Promises and Pitfalls of Dynamic Concurrency in Long-Horizon Coding Tasks](2026/10/2610.10263.en.md) | [2610.10263](https://arxiv.org/abs/2610.10263) |
+| 2026-10-09 | [EV](../docs/categories.en.md#ev) | [AgentTime: Can Agents Estimate and Control Their Own Runtime?](2026/10/2610.09944.en.md) | [2610.09944](https://arxiv.org/abs/2610.09944) |
+| 2026-10-08 | [EV](../docs/categories.en.md#ev) | [Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?](2026/10/2610.08775.en.md) | [2610.08775](https://arxiv.org/abs/2610.08775) |
+| 2026-10-08 | [EV](../docs/categories.en.md#ev) | [From Evidence to Action: How Tool-Using Agents Fail](2026/10/2610.07753.en.md) | [2610.07753](https://arxiv.org/abs/2610.07753) |
+| 2026-10-07 | [EV](../docs/categories.en.md#ev) | [What Did the Agent Actually Do? Evidence-Grounded Oversight for Long-Horizon Agents](2026/10/2610.06406.en.md) | [2610.06406](https://arxiv.org/abs/2610.06406) |
+| 2026-10-07 | [SS](../docs/categories.en.md#ss) | [DelegationBench: Measuring When AI Agents Should Ask Before Acting](2026/10/2610.05532.en.md) | [2610.05532](https://arxiv.org/abs/2610.05532) |
+| 2026-10-06 | [EV](../docs/categories.en.md#ev) | [SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation](2026/10/2610.02304.en.md) | [2610.02304](https://arxiv.org/abs/2610.02304) |
+| 2026-10-05 | [LT](../docs/categories.en.md#lt) | [Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents](2026/10/2610.03634.en.md) | [2610.03634](https://arxiv.org/abs/2610.03634) |
+| 2026-10-05 | [EV](../docs/categories.en.md#ev) | [HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents](2026/10/2610.03574.en.md) | [2610.03574](https://arxiv.org/abs/2610.03574) |
 | 2026-10-04 | [KM](../docs/categories.en.md#km) | [Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States](2026/10/2610.01415.en.md) | [2610.01415](https://arxiv.org/abs/2610.01415) |
 | 2026-10-04 | [LT](../docs/categories.en.md#lt) | [ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization](2026/10/2610.00906.en.md) | [2610.00906](https://arxiv.org/abs/2610.00906) |
 | 2026-10-01 | [SS](../docs/categories.en.md#ss) | [When Tools Silently Lie: Evaluating and Mitigating Blind Compliance in Tool-Augmented Data Agents](2026/10/2609.37153.en.md) | [2609.37153](https://arxiv.org/abs/2609.37153) |

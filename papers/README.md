@@ -7,6 +7,30 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-21 | [TU](../docs/categories.md#tu) | [让视觉 Agent 保留并复用多模态证据](2026/10/2610.26860.md) | [2610.26860](https://arxiv.org/abs/2610.26860) |
+| 2026-10-20 | [AT](../docs/categories.md#at) | [让 Agent 同时进化 Harness 与策略](2026/10/2610.22791.md) | [2610.22791](https://arxiv.org/abs/2610.22791) |
+| 2026-10-20 | [EV](../docs/categories.md#ev) | [GPT-6-Astra 的具身能力上限与现实鸿沟](2026/10/2610.22471.md) | [2610.22471](https://arxiv.org/abs/2610.22471) |
+| 2026-10-19 | [AT](../docs/categories.md#at) | [从机制生成可审计的数据 Agent 世界](2026/10/2610.21656.md) | [2610.21656](https://arxiv.org/abs/2610.21656) |
+| 2026-10-18 | [EV](../docs/categories.md#ev) | [把 Agent Harness 本身变成可重复评测对象](2026/10/2610.20344.md) | [2610.20344](https://arxiv.org/abs/2610.20344) |
+| 2026-10-17 | [EV](../docs/categories.md#ev) | [Agent 交付上线后，客户指标真的改善了吗](2026/10/2610.22350.md) | [2610.22350](https://arxiv.org/abs/2610.22350) |
+| 2026-10-17 | [CU](../docs/categories.md#cu) | [让 Computer-Use Agent 自己选择观察与行动方式](2026/10/2610.22200.md) | [2610.22200](https://arxiv.org/abs/2610.22200) |
+| 2026-10-15 | [AT](../docs/categories.md#at) | [用可验证进度奖励训练长程 Agent](2026/10/2610.18868.md) | [2610.18868](https://arxiv.org/abs/2610.18868) |
+| 2026-10-15 | [AT](../docs/categories.md#at) | [让终端 Agent 从自己留下的失败状态恢复](2026/10/2610.18484.md) | [2610.18484](https://arxiv.org/abs/2610.18484) |
+| 2026-10-14 | [EV](../docs/categories.md#ev) | [让 Coding Agent 互相出题，基准会随能力变难吗](2026/10/2610.12569.md) | [2610.12569](https://arxiv.org/abs/2610.12569) |
+| 2026-10-13 | [LT](../docs/categories.md#lt) | [从人类 GUI 演示归纳可复用 Agent Skill](2026/10/2610.12984.md) | [2610.12984](https://arxiv.org/abs/2610.12984) |
+| 2026-10-13 | [AT](../docs/categories.md#at) | [182 个合成软件环境能否训练出可迁移的 CUA](2026/10/2610.12611.md) | [2610.12611](https://arxiv.org/abs/2610.12611) |
+| 2026-10-12 | [LT](../docs/categories.md#lt) | [Agent 从回放里改代码，能爬到人类榜首吗](2026/10/2610.12341.md) | [2610.12341](https://arxiv.org/abs/2610.12341) |
+| 2026-10-11 | [EV](../docs/categories.md#ev) | [长程 Computer Use 轨迹看似完成，Judge 漏掉了什么](2026/10/2610.11050.md) | [2610.11050](https://arxiv.org/abs/2610.11050) |
+| 2026-10-10 | [EV](../docs/categories.md#ev) | [相似 Skill 共存时，Coding Agent 会悄悄改用谁](2026/10/2610.11647.md) | [2610.11647](https://arxiv.org/abs/2610.11647) |
+| 2026-10-09 | [MA](../docs/categories.md#ma) | [动态并发子 Agent 何时值得开启](2026/10/2610.10263.md) | [2610.10263](https://arxiv.org/abs/2610.10263) |
+| 2026-10-09 | [EV](../docs/categories.md#ev) | [Agent 能否估计并控制自己的运行时间](2026/10/2610.09944.md) | [2610.09944](https://arxiv.org/abs/2610.09944) |
+| 2026-10-08 | [EV](../docs/categories.md#ev) | [Agent 能否把能力封装成低成本工件](2026/10/2610.08775.md) | [2610.08775](https://arxiv.org/abs/2610.08775) |
+| 2026-10-08 | [EV](../docs/categories.md#ev) | [正确执行之前，Agent 是否真的取得了证据](2026/10/2610.07753.md) | [2610.07753](https://arxiv.org/abs/2610.07753) |
+| 2026-10-07 | [EV](../docs/categories.md#ev) | [长程 Agent 做了什么，监督者如何找到证据](2026/10/2610.06406.md) | [2610.06406](https://arxiv.org/abs/2610.06406) |
+| 2026-10-07 | [SS](../docs/categories.md#ss) | [Agent 何时应先问再行动](2026/10/2610.05532.md) | [2610.05532](https://arxiv.org/abs/2610.05532) |
+| 2026-10-06 | [EV](../docs/categories.md#ev) | [Agent 会生成 Simulink，不等于满足工程要求](2026/10/2610.02304.md) | [2610.02304](https://arxiv.org/abs/2610.02304) |
+| 2026-10-05 | [LT](../docs/categories.md#lt) | [让终端 Agent 的强化学习信用沿命令依赖传播](2026/10/2610.03634.md) | [2610.03634](https://arxiv.org/abs/2610.03634) |
+| 2026-10-05 | [EV](../docs/categories.md#ev) | [13 种语言和 8 类模态如何压低 Web Agent 搜索成功率](2026/10/2610.03574.md) | [2610.03574](https://arxiv.org/abs/2610.03574) |
 | 2026-10-04 | [KM](../docs/categories.md#km) | [长程 Agent 不只需要记忆，还需要维护当前信念](2026/10/2610.01415.md) | [2610.01415](https://arxiv.org/abs/2610.01415) |
 | 2026-10-04 | [LT](../docs/categories.md#lt) | [让 Agent Harness 的训练任务随失败动态变化](2026/10/2610.00906.md) | [2610.00906](https://arxiv.org/abs/2610.00906) |
 | 2026-10-01 | [SS](../docs/categories.md#ss) | [工具静默说谎时，Agent 为什么验证后仍会答错](2026/10/2609.37153.md) | [2609.37153](https://arxiv.org/abs/2609.37153) |
