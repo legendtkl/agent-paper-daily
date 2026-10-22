@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-22 | [MV](../docs/categories.md#mv) | [用通用 Coding Agent 闭合空间证据循环](2026/10/2610.28354.md) | [2610.28354](https://arxiv.org/abs/2610.28354) |
+| 2026-10-22 | [EV](../docs/categories.md#ev) | [评测 Agent 是否越过用户授权边界](2026/10/2610.27548.md) | [2610.27548](https://arxiv.org/abs/2610.27548) |
 | 2026-10-21 | [TU](../docs/categories.md#tu) | [让视觉 Agent 保留并复用多模态证据](2026/10/2610.26860.md) | [2610.26860](https://arxiv.org/abs/2610.26860) |
 | 2026-10-20 | [AT](../docs/categories.md#at) | [让 Agent 同时进化 Harness 与策略](2026/10/2610.22791.md) | [2610.22791](https://arxiv.org/abs/2610.22791) |
 | 2026-10-20 | [EV](../docs/categories.md#ev) | [GPT-6-Astra 的具身能力上限与现实鸿沟](2026/10/2610.22471.md) | [2610.22471](https://arxiv.org/abs/2610.22471) |
