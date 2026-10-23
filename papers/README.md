@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-23 | [RA](../docs/categories.md#ra) | [检验 Agent 能否推进真实科学模型](2026/10/2610.28763.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
 | 2026-10-22 | [MV](../docs/categories.md#mv) | [用通用 Coding Agent 闭合空间证据循环](2026/10/2610.28354.md) | [2610.28354](https://arxiv.org/abs/2610.28354) |
 | 2026-10-22 | [EV](../docs/categories.md#ev) | [评测 Agent 是否越过用户授权边界](2026/10/2610.27548.md) | [2610.27548](https://arxiv.org/abs/2610.27548) |
 | 2026-10-21 | [TU](../docs/categories.md#tu) | [让视觉 Agent 保留并复用多模态证据](2026/10/2610.26860.md) | [2610.26860](https://arxiv.org/abs/2610.26860) |

@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-23 | [RA](../docs/categories.en.md#ra) | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](2026/10/2610.28763.en.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
 | 2026-10-22 | [MV](../docs/categories.en.md#mv) | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](2026/10/2610.28354.en.md) | [2610.28354](https://arxiv.org/abs/2610.28354) |
 | 2026-10-22 | [EV](../docs/categories.en.md#ev) | [Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment](2026/10/2610.27548.en.md) | [2610.27548](https://arxiv.org/abs/2610.27548) |
 | 2026-10-21 | [TU](../docs/categories.en.md#tu) | [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](2026/10/2610.26860.en.md) | [2610.26860](https://arxiv.org/abs/2610.26860) |
