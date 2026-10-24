@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **106**
+- Independent research notes: **107**
 - Papers covered by monthly reports: **202**
-- Daily updates: **73**
+- Daily updates: **74**
 - Monthly reports: **8**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 16, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 44, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 8, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 6, [SY](docs/categories.en.md#sy) 4, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 16, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 45, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 8, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 6, [SY](docs/categories.en.md#sy) 4, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-10-24](daily/2026-10-24.en.md)
 - [2026-10-23](daily/2026-10-23.en.md)
 - [2026-10-22](daily/2026-10-22.en.md)
 - [2026-10-21](daily/2026-10-21.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-10-17](daily/2026-10-17.en.md)
 - [2026-10-16](daily/2026-10-16.en.md)
 - [2026-10-15](daily/2026-10-15.en.md)
-- [2026-10-14](daily/2026-10-14.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-24 | [EV](docs/categories.en.md#ev) | [Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports](papers/2026/10/2610.31158.en.md) | [2610.31158](https://arxiv.org/abs/2610.31158) |
 | 2026-10-23 | [RA](docs/categories.en.md#ra) | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](papers/2026/10/2610.28763.en.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
 | 2026-10-22 | [MV](docs/categories.en.md#mv) | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](papers/2026/10/2610.28354.en.md) | [2610.28354](https://arxiv.org/abs/2610.28354) |
 | 2026-10-22 | [EV](docs/categories.en.md#ev) | [Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment](papers/2026/10/2610.27548.en.md) | [2610.27548](https://arxiv.org/abs/2610.27548) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-10-11 | [EV](docs/categories.en.md#ev) | [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](papers/2026/10/2610.11050.en.md) | [2610.11050](https://arxiv.org/abs/2610.11050) |
 | 2026-10-10 | [EV](docs/categories.en.md#ev) | [One Skill Too Many: How Co-Installed Skills Conflict in Coding Agents](papers/2026/10/2610.11647.en.md) | [2610.11647](https://arxiv.org/abs/2610.11647) |
 | 2026-10-09 | [MA](docs/categories.en.md#ma) | [When Sub-Agents Work in Parallel: The Promises and Pitfalls of Dynamic Concurrency in Long-Horizon Coding Tasks](papers/2026/10/2610.10263.en.md) | [2610.10263](https://arxiv.org/abs/2610.10263) |
-| 2026-10-09 | [EV](docs/categories.en.md#ev) | [AgentTime: Can Agents Estimate and Control Their Own Runtime?](papers/2026/10/2610.09944.en.md) | [2610.09944](https://arxiv.org/abs/2610.09944) |
 
 ### Monthly reports
 
