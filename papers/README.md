@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-25 | [SY](../docs/categories.md#sy) | [从真实轨迹重建可验证 App 世界](2026/10/2610.30792.md) | [2610.30792](https://arxiv.org/abs/2610.30792) |
 | 2026-10-24 | [EV](../docs/categories.md#ev) | [评测视频中心深度研究报告](2026/10/2610.31158.md) | [2610.31158](https://arxiv.org/abs/2610.31158) |
 | 2026-10-23 | [RA](../docs/categories.md#ra) | [检验 Agent 能否推进真实科学模型](2026/10/2610.28763.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
 | 2026-10-22 | [MV](../docs/categories.md#mv) | [用通用 Coding Agent 闭合空间证据循环](2026/10/2610.28354.md) | [2610.28354](https://arxiv.org/abs/2610.28354) |

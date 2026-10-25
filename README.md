@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**107** 篇
+- 已完成独立调研：**108** 篇
 - 月报覆盖论文：**202** 篇
-- 每日记录：**74** 期
+- 每日记录：**75** 期
 - 月度归档：**8** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 16、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 45、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 8、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 6、[SY](docs/categories.md#sy) 4、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 16、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 45、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 8、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 6、[SY](docs/categories.md#sy) 5、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-10-25](daily/2026-10-25.md)
 - [2026-10-24](daily/2026-10-24.md)
 - [2026-10-23](daily/2026-10-23.md)
 - [2026-10-22](daily/2026-10-22.md)
@@ -41,12 +42,12 @@
 - [2026-10-18](daily/2026-10-18.md)
 - [2026-10-17](daily/2026-10-17.md)
 - [2026-10-16](daily/2026-10-16.md)
-- [2026-10-15](daily/2026-10-15.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-25 | [SY](docs/categories.md#sy) | [从真实轨迹重建可验证 App 世界](papers/2026/10/2610.30792.md) | [2610.30792](https://arxiv.org/abs/2610.30792) |
 | 2026-10-24 | [EV](docs/categories.md#ev) | [评测视频中心深度研究报告](papers/2026/10/2610.31158.md) | [2610.31158](https://arxiv.org/abs/2610.31158) |
 | 2026-10-23 | [RA](docs/categories.md#ra) | [检验 Agent 能否推进真实科学模型](papers/2026/10/2610.28763.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
 | 2026-10-22 | [MV](docs/categories.md#mv) | [用通用 Coding Agent 闭合空间证据循环](papers/2026/10/2610.28354.md) | [2610.28354](https://arxiv.org/abs/2610.28354) |
@@ -66,7 +67,6 @@
 | 2026-10-12 | [LT](docs/categories.md#lt) | [Agent 从回放里改代码，能爬到人类榜首吗](papers/2026/10/2610.12341.md) | [2610.12341](https://arxiv.org/abs/2610.12341) |
 | 2026-10-11 | [EV](docs/categories.md#ev) | [长程 Computer Use 轨迹看似完成，Judge 漏掉了什么](papers/2026/10/2610.11050.md) | [2610.11050](https://arxiv.org/abs/2610.11050) |
 | 2026-10-10 | [EV](docs/categories.md#ev) | [相似 Skill 共存时，Coding Agent 会悄悄改用谁](papers/2026/10/2610.11647.md) | [2610.11647](https://arxiv.org/abs/2610.11647) |
-| 2026-10-09 | [MA](docs/categories.md#ma) | [动态并发子 Agent 何时值得开启](papers/2026/10/2610.10263.md) | [2610.10263](https://arxiv.org/abs/2610.10263) |
 
 ### 月度归档
 
