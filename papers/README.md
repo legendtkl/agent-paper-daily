@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-26 | [EV](../docs/categories.md#ev) | [用真实 MCP 故障检验 Agent 韧性](2026/10/2610.32555.md) | [2610.32555](https://arxiv.org/abs/2610.32555) |
+| 2026-10-26 | [SY](../docs/categories.md#sy) | [可组合的 Agent 自演化实验框架](2026/10/2610.32253.md) | [2610.32253](https://arxiv.org/abs/2610.32253) |
 | 2026-10-25 | [SY](../docs/categories.md#sy) | [从真实轨迹重建可验证 App 世界](2026/10/2610.30792.md) | [2610.30792](https://arxiv.org/abs/2610.30792) |
 | 2026-10-24 | [EV](../docs/categories.md#ev) | [评测视频中心深度研究报告](2026/10/2610.31158.md) | [2610.31158](https://arxiv.org/abs/2610.31158) |
 | 2026-10-23 | [RA](../docs/categories.md#ra) | [检验 Agent 能否推进真实科学模型](2026/10/2610.28763.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |

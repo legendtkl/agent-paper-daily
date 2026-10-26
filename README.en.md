@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **108**
+- Independent research notes: **110**
 - Papers covered by monthly reports: **202**
-- Daily updates: **75**
+- Daily updates: **76**
 - Monthly reports: **8**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 16, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 45, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 8, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 6, [SY](docs/categories.en.md#sy) 5, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 16, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 46, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 8, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 6, [SY](docs/categories.en.md#sy) 6, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-10-26](daily/2026-10-26.en.md)
 - [2026-10-25](daily/2026-10-25.en.md)
 - [2026-10-24](daily/2026-10-24.en.md)
 - [2026-10-23](daily/2026-10-23.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-10-19](daily/2026-10-19.en.md)
 - [2026-10-18](daily/2026-10-18.en.md)
 - [2026-10-17](daily/2026-10-17.en.md)
-- [2026-10-16](daily/2026-10-16.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-26 | [EV](docs/categories.en.md#ev) | [Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance](papers/2026/10/2610.32555.en.md) | [2610.32555](https://arxiv.org/abs/2610.32555) |
+| 2026-10-26 | [SY](docs/categories.en.md#sy) | [RSIHub: A Composable Framework for Agent-Evolution Methods](papers/2026/10/2610.32253.en.md) | [2610.32253](https://arxiv.org/abs/2610.32253) |
 | 2026-10-25 | [SY](docs/categories.en.md#sy) | [Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training](papers/2026/10/2610.30792.en.md) | [2610.30792](https://arxiv.org/abs/2610.30792) |
 | 2026-10-24 | [EV](docs/categories.en.md#ev) | [Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports](papers/2026/10/2610.31158.en.md) | [2610.31158](https://arxiv.org/abs/2610.31158) |
 | 2026-10-23 | [RA](docs/categories.en.md#ra) | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](papers/2026/10/2610.28763.en.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-10-13 | [LT](docs/categories.en.md#lt) | [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](papers/2026/10/2610.12984.en.md) | [2610.12984](https://arxiv.org/abs/2610.12984) |
 | 2026-10-13 | [AT](docs/categories.en.md#at) | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](papers/2026/10/2610.12611.en.md) | [2610.12611](https://arxiv.org/abs/2610.12611) |
 | 2026-10-12 | [LT](docs/categories.en.md#lt) | [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition](papers/2026/10/2610.12341.en.md) | [2610.12341](https://arxiv.org/abs/2610.12341) |
-| 2026-10-11 | [EV](docs/categories.en.md#ev) | [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](papers/2026/10/2610.11050.en.md) | [2610.11050](https://arxiv.org/abs/2610.11050) |
-| 2026-10-10 | [EV](docs/categories.en.md#ev) | [One Skill Too Many: How Co-Installed Skills Conflict in Coding Agents](papers/2026/10/2610.11647.en.md) | [2610.11647](https://arxiv.org/abs/2610.11647) |
 
 ### Monthly reports
 
