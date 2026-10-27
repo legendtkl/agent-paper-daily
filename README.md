@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**110** 篇
+- 已完成独立调研：**111** 篇
 - 月报覆盖论文：**202** 篇
-- 每日记录：**76** 期
+- 每日记录：**77** 期
 - 月度归档：**8** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 16、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 46、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 8、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 6、[SY](docs/categories.md#sy) 6、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 16、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 47、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 8、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 6、[SY](docs/categories.md#sy) 6、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-10-27](daily/2026-10-27.md)
 - [2026-10-26](daily/2026-10-26.md)
 - [2026-10-25](daily/2026-10-25.md)
 - [2026-10-24](daily/2026-10-24.md)
@@ -41,12 +42,12 @@
 - [2026-10-20](daily/2026-10-20.md)
 - [2026-10-19](daily/2026-10-19.md)
 - [2026-10-18](daily/2026-10-18.md)
-- [2026-10-17](daily/2026-10-17.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-27 | [EV](docs/categories.md#ev) | [用真实长程轨迹校准购物 Agent 模拟器](papers/2026/10/2610.30932.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |
 | 2026-10-26 | [EV](docs/categories.md#ev) | [用真实 MCP 故障检验 Agent 韧性](papers/2026/10/2610.32555.md) | [2610.32555](https://arxiv.org/abs/2610.32555) |
 | 2026-10-26 | [SY](docs/categories.md#sy) | [可组合的 Agent 自演化实验框架](papers/2026/10/2610.32253.md) | [2610.32253](https://arxiv.org/abs/2610.32253) |
 | 2026-10-25 | [SY](docs/categories.md#sy) | [从真实轨迹重建可验证 App 世界](papers/2026/10/2610.30792.md) | [2610.30792](https://arxiv.org/abs/2610.30792) |
@@ -66,7 +67,6 @@
 | 2026-10-14 | [EV](docs/categories.md#ev) | [让 Coding Agent 互相出题，基准会随能力变难吗](papers/2026/10/2610.12569.md) | [2610.12569](https://arxiv.org/abs/2610.12569) |
 | 2026-10-13 | [LT](docs/categories.md#lt) | [从人类 GUI 演示归纳可复用 Agent Skill](papers/2026/10/2610.12984.md) | [2610.12984](https://arxiv.org/abs/2610.12984) |
 | 2026-10-13 | [AT](docs/categories.md#at) | [182 个合成软件环境能否训练出可迁移的 CUA](papers/2026/10/2610.12611.md) | [2610.12611](https://arxiv.org/abs/2610.12611) |
-| 2026-10-12 | [LT](docs/categories.md#lt) | [Agent 从回放里改代码，能爬到人类榜首吗](papers/2026/10/2610.12341.md) | [2610.12341](https://arxiv.org/abs/2610.12341) |
 
 ### 月度归档
 
