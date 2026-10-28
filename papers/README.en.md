@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-28 | [AT](../docs/categories.en.md#at) | [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](2026/10/2610.33568.en.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
+| 2026-10-28 | [EV](../docs/categories.en.md#ev) | [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](2026/10/2610.32285.en.md) | [2610.32285](https://arxiv.org/abs/2610.32285) |
 | 2026-10-27 | [EV](../docs/categories.en.md#ev) | [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](2026/10/2610.30932.en.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |
 | 2026-10-26 | [EV](../docs/categories.en.md#ev) | [Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance](2026/10/2610.32555.en.md) | [2610.32555](https://arxiv.org/abs/2610.32555) |
 | 2026-10-26 | [SY](../docs/categories.en.md#sy) | [RSIHub: A Composable Framework for Agent-Evolution Methods](2026/10/2610.32253.en.md) | [2610.32253](https://arxiv.org/abs/2610.32253) |

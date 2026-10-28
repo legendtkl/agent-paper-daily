@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-28 | [AT](../docs/categories.md#at) | [用可学习的交互结构训练工具 Agent](2026/10/2610.33568.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
+| 2026-10-28 | [EV](../docs/categories.md#ev) | [用执行轨迹审计 Agent 外壳可靠性](2026/10/2610.32285.md) | [2610.32285](https://arxiv.org/abs/2610.32285) |
 | 2026-10-27 | [EV](../docs/categories.md#ev) | [用真实长程轨迹校准购物 Agent 模拟器](2026/10/2610.30932.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |
 | 2026-10-26 | [EV](../docs/categories.md#ev) | [用真实 MCP 故障检验 Agent 韧性](2026/10/2610.32555.md) | [2610.32555](https://arxiv.org/abs/2610.32555) |
 | 2026-10-26 | [SY](../docs/categories.md#sy) | [可组合的 Agent 自演化实验框架](2026/10/2610.32253.md) | [2610.32253](https://arxiv.org/abs/2610.32253) |

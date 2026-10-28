@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **111**
+- Independent research notes: **113**
 - Papers covered by monthly reports: **202**
-- Daily updates: **77**
+- Daily updates: **78**
 - Monthly reports: **8**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 16, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 47, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 8, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 6, [SY](docs/categories.en.md#sy) 6, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 17, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 48, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 8, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 6, [SY](docs/categories.en.md#sy) 6, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-10-28](daily/2026-10-28.en.md)
 - [2026-10-27](daily/2026-10-27.en.md)
 - [2026-10-26](daily/2026-10-26.en.md)
 - [2026-10-25](daily/2026-10-25.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-10-21](daily/2026-10-21.en.md)
 - [2026-10-20](daily/2026-10-20.en.md)
 - [2026-10-19](daily/2026-10-19.en.md)
-- [2026-10-18](daily/2026-10-18.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-28 | [AT](docs/categories.en.md#at) | [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](papers/2026/10/2610.33568.en.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
+| 2026-10-28 | [EV](docs/categories.en.md#ev) | [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](papers/2026/10/2610.32285.en.md) | [2610.32285](https://arxiv.org/abs/2610.32285) |
 | 2026-10-27 | [EV](docs/categories.en.md#ev) | [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](papers/2026/10/2610.30932.en.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |
 | 2026-10-26 | [EV](docs/categories.en.md#ev) | [Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance](papers/2026/10/2610.32555.en.md) | [2610.32555](https://arxiv.org/abs/2610.32555) |
 | 2026-10-26 | [SY](docs/categories.en.md#sy) | [RSIHub: A Composable Framework for Agent-Evolution Methods](papers/2026/10/2610.32253.en.md) | [2610.32253](https://arxiv.org/abs/2610.32253) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-10-15 | [AT](docs/categories.en.md#at) | [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](papers/2026/10/2610.18868.en.md) | [2610.18868](https://arxiv.org/abs/2610.18868) |
 | 2026-10-15 | [AT](docs/categories.en.md#at) | [ReTerm: Recovery Training for Self-Improving Terminal Agents](papers/2026/10/2610.18484.en.md) | [2610.18484](https://arxiv.org/abs/2610.18484) |
 | 2026-10-14 | [EV](docs/categories.en.md#ev) | [SWE-Duel: Towards a Self-Scaling Arena for Coding Agents](papers/2026/10/2610.12569.en.md) | [2610.12569](https://arxiv.org/abs/2610.12569) |
-| 2026-10-13 | [LT](docs/categories.en.md#lt) | [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](papers/2026/10/2610.12984.en.md) | [2610.12984](https://arxiv.org/abs/2610.12984) |
-| 2026-10-13 | [AT](docs/categories.en.md#at) | [SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments](papers/2026/10/2610.12611.en.md) | [2610.12611](https://arxiv.org/abs/2610.12611) |
 
 ### Monthly reports
 
