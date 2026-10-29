@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **113**
+- Independent research notes: **115**
 - Papers covered by monthly reports: **202**
-- Daily updates: **78**
+- Daily updates: **79**
 - Monthly reports: **8**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 17, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 48, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 8, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 6, [SY](docs/categories.en.md#sy) 6, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 17, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 49, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 6, [SY](docs/categories.en.md#sy) 6, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-10-29](daily/2026-10-29.en.md)
 - [2026-10-28](daily/2026-10-28.en.md)
 - [2026-10-27](daily/2026-10-27.en.md)
 - [2026-10-26](daily/2026-10-26.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-10-22](daily/2026-10-22.en.md)
 - [2026-10-21](daily/2026-10-21.en.md)
 - [2026-10-20](daily/2026-10-20.en.md)
-- [2026-10-19](daily/2026-10-19.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-29 | [EV](docs/categories.en.md#ev) | [When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents](papers/2026/10/2610.36471.en.md) | [2610.36471](https://arxiv.org/abs/2610.36471) |
+| 2026-10-29 | [LT](docs/categories.en.md#lt) | [The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents](papers/2026/10/2610.36077.en.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
 | 2026-10-28 | [AT](docs/categories.en.md#at) | [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](papers/2026/10/2610.33568.en.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
 | 2026-10-28 | [EV](docs/categories.en.md#ev) | [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](papers/2026/10/2610.32285.en.md) | [2610.32285](https://arxiv.org/abs/2610.32285) |
 | 2026-10-27 | [EV](docs/categories.en.md#ev) | [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](papers/2026/10/2610.30932.en.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-10-17 | [EV](docs/categories.en.md#ev) | [FDE-Gym: The Last Mile of AI Delivery](papers/2026/10/2610.22350.en.md) | [2610.22350](https://arxiv.org/abs/2610.22350) |
 | 2026-10-17 | [CU](docs/categories.en.md#cu) | [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](papers/2026/10/2610.22200.en.md) | [2610.22200](https://arxiv.org/abs/2610.22200) |
 | 2026-10-15 | [AT](docs/categories.en.md#at) | [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](papers/2026/10/2610.18868.en.md) | [2610.18868](https://arxiv.org/abs/2610.18868) |
-| 2026-10-15 | [AT](docs/categories.en.md#at) | [ReTerm: Recovery Training for Self-Improving Terminal Agents](papers/2026/10/2610.18484.en.md) | [2610.18484](https://arxiv.org/abs/2610.18484) |
-| 2026-10-14 | [EV](docs/categories.en.md#ev) | [SWE-Duel: Towards a Self-Scaling Arena for Coding Agents](papers/2026/10/2610.12569.en.md) | [2610.12569](https://arxiv.org/abs/2610.12569) |
 
 ### Monthly reports
 

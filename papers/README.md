@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-29 | [EV](../docs/categories.md#ev) | [判断 Agent 何时需要外部介入](2026/10/2610.36471.md) | [2610.36471](https://arxiv.org/abs/2610.36471) |
+| 2026-10-29 | [LT](../docs/categories.md#lt) | [按能力组织 Harness 递归自我改进](2026/10/2610.36077.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
 | 2026-10-28 | [AT](../docs/categories.md#at) | [用可学习的交互结构训练工具 Agent](2026/10/2610.33568.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
 | 2026-10-28 | [EV](../docs/categories.md#ev) | [用执行轨迹审计 Agent 外壳可靠性](2026/10/2610.32285.md) | [2610.32285](https://arxiv.org/abs/2610.32285) |
 | 2026-10-27 | [EV](../docs/categories.md#ev) | [用真实长程轨迹校准购物 Agent 模拟器](2026/10/2610.30932.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |

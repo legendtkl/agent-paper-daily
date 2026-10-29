@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-29 | [EV](../docs/categories.en.md#ev) | [When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents](2026/10/2610.36471.en.md) | [2610.36471](https://arxiv.org/abs/2610.36471) |
+| 2026-10-29 | [LT](../docs/categories.en.md#lt) | [The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents](2026/10/2610.36077.en.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
 | 2026-10-28 | [AT](../docs/categories.en.md#at) | [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](2026/10/2610.33568.en.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
 | 2026-10-28 | [EV](../docs/categories.en.md#ev) | [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](2026/10/2610.32285.en.md) | [2610.32285](https://arxiv.org/abs/2610.32285) |
 | 2026-10-27 | [EV](../docs/categories.en.md#ev) | [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](2026/10/2610.30932.en.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |
