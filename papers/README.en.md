@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-10-30 | [SY](../docs/categories.en.md#sy) | [Context Is a Pipeline, Not a Window: Information Attrition in LLM Agent Harnesses](2026/10/2610.36114.en.md) | [2610.36114](https://arxiv.org/abs/2610.36114) |
 | 2026-10-29 | [EV](../docs/categories.en.md#ev) | [When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents](2026/10/2610.36471.en.md) | [2610.36471](https://arxiv.org/abs/2610.36471) |
 | 2026-10-29 | [LT](../docs/categories.en.md#lt) | [The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents](2026/10/2610.36077.en.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
 | 2026-10-28 | [AT](../docs/categories.en.md#at) | [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](2026/10/2610.33568.en.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |

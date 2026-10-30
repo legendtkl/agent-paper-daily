@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-30 | [SY](../docs/categories.md#sy) | [工具结果在进入上下文前如何丢失](2026/10/2610.36114.md) | [2610.36114](https://arxiv.org/abs/2610.36114) |
 | 2026-10-29 | [EV](../docs/categories.md#ev) | [判断 Agent 何时需要外部介入](2026/10/2610.36471.md) | [2610.36471](https://arxiv.org/abs/2610.36471) |
 | 2026-10-29 | [LT](../docs/categories.md#lt) | [按能力组织 Harness 递归自我改进](2026/10/2610.36077.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
 | 2026-10-28 | [AT](../docs/categories.md#at) | [用可学习的交互结构训练工具 Agent](2026/10/2610.33568.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |

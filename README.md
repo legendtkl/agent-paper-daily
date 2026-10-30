@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**115** 篇
+- 已完成独立调研：**116** 篇
 - 月报覆盖论文：**202** 篇
-- 每日记录：**79** 期
+- 每日记录：**80** 期
 - 月度归档：**8** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 17、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 49、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 6、[SY](docs/categories.md#sy) 6、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 17、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 49、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 6、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-10-30](daily/2026-10-30.md)
 - [2026-10-29](daily/2026-10-29.md)
 - [2026-10-28](daily/2026-10-28.md)
 - [2026-10-27](daily/2026-10-27.md)
@@ -41,12 +42,12 @@
 - [2026-10-23](daily/2026-10-23.md)
 - [2026-10-22](daily/2026-10-22.md)
 - [2026-10-21](daily/2026-10-21.md)
-- [2026-10-20](daily/2026-10-20.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-10-30 | [SY](docs/categories.md#sy) | [工具结果在进入上下文前如何丢失](papers/2026/10/2610.36114.md) | [2610.36114](https://arxiv.org/abs/2610.36114) |
 | 2026-10-29 | [EV](docs/categories.md#ev) | [判断 Agent 何时需要外部介入](papers/2026/10/2610.36471.md) | [2610.36471](https://arxiv.org/abs/2610.36471) |
 | 2026-10-29 | [LT](docs/categories.md#lt) | [按能力组织 Harness 递归自我改进](papers/2026/10/2610.36077.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
 | 2026-10-28 | [AT](docs/categories.md#at) | [用可学习的交互结构训练工具 Agent](papers/2026/10/2610.33568.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
@@ -66,7 +67,6 @@
 | 2026-10-18 | [EV](docs/categories.md#ev) | [把 Agent Harness 本身变成可重复评测对象](papers/2026/10/2610.20344.md) | [2610.20344](https://arxiv.org/abs/2610.20344) |
 | 2026-10-17 | [EV](docs/categories.md#ev) | [Agent 交付上线后，客户指标真的改善了吗](papers/2026/10/2610.22350.md) | [2610.22350](https://arxiv.org/abs/2610.22350) |
 | 2026-10-17 | [CU](docs/categories.md#cu) | [让 Computer-Use Agent 自己选择观察与行动方式](papers/2026/10/2610.22200.md) | [2610.22200](https://arxiv.org/abs/2610.22200) |
-| 2026-10-15 | [AT](docs/categories.md#at) | [用可验证进度奖励训练长程 Agent](papers/2026/10/2610.18868.md) | [2610.18868](https://arxiv.org/abs/2610.18868) |
 
 ### 月度归档
 
