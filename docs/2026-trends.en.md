@@ -1,8 +1,8 @@
-# 2026 AI Agent paper trends｜January–September
+# 2026 AI Agent paper trends｜January–October
 
 English | [中文](2026-trends.md)
 
-> This page extends the 165-paper January–July historical backfill with 41 daily selections from August and 37 from September. These archive policies differ and do not form a complete arXiv bibliometric study; counts and category shares must not be interpreted as field-wide popularity.
+> This page extends the 165-paper January–July historical backfill with 41 daily selections from August, 37 from September, and 43 from October. These archive policies differ and do not form a complete arXiv bibliometric study; counts and category shares must not be interpreted as field-wide popularity.
 
 ## Monthly trajectory
 
@@ -17,6 +17,7 @@ English | [中文](2026-trends.md)
 | July | 20 | Verifiable execution, native state, and real harnesses | Training, evaluation, runtimes, and real environments converged further; verifiers and environment feedback entered training and recursive improvement directly. | [2026-07](../monthly/2026-07.en.md) |
 | August | 41 | Daily curation, real harnesses, and engineering verification | The archive moved from historical backfill to a daily-selection policy centered on auditable run records, independent notes, and community evidence. | [2026-08](https://bytedance.larkoffice.com/docx/USZYd7cxWomYp2xj3fZcRaWDnQc) |
 | September | 37 | Harnesses, execution environments, evaluation infrastructure, and cost | Evaluation expanded from final answers to tool schemas, traces, environments, delivery constraints, and budgets. | [2026-09](../monthly/2026-09.en.md) |
+| October | 43 | Auditable harnesses, execution feedback, authorization, and process evaluation | Harnesses became generatable and evolvable, while evaluation separated evidence, traces, scaffolding, permission, and business outcomes. | [2026-10](../monthly/2026-10.en.md) |
 
 ## Cross-month trends
 
@@ -48,9 +49,13 @@ Computer Use, terminals, industrial repositories, scientific research, real devi
 
 The September sample shows that the same model can behave very differently under different tool schemas, context policies, harness components, requirement-recovery processes, and review constraints. APIFlow-Bench, OverclaimBench, ToolSchemaSpace, harness-component experiments, and cost interventions together require separate reporting of terminal correctness, trustworthy delivery claims, interface fairness, and resource cost. This conclusion comes from the curated daily sample and is not a field-wide estimate.
 
+### 8. October joins harness evolution, authorization boundaries, and process evidence
+
+ActiveSaddler, Doc2Harness, RSIHub, and The Trinity directly select harness-training tasks, generate scaffolding, or organize recursive improvement. ToxicBench, SpecGAP, AuthorizationBench, TraceTrial-Bench, and AgentDrift show that terminal success can coexist with false evidence, lost requirements, harness failures, unauthorized action, or boundary drift after learning. Evaluation therefore needs a joint record of the model, harness, verifier, authorization source, and learning state. This conclusion comes from 43 curated daily selections and does not estimate field-wide trend strength.
+
 ## Method and evidence changes
 
-| Research layer | Common starting point | Change observed from January to September | Open problem |
+| Research layer | Common starting point | Change observed from January to October | Open problem |
 |---|---|---|---|
 | Training | Fixed trajectories and sparse terminal rewards | Decisive-step signals, self-generated experience, executable verification, and harness-native RL | Reward bias, environment exploits, cost, and transfer |
 | Memory | External retrieval modules | Learnable writes, active forgetting, provenance, cross-Agent transfer, and native state | Compression loss, deletion proof, privacy, and common evaluation |
@@ -60,8 +65,8 @@ The September sample shows that the same model can behave very differently under
 
 ## Interpretation limits
 
-- January–July contains 165 historical backfills, while August and September use deduplicated daily selections. Neither scope estimates field-wide volume or growth.
-- January–July has no complete historical daily-selection pipeline. August and September have daily records, but curated counts still do not measure publication activity.
+- January–July contains 165 historical backfills, while August through October use deduplicated daily selections. Neither scope estimates field-wide volume or growth.
+- January–July has no complete historical daily-selection pipeline. August through October have daily records, but curated counts still do not measure publication activity.
 - Most experimental results are author-reported. The archive checks metadata, paper evidence, and some artifacts, but does not independently reproduce every headline experiment.
 - Preprints may change. Code, data, licenses, and community responses require continuing review.
 - Community activity is evidence of distribution, not a substitute for technical validity.
