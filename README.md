@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**118** 篇
+- 已完成独立调研：**119** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**82** 期
+- 每日记录：**83** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 17、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 50、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 7、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 17、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 51、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 7、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-11-02](daily/2026-11-02.md)
 - [2026-11-01](daily/2026-11-01.md)
 - [2026-10-31](daily/2026-10-31.md)
 - [2026-10-30](daily/2026-10-30.md)
@@ -41,12 +42,12 @@
 - [2026-10-26](daily/2026-10-26.md)
 - [2026-10-25](daily/2026-10-25.md)
 - [2026-10-24](daily/2026-10-24.md)
-- [2026-10-23](daily/2026-10-23.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-02 | [EV](docs/categories.md#ev) | [成功不代表每一步都能执行](papers/2026/11/2610.40444.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
 | 2026-10-31 | [EV](docs/categories.md#ev) | [研究 Agent 会不会挑实验](papers/2026/10/2610.40488.md) | [2610.40488](https://arxiv.org/abs/2610.40488) |
 | 2026-10-31 | [SS](docs/categories.md#ss) | [奖励执行会让自进化 Agent 忘记授权边界](papers/2026/10/2610.39122.md) | [2610.39122](https://arxiv.org/abs/2610.39122) |
 | 2026-10-30 | [SY](docs/categories.md#sy) | [工具结果在进入上下文前如何丢失](papers/2026/10/2610.36114.md) | [2610.36114](https://arxiv.org/abs/2610.36114) |
@@ -66,7 +67,6 @@
 | 2026-10-20 | [AT](docs/categories.md#at) | [让 Agent 同时进化 Harness 与策略](papers/2026/10/2610.22791.md) | [2610.22791](https://arxiv.org/abs/2610.22791) |
 | 2026-10-20 | [EV](docs/categories.md#ev) | [GPT-6-Astra 的具身能力上限与现实鸿沟](papers/2026/10/2610.22471.md) | [2610.22471](https://arxiv.org/abs/2610.22471) |
 | 2026-10-19 | [AT](docs/categories.md#at) | [从机制生成可审计的数据 Agent 世界](papers/2026/10/2610.21656.md) | [2610.21656](https://arxiv.org/abs/2610.21656) |
-| 2026-10-18 | [EV](docs/categories.md#ev) | [把 Agent Harness 本身变成可重复评测对象](papers/2026/10/2610.20344.md) | [2610.20344](https://arxiv.org/abs/2610.20344) |
 
 ### 月度归档
 

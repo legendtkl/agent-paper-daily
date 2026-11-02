@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-02 | [EV](../docs/categories.md#ev) | [成功不代表每一步都能执行](2026/11/2610.40444.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
 | 2026-10-31 | [EV](../docs/categories.md#ev) | [研究 Agent 会不会挑实验](2026/10/2610.40488.md) | [2610.40488](https://arxiv.org/abs/2610.40488) |
 | 2026-10-31 | [SS](../docs/categories.md#ss) | [奖励执行会让自进化 Agent 忘记授权边界](2026/10/2610.39122.md) | [2610.39122](https://arxiv.org/abs/2610.39122) |
 | 2026-10-30 | [SY](../docs/categories.md#sy) | [工具结果在进入上下文前如何丢失](2026/10/2610.36114.md) | [2610.36114](https://arxiv.org/abs/2610.36114) |

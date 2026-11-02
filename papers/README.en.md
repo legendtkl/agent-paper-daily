@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-02 | [EV](../docs/categories.en.md#ev) | [Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success](2026/11/2610.40444.en.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
 | 2026-10-31 | [EV](../docs/categories.en.md#ev) | [rTaste: Do Research Agents Have Taste? Evaluating Early Stage Research Judgment](2026/10/2610.40488.en.md) | [2610.40488](https://arxiv.org/abs/2610.40488) |
 | 2026-10-31 | [SS](../docs/categories.en.md#ss) | [Appreciation Teaches Unauthorized Execution: Self-Evolution Degrades the Robustness of Personal Agents to Indirect Prompt Injection](2026/10/2610.39122.en.md) | [2610.39122](https://arxiv.org/abs/2610.39122) |
 | 2026-10-30 | [SY](../docs/categories.en.md#sy) | [Context Is a Pipeline, Not a Window: Information Attrition in LLM Agent Harnesses](2026/10/2610.36114.en.md) | [2610.36114](https://arxiv.org/abs/2610.36114) |
