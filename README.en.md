@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **119**
+- Independent research notes: **121**
 - Papers covered by monthly reports: **245**
-- Daily updates: **83**
+- Daily updates: **84**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 17, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 51, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 7, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 17, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 53, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 7, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-11-03](daily/2026-11-03.en.md)
 - [2026-11-02](daily/2026-11-02.en.md)
 - [2026-11-01](daily/2026-11-01.en.md)
 - [2026-10-31](daily/2026-10-31.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-10-27](daily/2026-10-27.en.md)
 - [2026-10-26](daily/2026-10-26.en.md)
 - [2026-10-25](daily/2026-10-25.en.md)
-- [2026-10-24](daily/2026-10-24.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-03 | [EV](docs/categories.en.md#ev) | [When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks](papers/2026/11/2610.41857.en.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
+| 2026-11-03 | [EV](docs/categories.en.md#ev) | [ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay](papers/2026/11/2610.41025.en.md) | [2610.41025](https://arxiv.org/abs/2610.41025) |
 | 2026-11-02 | [EV](docs/categories.en.md#ev) | [Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success](papers/2026/11/2610.40444.en.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
 | 2026-10-31 | [EV](docs/categories.en.md#ev) | [rTaste: Do Research Agents Have Taste? Evaluating Early Stage Research Judgment](papers/2026/10/2610.40488.en.md) | [2610.40488](https://arxiv.org/abs/2610.40488) |
 | 2026-10-31 | [SS](docs/categories.en.md#ss) | [Appreciation Teaches Unauthorized Execution: Self-Evolution Degrades the Robustness of Personal Agents to Indirect Prompt Injection](papers/2026/10/2610.39122.en.md) | [2610.39122](https://arxiv.org/abs/2610.39122) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-10-22 | [EV](docs/categories.en.md#ev) | [Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment](papers/2026/10/2610.27548.en.md) | [2610.27548](https://arxiv.org/abs/2610.27548) |
 | 2026-10-21 | [TU](docs/categories.en.md#tu) | [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](papers/2026/10/2610.26860.en.md) | [2610.26860](https://arxiv.org/abs/2610.26860) |
 | 2026-10-20 | [AT](docs/categories.en.md#at) | [Self-Evolving Coding Agents via Harness-Policy Optimization](papers/2026/10/2610.22791.en.md) | [2610.22791](https://arxiv.org/abs/2610.22791) |
-| 2026-10-20 | [EV](docs/categories.en.md#ev) | [Has GPT-6-Astra Achieved Embodied Intelligence?](papers/2026/10/2610.22471.en.md) | [2610.22471](https://arxiv.org/abs/2610.22471) |
-| 2026-10-19 | [AT](docs/categories.en.md#at) | [Data World: Scaling Data Environments from Scratch](papers/2026/10/2610.21656.en.md) | [2610.21656](https://arxiv.org/abs/2610.21656) |
 
 ### Monthly reports
 
