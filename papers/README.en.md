@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-04 | [EV](../docs/categories.en.md#ev) | [Built on Broken Assumptions (BOBA): Why Coding Agents Cannot Be Left Alone](2026/11/2611.02207.en.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
+| 2026-11-04 | [EV](../docs/categories.en.md#ev) | [MemHarmBench: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents](2026/11/2611.01700.en.md) | [2611.01700](https://arxiv.org/abs/2611.01700) |
 | 2026-11-03 | [EV](../docs/categories.en.md#ev) | [When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks](2026/11/2610.41857.en.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
 | 2026-11-03 | [EV](../docs/categories.en.md#ev) | [ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay](2026/11/2610.41025.en.md) | [2610.41025](https://arxiv.org/abs/2610.41025) |
 | 2026-11-02 | [EV](../docs/categories.en.md#ev) | [Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success](2026/11/2610.40444.en.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |

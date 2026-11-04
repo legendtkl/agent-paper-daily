@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**121** 篇
+- 已完成独立调研：**123** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**84** 期
+- 每日记录：**85** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 17、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 53、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 7、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 17、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 55、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 7、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-11-04](daily/2026-11-04.md)
 - [2026-11-03](daily/2026-11-03.md)
 - [2026-11-02](daily/2026-11-02.md)
 - [2026-11-01](daily/2026-11-01.md)
@@ -41,12 +42,13 @@
 - [2026-10-28](daily/2026-10-28.md)
 - [2026-10-27](daily/2026-10-27.md)
 - [2026-10-26](daily/2026-10-26.md)
-- [2026-10-25](daily/2026-10-25.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-04 | [EV](docs/categories.md#ev) | [连续交给 Coding Agent，错误会成为下一步的地基](papers/2026/11/2611.02207.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
+| 2026-11-04 | [EV](docs/categories.md#ev) | [恶意指令删掉后，Agent 记忆仍可能继续执行](papers/2026/11/2611.01700.md) | [2611.01700](https://arxiv.org/abs/2611.01700) |
 | 2026-11-03 | [EV](docs/categories.md#ev) | [机器人失败，可能是模拟器把物体弹飞了](papers/2026/11/2610.41857.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
 | 2026-11-03 | [EV](docs/categories.md#ev) | [诊断 Agent 故障，要看修复后是否真的成功](papers/2026/11/2610.41025.md) | [2610.41025](https://arxiv.org/abs/2610.41025) |
 | 2026-11-02 | [EV](docs/categories.md#ev) | [成功不代表每一步都能执行](papers/2026/11/2610.40444.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
@@ -65,8 +67,6 @@
 | 2026-10-23 | [RA](docs/categories.md#ra) | [检验 Agent 能否推进真实科学模型](papers/2026/10/2610.28763.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
 | 2026-10-22 | [MV](docs/categories.md#mv) | [用通用 Coding Agent 闭合空间证据循环](papers/2026/10/2610.28354.md) | [2610.28354](https://arxiv.org/abs/2610.28354) |
 | 2026-10-22 | [EV](docs/categories.md#ev) | [评测 Agent 是否越过用户授权边界](papers/2026/10/2610.27548.md) | [2610.27548](https://arxiv.org/abs/2610.27548) |
-| 2026-10-21 | [TU](docs/categories.md#tu) | [让视觉 Agent 保留并复用多模态证据](papers/2026/10/2610.26860.md) | [2610.26860](https://arxiv.org/abs/2610.26860) |
-| 2026-10-20 | [AT](docs/categories.md#at) | [让 Agent 同时进化 Harness 与策略](papers/2026/10/2610.22791.md) | [2610.22791](https://arxiv.org/abs/2610.22791) |
 
 ### 月度归档
 

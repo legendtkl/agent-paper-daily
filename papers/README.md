@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-04 | [EV](../docs/categories.md#ev) | [连续交给 Coding Agent，错误会成为下一步的地基](2026/11/2611.02207.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
+| 2026-11-04 | [EV](../docs/categories.md#ev) | [恶意指令删掉后，Agent 记忆仍可能继续执行](2026/11/2611.01700.md) | [2611.01700](https://arxiv.org/abs/2611.01700) |
 | 2026-11-03 | [EV](../docs/categories.md#ev) | [机器人失败，可能是模拟器把物体弹飞了](2026/11/2610.41857.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
 | 2026-11-03 | [EV](../docs/categories.md#ev) | [诊断 Agent 故障，要看修复后是否真的成功](2026/11/2610.41025.md) | [2610.41025](https://arxiv.org/abs/2610.41025) |
 | 2026-11-02 | [EV](../docs/categories.md#ev) | [成功不代表每一步都能执行](2026/11/2610.40444.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
