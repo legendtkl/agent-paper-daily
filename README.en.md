@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **123**
+- Independent research notes: **125**
 - Papers covered by monthly reports: **245**
-- Daily updates: **85**
+- Daily updates: **86**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 17, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 55, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 7, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 18, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 56, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 7, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-11-05](daily/2026-11-05.en.md)
 - [2026-11-04](daily/2026-11-04.en.md)
 - [2026-11-03](daily/2026-11-03.en.md)
 - [2026-11-02](daily/2026-11-02.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-10-29](daily/2026-10-29.en.md)
 - [2026-10-28](daily/2026-10-28.en.md)
 - [2026-10-27](daily/2026-10-27.en.md)
-- [2026-10-26](daily/2026-10-26.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-05 | [AT](docs/categories.en.md#at) | [ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](papers/2026/11/2611.05036.en.md) | [2611.05036](https://arxiv.org/abs/2611.05036) |
+| 2026-11-05 | [EV](docs/categories.en.md#ev) | [Silent Instrument Errors Reorder Agent Leaderboards](papers/2026/11/2611.04399.en.md) | [2611.04399](https://arxiv.org/abs/2611.04399) |
 | 2026-11-04 | [EV](docs/categories.en.md#ev) | [Built on Broken Assumptions (BOBA): Why Coding Agents Cannot Be Left Alone](papers/2026/11/2611.02207.en.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
 | 2026-11-04 | [EV](docs/categories.en.md#ev) | [MemHarmBench: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents](papers/2026/11/2611.01700.en.md) | [2611.01700](https://arxiv.org/abs/2611.01700) |
 | 2026-11-03 | [EV](docs/categories.en.md#ev) | [When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks](papers/2026/11/2610.41857.en.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-10-25 | [SY](docs/categories.en.md#sy) | [Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training](papers/2026/10/2610.30792.en.md) | [2610.30792](https://arxiv.org/abs/2610.30792) |
 | 2026-10-24 | [EV](docs/categories.en.md#ev) | [Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports](papers/2026/10/2610.31158.en.md) | [2610.31158](https://arxiv.org/abs/2610.31158) |
 | 2026-10-23 | [RA](docs/categories.en.md#ra) | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](papers/2026/10/2610.28763.en.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
-| 2026-10-22 | [MV](docs/categories.en.md#mv) | [S-Agent 2.0: Spatial Reasoning with a General Coding Agent](papers/2026/10/2610.28354.en.md) | [2610.28354](https://arxiv.org/abs/2610.28354) |
-| 2026-10-22 | [EV](docs/categories.en.md#ev) | [Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment](papers/2026/10/2610.27548.en.md) | [2610.27548](https://arxiv.org/abs/2610.27548) |
 
 ### Monthly reports
 

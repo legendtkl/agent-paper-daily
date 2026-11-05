@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-05 | [AT](../docs/categories.md#at) | [先从真实工具关系出发，再合成长程 Agent 环境](2026/11/2611.05036.md) | [2611.05036](https://arxiv.org/abs/2611.05036) |
+| 2026-11-05 | [EV](../docs/categories.md#ev) | [排行榜没报错，测量仪器却悄悄改了名次](2026/11/2611.04399.md) | [2611.04399](https://arxiv.org/abs/2611.04399) |
 | 2026-11-04 | [EV](../docs/categories.md#ev) | [连续交给 Coding Agent，错误会成为下一步的地基](2026/11/2611.02207.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
 | 2026-11-04 | [EV](../docs/categories.md#ev) | [恶意指令删掉后，Agent 记忆仍可能继续执行](2026/11/2611.01700.md) | [2611.01700](https://arxiv.org/abs/2611.01700) |
 | 2026-11-03 | [EV](../docs/categories.md#ev) | [机器人失败，可能是模拟器把物体弹飞了](2026/11/2610.41857.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
