@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**125** 篇
+- 已完成独立调研：**127** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**86** 期
+- 每日记录：**87** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 18、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 56、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 7、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 18、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 57、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 8、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-11-06](daily/2026-11-06.md)
 - [2026-11-05](daily/2026-11-05.md)
 - [2026-11-04](daily/2026-11-04.md)
 - [2026-11-03](daily/2026-11-03.md)
@@ -41,12 +42,13 @@
 - [2026-10-30](daily/2026-10-30.md)
 - [2026-10-29](daily/2026-10-29.md)
 - [2026-10-28](daily/2026-10-28.md)
-- [2026-10-27](daily/2026-10-27.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-06 | [SS](docs/categories.md#ss) | [Agent 自写交接摘要，会把猜测变成权限](papers/2026/11/2611.06545.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
+| 2026-11-06 | [EV](docs/categories.md#ev) | [换一套 Harness，同一个模型会换合规排名](papers/2026/11/2611.06116.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
 | 2026-11-05 | [AT](docs/categories.md#at) | [先从真实工具关系出发，再合成长程 Agent 环境](papers/2026/11/2611.05036.md) | [2611.05036](https://arxiv.org/abs/2611.05036) |
 | 2026-11-05 | [EV](docs/categories.md#ev) | [排行榜没报错，测量仪器却悄悄改了名次](papers/2026/11/2611.04399.md) | [2611.04399](https://arxiv.org/abs/2611.04399) |
 | 2026-11-04 | [EV](docs/categories.md#ev) | [连续交给 Coding Agent，错误会成为下一步的地基](papers/2026/11/2611.02207.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
@@ -65,8 +67,6 @@
 | 2026-10-26 | [EV](docs/categories.md#ev) | [用真实 MCP 故障检验 Agent 韧性](papers/2026/10/2610.32555.md) | [2610.32555](https://arxiv.org/abs/2610.32555) |
 | 2026-10-26 | [SY](docs/categories.md#sy) | [可组合的 Agent 自演化实验框架](papers/2026/10/2610.32253.md) | [2610.32253](https://arxiv.org/abs/2610.32253) |
 | 2026-10-25 | [SY](docs/categories.md#sy) | [从真实轨迹重建可验证 App 世界](papers/2026/10/2610.30792.md) | [2610.30792](https://arxiv.org/abs/2610.30792) |
-| 2026-10-24 | [EV](docs/categories.md#ev) | [评测视频中心深度研究报告](papers/2026/10/2610.31158.md) | [2610.31158](https://arxiv.org/abs/2610.31158) |
-| 2026-10-23 | [RA](docs/categories.md#ra) | [检验 Agent 能否推进真实科学模型](papers/2026/10/2610.28763.md) | [2610.28763](https://arxiv.org/abs/2610.28763) |
 
 ### 月度归档
 

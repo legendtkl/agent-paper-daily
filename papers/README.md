@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-06 | [SS](../docs/categories.md#ss) | [Agent 自写交接摘要，会把猜测变成权限](2026/11/2611.06545.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
+| 2026-11-06 | [EV](../docs/categories.md#ev) | [换一套 Harness，同一个模型会换合规排名](2026/11/2611.06116.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
 | 2026-11-05 | [AT](../docs/categories.md#at) | [先从真实工具关系出发，再合成长程 Agent 环境](2026/11/2611.05036.md) | [2611.05036](https://arxiv.org/abs/2611.05036) |
 | 2026-11-05 | [EV](../docs/categories.md#ev) | [排行榜没报错，测量仪器却悄悄改了名次](2026/11/2611.04399.md) | [2611.04399](https://arxiv.org/abs/2611.04399) |
 | 2026-11-04 | [EV](../docs/categories.md#ev) | [连续交给 Coding Agent，错误会成为下一步的地基](2026/11/2611.02207.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |

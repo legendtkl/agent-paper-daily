@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-06 | [SS](../docs/categories.en.md#ss) | [When Do Summaries Become Instructions? Unsupported Policy in LLM Agents' Self-Written Handoff Summaries](2026/11/2611.06545.en.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
+| 2026-11-06 | [EV](../docs/categories.en.md#ev) | [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM's Compliance with Banking Conduct Rules, Unevenly Across Models](2026/11/2611.06116.en.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
 | 2026-11-05 | [AT](../docs/categories.en.md#at) | [ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](2026/11/2611.05036.en.md) | [2611.05036](https://arxiv.org/abs/2611.05036) |
 | 2026-11-05 | [EV](../docs/categories.en.md#ev) | [Silent Instrument Errors Reorder Agent Leaderboards](2026/11/2611.04399.en.md) | [2611.04399](https://arxiv.org/abs/2611.04399) |
 | 2026-11-04 | [EV](../docs/categories.en.md#ev) | [Built on Broken Assumptions (BOBA): Why Coding Agents Cannot Be Left Alone](2026/11/2611.02207.en.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
