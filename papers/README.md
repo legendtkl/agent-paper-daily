@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-07 | [SS](../docs/categories.md#ss) | [把工具返回分型，先挡住注入目标再让模型判断](2026/11/2611.07222.md) | [2611.07222](https://arxiv.org/abs/2611.07222) |
 | 2026-11-06 | [SS](../docs/categories.md#ss) | [Agent 自写交接摘要，会把猜测变成权限](2026/11/2611.06545.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
 | 2026-11-06 | [EV](../docs/categories.md#ev) | [换一套 Harness，同一个模型会换合规排名](2026/11/2611.06116.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
 | 2026-11-05 | [AT](../docs/categories.md#at) | [先从真实工具关系出发，再合成长程 Agent 环境](2026/11/2611.05036.md) | [2611.05036](https://arxiv.org/abs/2611.05036) |
