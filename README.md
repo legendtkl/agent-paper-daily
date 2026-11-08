@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**128** 篇
+- 已完成独立调研：**130** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**88** 期
+- 每日记录：**89** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 18、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 57、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 9、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 18、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 59、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 9、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-11-08](daily/2026-11-08.md)
 - [2026-11-07](daily/2026-11-07.md)
 - [2026-11-06](daily/2026-11-06.md)
 - [2026-11-05](daily/2026-11-05.md)
@@ -41,12 +42,13 @@
 - [2026-11-01](daily/2026-11-01.md)
 - [2026-10-31](daily/2026-10-31.md)
 - [2026-10-30](daily/2026-10-30.md)
-- [2026-10-29](daily/2026-10-29.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-08 | [EV](docs/categories.md#ev) | [提示注入不改任务，也能篡改结果](papers/2026/11/2611.07640.md) | [2611.07640](https://arxiv.org/abs/2611.07640) |
+| 2026-11-08 | [EV](docs/categories.md#ev) | [Coding Agent 连续维护自己的代码能走多远](papers/2026/11/2611.07166.md) | [2611.07166](https://arxiv.org/abs/2611.07166) |
 | 2026-11-07 | [SS](docs/categories.md#ss) | [把工具返回分型，先挡住注入目标再让模型判断](papers/2026/11/2611.07222.md) | [2611.07222](https://arxiv.org/abs/2611.07222) |
 | 2026-11-06 | [SS](docs/categories.md#ss) | [Agent 自写交接摘要，会把猜测变成权限](papers/2026/11/2611.06545.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
 | 2026-11-06 | [EV](docs/categories.md#ev) | [换一套 Harness，同一个模型会换合规排名](papers/2026/11/2611.06116.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
@@ -65,8 +67,6 @@
 | 2026-10-28 | [AT](docs/categories.md#at) | [用可学习的交互结构训练工具 Agent](papers/2026/10/2610.33568.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
 | 2026-10-28 | [EV](docs/categories.md#ev) | [用执行轨迹审计 Agent 外壳可靠性](papers/2026/10/2610.32285.md) | [2610.32285](https://arxiv.org/abs/2610.32285) |
 | 2026-10-27 | [EV](docs/categories.md#ev) | [用真实长程轨迹校准购物 Agent 模拟器](papers/2026/10/2610.30932.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |
-| 2026-10-26 | [EV](docs/categories.md#ev) | [用真实 MCP 故障检验 Agent 韧性](papers/2026/10/2610.32555.md) | [2610.32555](https://arxiv.org/abs/2610.32555) |
-| 2026-10-26 | [SY](docs/categories.md#sy) | [可组合的 Agent 自演化实验框架](papers/2026/10/2610.32253.md) | [2610.32253](https://arxiv.org/abs/2610.32253) |
 
 ### 月度归档
 

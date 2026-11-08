@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-08 | [EV](../docs/categories.en.md#ev) | [Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks](2026/11/2611.07640.en.md) | [2611.07640](https://arxiv.org/abs/2611.07640) |
+| 2026-11-08 | [EV](../docs/categories.en.md#ev) | [Multi-step SWE: Can Coding Agents Keep Building on Their Own Code Over Long Horizons?](2026/11/2611.07166.en.md) | [2611.07166](https://arxiv.org/abs/2611.07166) |
 | 2026-11-07 | [SS](../docs/categories.en.md#ss) | [SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection](2026/11/2611.07222.en.md) | [2611.07222](https://arxiv.org/abs/2611.07222) |
 | 2026-11-06 | [SS](../docs/categories.en.md#ss) | [When Do Summaries Become Instructions? Unsupported Policy in LLM Agents' Self-Written Handoff Summaries](2026/11/2611.06545.en.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
 | 2026-11-06 | [EV](../docs/categories.en.md#ev) | [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM's Compliance with Banking Conduct Rules, Unevenly Across Models](2026/11/2611.06116.en.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
