@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-09 | [EV](../docs/categories.md#ev) | [删掉推理不等于省下同样多的钱](2026/11/2611.07238.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
 | 2026-11-08 | [EV](../docs/categories.md#ev) | [提示注入不改任务，也能篡改结果](2026/11/2611.07640.md) | [2611.07640](https://arxiv.org/abs/2611.07640) |
 | 2026-11-08 | [EV](../docs/categories.md#ev) | [Coding Agent 连续维护自己的代码能走多远](2026/11/2611.07166.md) | [2611.07166](https://arxiv.org/abs/2611.07166) |
 | 2026-11-07 | [SS](../docs/categories.md#ss) | [把工具返回分型，先挡住注入目标再让模型判断](2026/11/2611.07222.md) | [2611.07222](https://arxiv.org/abs/2611.07222) |

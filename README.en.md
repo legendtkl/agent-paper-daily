@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **130**
+- Independent research notes: **131**
 - Papers covered by monthly reports: **245**
-- Daily updates: **89**
+- Daily updates: **90**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 18, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 59, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 9, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 18, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 60, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 9, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-11-09](daily/2026-11-09.en.md)
 - [2026-11-08](daily/2026-11-08.en.md)
 - [2026-11-07](daily/2026-11-07.en.md)
 - [2026-11-06](daily/2026-11-06.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-11-02](daily/2026-11-02.en.md)
 - [2026-11-01](daily/2026-11-01.en.md)
 - [2026-10-31](daily/2026-10-31.en.md)
-- [2026-10-30](daily/2026-10-30.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-09 | [EV](docs/categories.en.md#ev) | [How Do AI Agents Waste Your Money?](papers/2026/11/2611.07238.en.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
 | 2026-11-08 | [EV](docs/categories.en.md#ev) | [Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks](papers/2026/11/2611.07640.en.md) | [2611.07640](https://arxiv.org/abs/2611.07640) |
 | 2026-11-08 | [EV](docs/categories.en.md#ev) | [Multi-step SWE: Can Coding Agents Keep Building on Their Own Code Over Long Horizons?](papers/2026/11/2611.07166.en.md) | [2611.07166](https://arxiv.org/abs/2611.07166) |
 | 2026-11-07 | [SS](docs/categories.en.md#ss) | [SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection](papers/2026/11/2611.07222.en.md) | [2611.07222](https://arxiv.org/abs/2611.07222) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-10-29 | [LT](docs/categories.en.md#lt) | [The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents](papers/2026/10/2610.36077.en.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
 | 2026-10-28 | [AT](docs/categories.en.md#at) | [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](papers/2026/10/2610.33568.en.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
 | 2026-10-28 | [EV](docs/categories.en.md#ev) | [Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution](papers/2026/10/2610.32285.en.md) | [2610.32285](https://arxiv.org/abs/2610.32285) |
-| 2026-10-27 | [EV](docs/categories.en.md#ev) | [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](papers/2026/10/2610.30932.en.md) | [2610.30932](https://arxiv.org/abs/2610.30932) |
 
 ### Monthly reports
 
