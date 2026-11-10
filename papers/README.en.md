@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-10 | [EV](../docs/categories.en.md#ev) | [Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents](2026/11/2611.08946.en.md) | [2611.08946](https://arxiv.org/abs/2611.08946) |
 | 2026-11-09 | [EV](../docs/categories.en.md#ev) | [How Do AI Agents Waste Your Money?](2026/11/2611.07238.en.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
 | 2026-11-08 | [EV](../docs/categories.en.md#ev) | [Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks](2026/11/2611.07640.en.md) | [2611.07640](https://arxiv.org/abs/2611.07640) |
 | 2026-11-08 | [EV](../docs/categories.en.md#ev) | [Multi-step SWE: Can Coding Agents Keep Building on Their Own Code Over Long Horizons?](2026/11/2611.07166.en.md) | [2611.07166](https://arxiv.org/abs/2611.07166) |
