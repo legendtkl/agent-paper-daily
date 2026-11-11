@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**132** 篇
+- 已完成独立调研：**133** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**91** 期
+- 每日记录：**92** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 18、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 61、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 9、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 18、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 62、[KM](docs/categories.md#km) 4、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 9、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-11-11](daily/2026-11-11.md)
 - [2026-11-10](daily/2026-11-10.md)
 - [2026-11-09](daily/2026-11-09.md)
 - [2026-11-08](daily/2026-11-08.md)
@@ -41,12 +42,12 @@
 - [2026-11-04](daily/2026-11-04.md)
 - [2026-11-03](daily/2026-11-03.md)
 - [2026-11-02](daily/2026-11-02.md)
-- [2026-11-01](daily/2026-11-01.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-11 | [EV](docs/categories.md#ev) | [工作流编排是一种独立能力](papers/2026/11/2611.12856.md) | [2611.12856](https://arxiv.org/abs/2611.12856) |
 | 2026-11-10 | [EV](docs/categories.md#ev) | [自我改进要同时改答案和工作流](papers/2026/11/2611.08946.md) | [2611.08946](https://arxiv.org/abs/2611.08946) |
 | 2026-11-09 | [EV](docs/categories.md#ev) | [删掉推理不等于省下同样多的钱](papers/2026/11/2611.07238.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
 | 2026-11-08 | [EV](docs/categories.md#ev) | [提示注入不改任务，也能篡改结果](papers/2026/11/2611.07640.md) | [2611.07640](https://arxiv.org/abs/2611.07640) |
@@ -66,7 +67,6 @@
 | 2026-10-30 | [SY](docs/categories.md#sy) | [工具结果在进入上下文前如何丢失](papers/2026/10/2610.36114.md) | [2610.36114](https://arxiv.org/abs/2610.36114) |
 | 2026-10-29 | [EV](docs/categories.md#ev) | [判断 Agent 何时需要外部介入](papers/2026/10/2610.36471.md) | [2610.36471](https://arxiv.org/abs/2610.36471) |
 | 2026-10-29 | [LT](docs/categories.md#lt) | [按能力组织 Harness 递归自我改进](papers/2026/10/2610.36077.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
-| 2026-10-28 | [AT](docs/categories.md#at) | [用可学习的交互结构训练工具 Agent](papers/2026/10/2610.33568.md) | [2610.33568](https://arxiv.org/abs/2610.33568) |
 
 ### 月度归档
 
