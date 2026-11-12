@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **133**
+- Independent research notes: **134**
 - Papers covered by monthly reports: **245**
-- Daily updates: **92**
+- Daily updates: **93**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 18, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 62, [KM](docs/categories.en.md#km) 4, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 9, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 18, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 62, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 9, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-11-12](daily/2026-11-12.en.md)
 - [2026-11-11](daily/2026-11-11.en.md)
 - [2026-11-10](daily/2026-11-10.en.md)
 - [2026-11-09](daily/2026-11-09.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-11-05](daily/2026-11-05.en.md)
 - [2026-11-04](daily/2026-11-04.en.md)
 - [2026-11-03](daily/2026-11-03.en.md)
-- [2026-11-02](daily/2026-11-02.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-12 | [KM](docs/categories.en.md#km) | [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](papers/2026/11/2611.14320.en.md) | [2611.14320](https://arxiv.org/abs/2611.14320) |
 | 2026-11-11 | [EV](docs/categories.en.md#ev) | [WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems](papers/2026/11/2611.12856.en.md) | [2611.12856](https://arxiv.org/abs/2611.12856) |
 | 2026-11-10 | [EV](docs/categories.en.md#ev) | [Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents](papers/2026/11/2611.08946.en.md) | [2611.08946](https://arxiv.org/abs/2611.08946) |
 | 2026-11-09 | [EV](docs/categories.en.md#ev) | [How Do AI Agents Waste Your Money?](papers/2026/11/2611.07238.en.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-10-31 | [SS](docs/categories.en.md#ss) | [Appreciation Teaches Unauthorized Execution: Self-Evolution Degrades the Robustness of Personal Agents to Indirect Prompt Injection](papers/2026/10/2610.39122.en.md) | [2610.39122](https://arxiv.org/abs/2610.39122) |
 | 2026-10-30 | [SY](docs/categories.en.md#sy) | [Context Is a Pipeline, Not a Window: Information Attrition in LLM Agent Harnesses](papers/2026/10/2610.36114.en.md) | [2610.36114](https://arxiv.org/abs/2610.36114) |
 | 2026-10-29 | [EV](docs/categories.en.md#ev) | [When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents](papers/2026/10/2610.36471.en.md) | [2610.36471](https://arxiv.org/abs/2610.36471) |
-| 2026-10-29 | [LT](docs/categories.en.md#lt) | [The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents](papers/2026/10/2610.36077.en.md) | [2610.36077](https://arxiv.org/abs/2610.36077) |
 
 ### Monthly reports
 

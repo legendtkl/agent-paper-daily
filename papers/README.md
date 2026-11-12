@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-12 | [KM](../docs/categories.md#km) | [让 Agent 记忆保留证据回路](2026/11/2611.14320.md) | [2611.14320](https://arxiv.org/abs/2611.14320) |
 | 2026-11-11 | [EV](../docs/categories.md#ev) | [工作流编排是一种独立能力](2026/11/2611.12856.md) | [2611.12856](https://arxiv.org/abs/2611.12856) |
 | 2026-11-10 | [EV](../docs/categories.md#ev) | [自我改进要同时改答案和工作流](2026/11/2611.08946.md) | [2611.08946](https://arxiv.org/abs/2611.08946) |
 | 2026-11-09 | [EV](../docs/categories.md#ev) | [删掉推理不等于省下同样多的钱](2026/11/2611.07238.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
