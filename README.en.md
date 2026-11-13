@@ -26,12 +26,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 <!-- BEGIN AUTO:OVERVIEW -->
 - Independent research notes: **134**
 - Papers covered by monthly reports: **245**
-- Daily updates: **93**
+- Daily updates: **94**
 - Monthly reports: **9**
 - Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 18, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 62, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 9, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-11-13](daily/2026-11-13.en.md)
 - [2026-11-12](daily/2026-11-12.en.md)
 - [2026-11-11](daily/2026-11-11.en.md)
 - [2026-11-10](daily/2026-11-10.en.md)
@@ -41,7 +42,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-11-06](daily/2026-11-06.en.md)
 - [2026-11-05](daily/2026-11-05.en.md)
 - [2026-11-04](daily/2026-11-04.en.md)
-- [2026-11-03](daily/2026-11-03.en.md)
 
 ### Recent paper research
 
