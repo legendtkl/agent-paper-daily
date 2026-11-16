@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-14 | [AT](../docs/categories.md#at) | [决策模型如何充当 Actor、Judge 与 Teacher](2026/11/2611.17167.md) | [2611.17167](https://arxiv.org/abs/2611.17167) |
+| 2026-11-14 | [EV](../docs/categories.md#ev) | [Agent 评测器为何互相矛盾](2026/11/2611.14581.md) | [2611.14581](https://arxiv.org/abs/2611.14581) |
 | 2026-11-12 | [KM](../docs/categories.md#km) | [让 Agent 记忆保留证据回路](2026/11/2611.14320.md) | [2611.14320](https://arxiv.org/abs/2611.14320) |
 | 2026-11-11 | [EV](../docs/categories.md#ev) | [工作流编排是一种独立能力](2026/11/2611.12856.md) | [2611.12856](https://arxiv.org/abs/2611.12856) |
 | 2026-11-10 | [EV](../docs/categories.md#ev) | [自我改进要同时改答案和工作流](2026/11/2611.08946.md) | [2611.08946](https://arxiv.org/abs/2611.08946) |
