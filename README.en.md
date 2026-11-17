@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **136**
+- Independent research notes: **138**
 - Papers covered by monthly reports: **245**
-- Daily updates: **96**
+- Daily updates: **97**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 63, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 9, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 64, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 10, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
 
 ### Recent daily updates
 
+- [2026-11-17](daily/2026-11-17.en.md)
 - [2026-11-16](daily/2026-11-16.en.md)
 - [2026-11-14](daily/2026-11-14.en.md)
 - [2026-11-13](daily/2026-11-13.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-11-09](daily/2026-11-09.en.md)
 - [2026-11-08](daily/2026-11-08.en.md)
 - [2026-11-07](daily/2026-11-07.en.md)
-- [2026-11-06](daily/2026-11-06.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-17 | [EV](docs/categories.en.md#ev) | [WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents](papers/2026/11/2611.17955.en.md) | [2611.17955](https://arxiv.org/abs/2611.17955) |
+| 2026-11-17 | [SS](docs/categories.en.md#ss) | [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](papers/2026/11/2611.17460.en.md) | [2611.17460](https://arxiv.org/abs/2611.17460) |
 | 2026-11-14 | [AT](docs/categories.en.md#at) | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](papers/2026/11/2611.17167.en.md) | [2611.17167](https://arxiv.org/abs/2611.17167) |
 | 2026-11-14 | [EV](docs/categories.en.md#ev) | [When Evaluators of AI Agents Disagree: An Empirical Study of Native Scoring, LLM Judges, and Commit-Boundary Checks on tau2-bench](papers/2026/11/2611.14581.en.md) | [2611.14581](https://arxiv.org/abs/2611.14581) |
 | 2026-11-12 | [KM](docs/categories.en.md#km) | [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](papers/2026/11/2611.14320.en.md) | [2611.14320](https://arxiv.org/abs/2611.14320) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-11-03 | [EV](docs/categories.en.md#ev) | [When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks](papers/2026/11/2610.41857.en.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
 | 2026-11-03 | [EV](docs/categories.en.md#ev) | [ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay](papers/2026/11/2610.41025.en.md) | [2610.41025](https://arxiv.org/abs/2610.41025) |
 | 2026-11-02 | [EV](docs/categories.en.md#ev) | [Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success](papers/2026/11/2610.40444.en.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
-| 2026-10-31 | [EV](docs/categories.en.md#ev) | [rTaste: Do Research Agents Have Taste? Evaluating Early Stage Research Judgment](papers/2026/10/2610.40488.en.md) | [2610.40488](https://arxiv.org/abs/2610.40488) |
-| 2026-10-31 | [SS](docs/categories.en.md#ss) | [Appreciation Teaches Unauthorized Execution: Self-Evolution Degrades the Robustness of Personal Agents to Indirect Prompt Injection](papers/2026/10/2610.39122.en.md) | [2610.39122](https://arxiv.org/abs/2610.39122) |
 
 ### Monthly reports
 

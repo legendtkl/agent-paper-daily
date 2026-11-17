@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-17 | [EV](../docs/categories.en.md#ev) | [WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents](2026/11/2611.17955.en.md) | [2611.17955](https://arxiv.org/abs/2611.17955) |
+| 2026-11-17 | [SS](../docs/categories.en.md#ss) | [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](2026/11/2611.17460.en.md) | [2611.17460](https://arxiv.org/abs/2611.17460) |
 | 2026-11-14 | [AT](../docs/categories.en.md#at) | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](2026/11/2611.17167.en.md) | [2611.17167](https://arxiv.org/abs/2611.17167) |
 | 2026-11-14 | [EV](../docs/categories.en.md#ev) | [When Evaluators of AI Agents Disagree: An Empirical Study of Native Scoring, LLM Judges, and Commit-Boundary Checks on tau2-bench](2026/11/2611.14581.en.md) | [2611.14581](https://arxiv.org/abs/2611.14581) |
 | 2026-11-12 | [KM](../docs/categories.en.md#km) | [Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](2026/11/2611.14320.en.md) | [2611.14320](https://arxiv.org/abs/2611.14320) |

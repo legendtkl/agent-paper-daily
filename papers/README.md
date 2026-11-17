@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-17 | [EV](../docs/categories.md#ev) | [WebArena-Pro：可复现的多模态 Web Agent 基准](2026/11/2611.17955.md) | [2611.17955](https://arxiv.org/abs/2611.17955) |
+| 2026-11-17 | [SS](../docs/categories.md#ss) | [持续执行为何让 Agent 越过规则](2026/11/2611.17460.md) | [2611.17460](https://arxiv.org/abs/2611.17460) |
 | 2026-11-14 | [AT](../docs/categories.md#at) | [决策模型如何充当 Actor、Judge 与 Teacher](2026/11/2611.17167.md) | [2611.17167](https://arxiv.org/abs/2611.17167) |
 | 2026-11-14 | [EV](../docs/categories.md#ev) | [Agent 评测器为何互相矛盾](2026/11/2611.14581.md) | [2611.14581](https://arxiv.org/abs/2611.14581) |
 | 2026-11-12 | [KM](../docs/categories.md#km) | [让 Agent 记忆保留证据回路](2026/11/2611.14320.md) | [2611.14320](https://arxiv.org/abs/2611.14320) |

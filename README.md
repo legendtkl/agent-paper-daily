@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**136** 篇
+- 已完成独立调研：**138** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**96** 期
+- 每日记录：**97** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 19、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 63、[KM](docs/categories.md#km) 5、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 9、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 19、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 64、[KM](docs/categories.md#km) 5、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 10、[SY](docs/categories.md#sy) 7、[TU](docs/categories.md#tu) 1
 
 ### 最近每日更新
 
+- [2026-11-17](daily/2026-11-17.md)
 - [2026-11-16](daily/2026-11-16.md)
 - [2026-11-14](daily/2026-11-14.md)
 - [2026-11-13](daily/2026-11-13.md)
@@ -41,12 +42,13 @@
 - [2026-11-09](daily/2026-11-09.md)
 - [2026-11-08](daily/2026-11-08.md)
 - [2026-11-07](daily/2026-11-07.md)
-- [2026-11-06](daily/2026-11-06.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-17 | [EV](docs/categories.md#ev) | [WebArena-Pro：可复现的多模态 Web Agent 基准](papers/2026/11/2611.17955.md) | [2611.17955](https://arxiv.org/abs/2611.17955) |
+| 2026-11-17 | [SS](docs/categories.md#ss) | [持续执行为何让 Agent 越过规则](papers/2026/11/2611.17460.md) | [2611.17460](https://arxiv.org/abs/2611.17460) |
 | 2026-11-14 | [AT](docs/categories.md#at) | [决策模型如何充当 Actor、Judge 与 Teacher](papers/2026/11/2611.17167.md) | [2611.17167](https://arxiv.org/abs/2611.17167) |
 | 2026-11-14 | [EV](docs/categories.md#ev) | [Agent 评测器为何互相矛盾](papers/2026/11/2611.14581.md) | [2611.14581](https://arxiv.org/abs/2611.14581) |
 | 2026-11-12 | [KM](docs/categories.md#km) | [让 Agent 记忆保留证据回路](papers/2026/11/2611.14320.md) | [2611.14320](https://arxiv.org/abs/2611.14320) |
@@ -65,8 +67,6 @@
 | 2026-11-03 | [EV](docs/categories.md#ev) | [机器人失败，可能是模拟器把物体弹飞了](papers/2026/11/2610.41857.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
 | 2026-11-03 | [EV](docs/categories.md#ev) | [诊断 Agent 故障，要看修复后是否真的成功](papers/2026/11/2610.41025.md) | [2610.41025](https://arxiv.org/abs/2610.41025) |
 | 2026-11-02 | [EV](docs/categories.md#ev) | [成功不代表每一步都能执行](papers/2026/11/2610.40444.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
-| 2026-10-31 | [EV](docs/categories.md#ev) | [研究 Agent 会不会挑实验](papers/2026/10/2610.40488.md) | [2610.40488](https://arxiv.org/abs/2610.40488) |
-| 2026-10-31 | [SS](docs/categories.md#ss) | [奖励执行会让自进化 Agent 忘记授权边界](papers/2026/10/2610.39122.md) | [2610.39122](https://arxiv.org/abs/2610.39122) |
 
 ### 月度归档
 
