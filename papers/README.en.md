@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-18 | [EV](../docs/categories.en.md#ev) | [HEAMS: Holistic Evaluation of Agent Memory Systems](2026/11/2611.20144.en.md) | [2611.20144](https://arxiv.org/abs/2611.20144) |
+| 2026-11-18 | [TU](../docs/categories.en.md#tu) | [Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?](2026/11/2611.19123.en.md) | [2611.19123](https://arxiv.org/abs/2611.19123) |
 | 2026-11-17 | [EV](../docs/categories.en.md#ev) | [WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents](2026/11/2611.17955.en.md) | [2611.17955](https://arxiv.org/abs/2611.17955) |
 | 2026-11-17 | [SS](../docs/categories.en.md#ss) | [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](2026/11/2611.17460.en.md) | [2611.17460](https://arxiv.org/abs/2611.17460) |
 | 2026-11-14 | [AT](../docs/categories.en.md#at) | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](2026/11/2611.17167.en.md) | [2611.17167](https://arxiv.org/abs/2611.17167) |

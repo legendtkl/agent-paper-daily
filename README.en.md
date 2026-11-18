@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **138**
+- Independent research notes: **140**
 - Papers covered by monthly reports: **245**
-- Daily updates: **97**
+- Daily updates: **98**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 64, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 10, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 1
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 65, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 10, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 2
 
 ### Recent daily updates
 
+- [2026-11-18](daily/2026-11-18.en.md)
 - [2026-11-17](daily/2026-11-17.en.md)
 - [2026-11-16](daily/2026-11-16.en.md)
 - [2026-11-14](daily/2026-11-14.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-11-10](daily/2026-11-10.en.md)
 - [2026-11-09](daily/2026-11-09.en.md)
 - [2026-11-08](daily/2026-11-08.en.md)
-- [2026-11-07](daily/2026-11-07.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-18 | [EV](docs/categories.en.md#ev) | [HEAMS: Holistic Evaluation of Agent Memory Systems](papers/2026/11/2611.20144.en.md) | [2611.20144](https://arxiv.org/abs/2611.20144) |
+| 2026-11-18 | [TU](docs/categories.en.md#tu) | [Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?](papers/2026/11/2611.19123.en.md) | [2611.19123](https://arxiv.org/abs/2611.19123) |
 | 2026-11-17 | [EV](docs/categories.en.md#ev) | [WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents](papers/2026/11/2611.17955.en.md) | [2611.17955](https://arxiv.org/abs/2611.17955) |
 | 2026-11-17 | [SS](docs/categories.en.md#ss) | [Unfinished-Bench: Measuring Rule Violations by Persistent Agents in Realistic Work Environments](papers/2026/11/2611.17460.en.md) | [2611.17460](https://arxiv.org/abs/2611.17460) |
 | 2026-11-14 | [AT](docs/categories.en.md#at) | [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](papers/2026/11/2611.17167.en.md) | [2611.17167](https://arxiv.org/abs/2611.17167) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-11-04 | [EV](docs/categories.en.md#ev) | [Built on Broken Assumptions (BOBA): Why Coding Agents Cannot Be Left Alone](papers/2026/11/2611.02207.en.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
 | 2026-11-04 | [EV](docs/categories.en.md#ev) | [MemHarmBench: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents](papers/2026/11/2611.01700.en.md) | [2611.01700](https://arxiv.org/abs/2611.01700) |
 | 2026-11-03 | [EV](docs/categories.en.md#ev) | [When the Simulator Fails, Not the Policy: Auditing Contact Artifacts in Simulated Robot Benchmarks](papers/2026/11/2610.41857.en.md) | [2610.41857](https://arxiv.org/abs/2610.41857) |
-| 2026-11-03 | [EV](docs/categories.en.md#ev) | [ReplayRCA: Measuring Post-hoc Diagnosis and Live Oversight of Agent Failures by Counterfactual Replay](papers/2026/11/2610.41025.en.md) | [2610.41025](https://arxiv.org/abs/2610.41025) |
-| 2026-11-02 | [EV](docs/categories.en.md#ev) | [Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success](papers/2026/11/2610.40444.en.md) | [2610.40444](https://arxiv.org/abs/2610.40444) |
 
 ### Monthly reports
 

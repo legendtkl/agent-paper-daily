@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-18 | [EV](../docs/categories.md#ev) | [Agent 记忆不只要答对，还要可控](2026/11/2611.20144.md) | [2611.20144](https://arxiv.org/abs/2611.20144) |
+| 2026-11-18 | [TU](../docs/categories.md#tu) | [MCP 工具调用：Code Mode 比路由更关键](2026/11/2611.19123.md) | [2611.19123](https://arxiv.org/abs/2611.19123) |
 | 2026-11-17 | [EV](../docs/categories.md#ev) | [WebArena-Pro：可复现的多模态 Web Agent 基准](2026/11/2611.17955.md) | [2611.17955](https://arxiv.org/abs/2611.17955) |
 | 2026-11-17 | [SS](../docs/categories.md#ss) | [持续执行为何让 Agent 越过规则](2026/11/2611.17460.md) | [2611.17460](https://arxiv.org/abs/2611.17460) |
 | 2026-11-14 | [AT](../docs/categories.md#at) | [决策模型如何充当 Actor、Judge 与 Teacher](2026/11/2611.17167.md) | [2611.17167](https://arxiv.org/abs/2611.17167) |
