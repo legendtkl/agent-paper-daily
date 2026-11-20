@@ -7,6 +7,8 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-20 | [SY](../docs/categories.en.md#sy) | [Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow](2026/11/2611.23751.en.md) | [2611.23751](https://arxiv.org/abs/2611.23751) |
+| 2026-11-20 | [SS](../docs/categories.en.md#ss) | [Truthgate: Checking Coding Agents Against a Record They Cannot Edit - Cheating, Deterrence and Disclosure on Impossible Tasks](2026/11/2611.23335.en.md) | [2611.23335](https://arxiv.org/abs/2611.23335) |
 | 2026-11-19 | [SS](../docs/categories.en.md#ss) | [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](2026/11/2611.22971.en.md) | [2611.22971](https://arxiv.org/abs/2611.22971) |
 | 2026-11-18 | [EV](../docs/categories.en.md#ev) | [HEAMS: Holistic Evaluation of Agent Memory Systems](2026/11/2611.20144.en.md) | [2611.20144](https://arxiv.org/abs/2611.20144) |
 | 2026-11-18 | [TU](../docs/categories.en.md#tu) | [Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?](2026/11/2611.19123.en.md) | [2611.19123](https://arxiv.org/abs/2611.19123) |

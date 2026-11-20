@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **141**
+- Independent research notes: **143**
 - Papers covered by monthly reports: **245**
-- Daily updates: **99**
+- Daily updates: **100**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 65, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 11, [SY](docs/categories.en.md#sy) 7, [TU](docs/categories.en.md#tu) 2
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 65, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 12, [SY](docs/categories.en.md#sy) 8, [TU](docs/categories.en.md#tu) 2
 
 ### Recent daily updates
 
+- [2026-11-20](daily/2026-11-20.en.md)
 - [2026-11-19](daily/2026-11-19.en.md)
 - [2026-11-18](daily/2026-11-18.en.md)
 - [2026-11-17](daily/2026-11-17.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-11-12](daily/2026-11-12.en.md)
 - [2026-11-11](daily/2026-11-11.en.md)
 - [2026-11-10](daily/2026-11-10.en.md)
-- [2026-11-09](daily/2026-11-09.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-20 | [SY](docs/categories.en.md#sy) | [Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow](papers/2026/11/2611.23751.en.md) | [2611.23751](https://arxiv.org/abs/2611.23751) |
+| 2026-11-20 | [SS](docs/categories.en.md#ss) | [Truthgate: Checking Coding Agents Against a Record They Cannot Edit - Cheating, Deterrence and Disclosure on Impossible Tasks](papers/2026/11/2611.23335.en.md) | [2611.23335](https://arxiv.org/abs/2611.23335) |
 | 2026-11-19 | [SS](docs/categories.en.md#ss) | [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](papers/2026/11/2611.22971.en.md) | [2611.22971](https://arxiv.org/abs/2611.22971) |
 | 2026-11-18 | [EV](docs/categories.en.md#ev) | [HEAMS: Holistic Evaluation of Agent Memory Systems](papers/2026/11/2611.20144.en.md) | [2611.20144](https://arxiv.org/abs/2611.20144) |
 | 2026-11-18 | [TU](docs/categories.en.md#tu) | [Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?](papers/2026/11/2611.19123.en.md) | [2611.19123](https://arxiv.org/abs/2611.19123) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-11-06 | [EV](docs/categories.en.md#ev) | [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM's Compliance with Banking Conduct Rules, Unevenly Across Models](papers/2026/11/2611.06116.en.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
 | 2026-11-05 | [AT](docs/categories.en.md#at) | [ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents](papers/2026/11/2611.05036.en.md) | [2611.05036](https://arxiv.org/abs/2611.05036) |
 | 2026-11-05 | [EV](docs/categories.en.md#ev) | [Silent Instrument Errors Reorder Agent Leaderboards](papers/2026/11/2611.04399.en.md) | [2611.04399](https://arxiv.org/abs/2611.04399) |
-| 2026-11-04 | [EV](docs/categories.en.md#ev) | [Built on Broken Assumptions (BOBA): Why Coding Agents Cannot Be Left Alone](papers/2026/11/2611.02207.en.md) | [2611.02207](https://arxiv.org/abs/2611.02207) |
-| 2026-11-04 | [EV](docs/categories.en.md#ev) | [MemHarmBench: Evaluating Cross-Session Prompt Injection in Memory-Persistent AI Agents](papers/2026/11/2611.01700.en.md) | [2611.01700](https://arxiv.org/abs/2611.01700) |
 
 ### Monthly reports
 

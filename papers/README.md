@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-20 | [SY](../docs/categories.md#sy) | [从 Skill 中抽取决策点，让一个 System-1 服务不同 Agent 工作流](2026/11/2611.23751.md) | [2611.23751](https://arxiv.org/abs/2611.23751) |
+| 2026-11-20 | [SS](../docs/categories.md#ss) | [不要让 Coding Agent 自己掌握完工证据](2026/11/2611.23335.md) | [2611.23335](https://arxiv.org/abs/2611.23335) |
 | 2026-11-19 | [SS](../docs/categories.md#ss) | [跨屏信息都无害，Agent 仍会组合出危险行动](2026/11/2611.22971.md) | [2611.22971](https://arxiv.org/abs/2611.22971) |
 | 2026-11-18 | [EV](../docs/categories.md#ev) | [Agent 记忆不只要答对，还要可控](2026/11/2611.20144.md) | [2611.20144](https://arxiv.org/abs/2611.20144) |
 | 2026-11-18 | [TU](../docs/categories.md#tu) | [MCP 工具调用：Code Mode 比路由更关键](2026/11/2611.19123.md) | [2611.19123](https://arxiv.org/abs/2611.19123) |
