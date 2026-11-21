@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**143** 篇
+- 已完成独立调研：**145** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**100** 期
+- 每日记录：**101** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 19、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 65、[KM](docs/categories.md#km) 5、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 12、[SY](docs/categories.md#sy) 8、[TU](docs/categories.md#tu) 2
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 19、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 67、[KM](docs/categories.md#km) 5、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 12、[SY](docs/categories.md#sy) 8、[TU](docs/categories.md#tu) 2
 
 ### 最近每日更新
 
+- [2026-11-21](daily/2026-11-21.md)
 - [2026-11-20](daily/2026-11-20.md)
 - [2026-11-19](daily/2026-11-19.md)
 - [2026-11-18](daily/2026-11-18.md)
@@ -41,12 +42,13 @@
 - [2026-11-13](daily/2026-11-13.md)
 - [2026-11-12](daily/2026-11-12.md)
 - [2026-11-11](daily/2026-11-11.md)
-- [2026-11-10](daily/2026-11-10.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-21 | [EV](docs/categories.md#ev) | [让 Agent 自己设计实验，而不只执行工作流](papers/2026/11/2611.26248.md) | [2611.26248](https://arxiv.org/abs/2611.26248) |
+| 2026-11-21 | [EV](docs/categories.md#ev) | [Agent 能否从零构建并改进 RAG 系统](papers/2026/11/2611.25582.md) | [2611.25582](https://arxiv.org/abs/2611.25582) |
 | 2026-11-20 | [SY](docs/categories.md#sy) | [从 Skill 中抽取决策点，让一个 System-1 服务不同 Agent 工作流](papers/2026/11/2611.23751.md) | [2611.23751](https://arxiv.org/abs/2611.23751) |
 | 2026-11-20 | [SS](docs/categories.md#ss) | [不要让 Coding Agent 自己掌握完工证据](papers/2026/11/2611.23335.md) | [2611.23335](https://arxiv.org/abs/2611.23335) |
 | 2026-11-19 | [SS](docs/categories.md#ss) | [跨屏信息都无害，Agent 仍会组合出危险行动](papers/2026/11/2611.22971.md) | [2611.22971](https://arxiv.org/abs/2611.22971) |
@@ -65,8 +67,6 @@
 | 2026-11-07 | [SS](docs/categories.md#ss) | [把工具返回分型，先挡住注入目标再让模型判断](papers/2026/11/2611.07222.md) | [2611.07222](https://arxiv.org/abs/2611.07222) |
 | 2026-11-06 | [SS](docs/categories.md#ss) | [Agent 自写交接摘要，会把猜测变成权限](papers/2026/11/2611.06545.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
 | 2026-11-06 | [EV](docs/categories.md#ev) | [换一套 Harness，同一个模型会换合规排名](papers/2026/11/2611.06116.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
-| 2026-11-05 | [AT](docs/categories.md#at) | [先从真实工具关系出发，再合成长程 Agent 环境](papers/2026/11/2611.05036.md) | [2611.05036](https://arxiv.org/abs/2611.05036) |
-| 2026-11-05 | [EV](docs/categories.md#ev) | [排行榜没报错，测量仪器却悄悄改了名次](papers/2026/11/2611.04399.md) | [2611.04399](https://arxiv.org/abs/2611.04399) |
 
 ### 月度归档
 

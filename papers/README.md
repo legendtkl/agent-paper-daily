@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-21 | [EV](../docs/categories.md#ev) | [让 Agent 自己设计实验，而不只执行工作流](2026/11/2611.26248.md) | [2611.26248](https://arxiv.org/abs/2611.26248) |
+| 2026-11-21 | [EV](../docs/categories.md#ev) | [Agent 能否从零构建并改进 RAG 系统](2026/11/2611.25582.md) | [2611.25582](https://arxiv.org/abs/2611.25582) |
 | 2026-11-20 | [SY](../docs/categories.md#sy) | [从 Skill 中抽取决策点，让一个 System-1 服务不同 Agent 工作流](2026/11/2611.23751.md) | [2611.23751](https://arxiv.org/abs/2611.23751) |
 | 2026-11-20 | [SS](../docs/categories.md#ss) | [不要让 Coding Agent 自己掌握完工证据](2026/11/2611.23335.md) | [2611.23335](https://arxiv.org/abs/2611.23335) |
 | 2026-11-19 | [SS](../docs/categories.md#ss) | [跨屏信息都无害，Agent 仍会组合出危险行动](2026/11/2611.22971.md) | [2611.22971](https://arxiv.org/abs/2611.22971) |
