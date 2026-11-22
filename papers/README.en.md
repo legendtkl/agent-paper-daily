@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-22 | [KM](../docs/categories.en.md#km) | [Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents](2026/11/2611.25123.en.md) | [2611.25123](https://arxiv.org/abs/2611.25123) |
 | 2026-11-21 | [EV](../docs/categories.en.md#ev) | [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](2026/11/2611.26248.en.md) | [2611.26248](https://arxiv.org/abs/2611.26248) |
 | 2026-11-21 | [EV](../docs/categories.en.md#ev) | [AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development](2026/11/2611.25582.en.md) | [2611.25582](https://arxiv.org/abs/2611.25582) |
 | 2026-11-20 | [SY](../docs/categories.en.md#sy) | [Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow](2026/11/2611.23751.en.md) | [2611.23751](https://arxiv.org/abs/2611.23751) |

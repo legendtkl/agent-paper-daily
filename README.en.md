@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **145**
+- Independent research notes: **146**
 - Papers covered by monthly reports: **245**
-- Daily updates: **101**
+- Daily updates: **102**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 67, [KM](docs/categories.en.md#km) 5, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 12, [SY](docs/categories.en.md#sy) 8, [TU](docs/categories.en.md#tu) 2
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 67, [KM](docs/categories.en.md#km) 6, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 12, [SY](docs/categories.en.md#sy) 8, [TU](docs/categories.en.md#tu) 2
 
 ### Recent daily updates
 
+- [2026-11-22](daily/2026-11-22.en.md)
 - [2026-11-21](daily/2026-11-21.en.md)
 - [2026-11-20](daily/2026-11-20.en.md)
 - [2026-11-19](daily/2026-11-19.en.md)
@@ -41,12 +42,12 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-11-14](daily/2026-11-14.en.md)
 - [2026-11-13](daily/2026-11-13.en.md)
 - [2026-11-12](daily/2026-11-12.en.md)
-- [2026-11-11](daily/2026-11-11.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-22 | [KM](docs/categories.en.md#km) | [Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents](papers/2026/11/2611.25123.en.md) | [2611.25123](https://arxiv.org/abs/2611.25123) |
 | 2026-11-21 | [EV](docs/categories.en.md#ev) | [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](papers/2026/11/2611.26248.en.md) | [2611.26248](https://arxiv.org/abs/2611.26248) |
 | 2026-11-21 | [EV](docs/categories.en.md#ev) | [AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development](papers/2026/11/2611.25582.en.md) | [2611.25582](https://arxiv.org/abs/2611.25582) |
 | 2026-11-20 | [SY](docs/categories.en.md#sy) | [Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow](papers/2026/11/2611.23751.en.md) | [2611.23751](https://arxiv.org/abs/2611.23751) |
@@ -66,7 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-11-08 | [EV](docs/categories.en.md#ev) | [Multi-step SWE: Can Coding Agents Keep Building on Their Own Code Over Long Horizons?](papers/2026/11/2611.07166.en.md) | [2611.07166](https://arxiv.org/abs/2611.07166) |
 | 2026-11-07 | [SS](docs/categories.en.md#ss) | [SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection](papers/2026/11/2611.07222.en.md) | [2611.07222](https://arxiv.org/abs/2611.07222) |
 | 2026-11-06 | [SS](docs/categories.en.md#ss) | [When Do Summaries Become Instructions? Unsupported Policy in LLM Agents' Self-Written Handoff Summaries](papers/2026/11/2611.06545.en.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
-| 2026-11-06 | [EV](docs/categories.en.md#ev) | [The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM's Compliance with Banking Conduct Rules, Unevenly Across Models](papers/2026/11/2611.06116.en.md) | [2611.06116](https://arxiv.org/abs/2611.06116) |
 
 ### Monthly reports
 

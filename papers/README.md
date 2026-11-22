@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-22 | [KM](../docs/categories.md#km) | [保留完整历史，再按需找回细节](2026/11/2611.25123.md) | [2611.25123](https://arxiv.org/abs/2611.25123) |
 | 2026-11-21 | [EV](../docs/categories.md#ev) | [让 Agent 自己设计实验，而不只执行工作流](2026/11/2611.26248.md) | [2611.26248](https://arxiv.org/abs/2611.26248) |
 | 2026-11-21 | [EV](../docs/categories.md#ev) | [Agent 能否从零构建并改进 RAG 系统](2026/11/2611.25582.md) | [2611.25582](https://arxiv.org/abs/2611.25582) |
 | 2026-11-20 | [SY](../docs/categories.md#sy) | [从 Skill 中抽取决策点，让一个 System-1 服务不同 Agent 工作流](2026/11/2611.23751.md) | [2611.23751](https://arxiv.org/abs/2611.23751) |
