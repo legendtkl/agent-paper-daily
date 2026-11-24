@@ -26,12 +26,13 @@
 <!-- BEGIN AUTO:OVERVIEW -->
 - 已完成独立调研：**146** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**103** 期
+- 每日记录：**104** 期
 - 月度归档：**9** 期
 - 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 19、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 67、[KM](docs/categories.md#km) 6、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 12、[SY](docs/categories.md#sy) 8、[TU](docs/categories.md#tu) 2
 
 ### 最近每日更新
 
+- [2026-11-24](daily/2026-11-24.md)
 - [2026-11-23](daily/2026-11-23.md)
 - [2026-11-22](daily/2026-11-22.md)
 - [2026-11-21](daily/2026-11-21.md)
@@ -41,7 +42,6 @@
 - [2026-11-17](daily/2026-11-17.md)
 - [2026-11-16](daily/2026-11-16.md)
 - [2026-11-14](daily/2026-11-14.md)
-- [2026-11-13](daily/2026-11-13.md)
 
 ### 最近收录论文
 
