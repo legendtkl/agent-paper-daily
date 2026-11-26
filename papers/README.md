@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-26 | [EV](../docs/categories.md#ev) | [纠错不等于完成恢复](2026/11/2611.31586.md) | [2611.31586](https://arxiv.org/abs/2611.31586) |
+| 2026-11-26 | [AT](../docs/categories.md#at) | [让压缩后的 Agent 保持原有行为](2026/11/2611.31258.md) | [2611.31258](https://arxiv.org/abs/2611.31258) |
 | 2026-11-22 | [KM](../docs/categories.md#km) | [保留完整历史，再按需找回细节](2026/11/2611.25123.md) | [2611.25123](https://arxiv.org/abs/2611.25123) |
 | 2026-11-21 | [EV](../docs/categories.md#ev) | [让 Agent 自己设计实验，而不只执行工作流](2026/11/2611.26248.md) | [2611.26248](https://arxiv.org/abs/2611.26248) |
 | 2026-11-21 | [EV](../docs/categories.md#ev) | [Agent 能否从零构建并改进 RAG 系统](2026/11/2611.25582.md) | [2611.25582](https://arxiv.org/abs/2611.25582) |

@@ -24,14 +24,15 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 ## Overview
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- Independent research notes: **146**
+- Independent research notes: **148**
 - Papers covered by monthly reports: **245**
-- Daily updates: **105**
+- Daily updates: **106**
 - Monthly reports: **9**
-- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 19, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 67, [KM](docs/categories.en.md#km) 6, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 12, [SY](docs/categories.en.md#sy) 8, [TU](docs/categories.en.md#tu) 2
+- Primary-category distribution: [AF](docs/categories.en.md#af) 3, [AT](docs/categories.en.md#at) 20, [CU](docs/categories.en.md#cu) 3, [EA](docs/categories.en.md#ea) 2, [EV](docs/categories.en.md#ev) 68, [KM](docs/categories.en.md#km) 6, [LT](docs/categories.en.md#lt) 9, [MA](docs/categories.en.md#ma) 3, [MV](docs/categories.en.md#mv) 1, [RA](docs/categories.en.md#ra) 4, [RP](docs/categories.en.md#rp) 2, [SE](docs/categories.en.md#se) 5, [SS](docs/categories.en.md#ss) 12, [SY](docs/categories.en.md#sy) 8, [TU](docs/categories.en.md#tu) 2
 
 ### Recent daily updates
 
+- [2026-11-26](daily/2026-11-26.en.md)
 - [2026-11-25](daily/2026-11-25.en.md)
 - [2026-11-24](daily/2026-11-24.en.md)
 - [2026-11-23](daily/2026-11-23.en.md)
@@ -41,12 +42,13 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 - [2026-11-19](daily/2026-11-19.en.md)
 - [2026-11-18](daily/2026-11-18.en.md)
 - [2026-11-17](daily/2026-11-17.en.md)
-- [2026-11-16](daily/2026-11-16.en.md)
 
 ### Recent paper research
 
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-26 | [EV](docs/categories.en.md#ev) | [SecondChance: Benchmarking Reliable Error Recovery in AI Agents](papers/2026/11/2611.31586.en.md) | [2611.31586](https://arxiv.org/abs/2611.31586) |
+| 2026-11-26 | [AT](docs/categories.en.md#at) | [RECAP: Training Long-horizon LLM Agents with Context Compaction](papers/2026/11/2611.31258.en.md) | [2611.31258](https://arxiv.org/abs/2611.31258) |
 | 2026-11-22 | [KM](docs/categories.en.md#km) | [Forget Freely, Grep Later: Lossless, Index-Free Memory for Long-Horizon LLM Agents](papers/2026/11/2611.25123.en.md) | [2611.25123](https://arxiv.org/abs/2611.25123) |
 | 2026-11-21 | [EV](docs/categories.en.md#ev) | [TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs](papers/2026/11/2611.26248.en.md) | [2611.26248](https://arxiv.org/abs/2611.26248) |
 | 2026-11-21 | [EV](docs/categories.en.md#ev) | [AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development](papers/2026/11/2611.25582.en.md) | [2611.25582](https://arxiv.org/abs/2611.25582) |
@@ -65,8 +67,6 @@ A curated stream of AI Agent papers with independent research notes. Content is 
 | 2026-11-09 | [EV](docs/categories.en.md#ev) | [How Do AI Agents Waste Your Money?](papers/2026/11/2611.07238.en.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
 | 2026-11-08 | [EV](docs/categories.en.md#ev) | [Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks](papers/2026/11/2611.07640.en.md) | [2611.07640](https://arxiv.org/abs/2611.07640) |
 | 2026-11-08 | [EV](docs/categories.en.md#ev) | [Multi-step SWE: Can Coding Agents Keep Building on Their Own Code Over Long Horizons?](papers/2026/11/2611.07166.en.md) | [2611.07166](https://arxiv.org/abs/2611.07166) |
-| 2026-11-07 | [SS](docs/categories.en.md#ss) | [SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection](papers/2026/11/2611.07222.en.md) | [2611.07222](https://arxiv.org/abs/2611.07222) |
-| 2026-11-06 | [SS](docs/categories.en.md#ss) | [When Do Summaries Become Instructions? Unsupported Policy in LLM Agents' Self-Written Handoff Summaries](papers/2026/11/2611.06545.en.md) | [2611.06545](https://arxiv.org/abs/2611.06545) |
 
 ### Monthly reports
 
