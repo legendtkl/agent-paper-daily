@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**148** 篇
+- 已完成独立调研：**150** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**106** 期
+- 每日记录：**107** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 20、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 68、[KM](docs/categories.md#km) 6、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 12、[SY](docs/categories.md#sy) 8、[TU](docs/categories.md#tu) 2
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 20、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 70、[KM](docs/categories.md#km) 6、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 12、[SY](docs/categories.md#sy) 8、[TU](docs/categories.md#tu) 2
 
 ### 最近每日更新
 
+- [2026-11-27](daily/2026-11-27.md)
 - [2026-11-26](daily/2026-11-26.md)
 - [2026-11-25](daily/2026-11-25.md)
 - [2026-11-24](daily/2026-11-24.md)
@@ -41,12 +42,13 @@
 - [2026-11-20](daily/2026-11-20.md)
 - [2026-11-19](daily/2026-11-19.md)
 - [2026-11-18](daily/2026-11-18.md)
-- [2026-11-17](daily/2026-11-17.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-27 | [EV](docs/categories.md#ev) | [长期任务流如何检验 Agent 自我演化](papers/2026/11/2611.34400.md) | [2611.34400](https://arxiv.org/abs/2611.34400) |
+| 2026-11-27 | [EV](docs/categories.md#ev) | [技能增益可能测到了什么](papers/2026/11/2611.33943.md) | [2611.33943](https://arxiv.org/abs/2611.33943) |
 | 2026-11-26 | [EV](docs/categories.md#ev) | [纠错不等于完成恢复](papers/2026/11/2611.31586.md) | [2611.31586](https://arxiv.org/abs/2611.31586) |
 | 2026-11-26 | [AT](docs/categories.md#at) | [让压缩后的 Agent 保持原有行为](papers/2026/11/2611.31258.md) | [2611.31258](https://arxiv.org/abs/2611.31258) |
 | 2026-11-22 | [KM](docs/categories.md#km) | [保留完整历史，再按需找回细节](papers/2026/11/2611.25123.md) | [2611.25123](https://arxiv.org/abs/2611.25123) |
@@ -65,8 +67,6 @@
 | 2026-11-11 | [EV](docs/categories.md#ev) | [工作流编排是一种独立能力](papers/2026/11/2611.12856.md) | [2611.12856](https://arxiv.org/abs/2611.12856) |
 | 2026-11-10 | [EV](docs/categories.md#ev) | [自我改进要同时改答案和工作流](papers/2026/11/2611.08946.md) | [2611.08946](https://arxiv.org/abs/2611.08946) |
 | 2026-11-09 | [EV](docs/categories.md#ev) | [删掉推理不等于省下同样多的钱](papers/2026/11/2611.07238.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
-| 2026-11-08 | [EV](docs/categories.md#ev) | [提示注入不改任务，也能篡改结果](papers/2026/11/2611.07640.md) | [2611.07640](https://arxiv.org/abs/2611.07640) |
-| 2026-11-08 | [EV](docs/categories.md#ev) | [Coding Agent 连续维护自己的代码能走多远](papers/2026/11/2611.07166.md) | [2611.07166](https://arxiv.org/abs/2611.07166) |
 
 ### 月度归档
 

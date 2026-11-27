@@ -7,6 +7,8 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-27 | [EV](../docs/categories.md#ev) | [长期任务流如何检验 Agent 自我演化](2026/11/2611.34400.md) | [2611.34400](https://arxiv.org/abs/2611.34400) |
+| 2026-11-27 | [EV](../docs/categories.md#ev) | [技能增益可能测到了什么](2026/11/2611.33943.md) | [2611.33943](https://arxiv.org/abs/2611.33943) |
 | 2026-11-26 | [EV](../docs/categories.md#ev) | [纠错不等于完成恢复](2026/11/2611.31586.md) | [2611.31586](https://arxiv.org/abs/2611.31586) |
 | 2026-11-26 | [AT](../docs/categories.md#at) | [让压缩后的 Agent 保持原有行为](2026/11/2611.31258.md) | [2611.31258](https://arxiv.org/abs/2611.31258) |
 | 2026-11-22 | [KM](../docs/categories.md#km) | [保留完整历史，再按需找回细节](2026/11/2611.25123.md) | [2611.25123](https://arxiv.org/abs/2611.25123) |
