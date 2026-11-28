@@ -24,14 +24,15 @@
 ## 概览
 
 <!-- BEGIN AUTO:OVERVIEW -->
-- 已完成独立调研：**150** 篇
+- 已完成独立调研：**151** 篇
 - 月报覆盖论文：**245** 篇
-- 每日记录：**107** 期
+- 每日记录：**108** 期
 - 月度归档：**9** 期
-- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 20、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 70、[KM](docs/categories.md#km) 6、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 12、[SY](docs/categories.md#sy) 8、[TU](docs/categories.md#tu) 2
+- 主分类分布：[AF](docs/categories.md#af) 3、[AT](docs/categories.md#at) 20、[CU](docs/categories.md#cu) 3、[EA](docs/categories.md#ea) 2、[EV](docs/categories.md#ev) 71、[KM](docs/categories.md#km) 6、[LT](docs/categories.md#lt) 9、[MA](docs/categories.md#ma) 3、[MV](docs/categories.md#mv) 1、[RA](docs/categories.md#ra) 4、[RP](docs/categories.md#rp) 2、[SE](docs/categories.md#se) 5、[SS](docs/categories.md#ss) 12、[SY](docs/categories.md#sy) 8、[TU](docs/categories.md#tu) 2
 
 ### 最近每日更新
 
+- [2026-11-28](daily/2026-11-28.md)
 - [2026-11-27](daily/2026-11-27.md)
 - [2026-11-26](daily/2026-11-26.md)
 - [2026-11-25](daily/2026-11-25.md)
@@ -41,12 +42,12 @@
 - [2026-11-21](daily/2026-11-21.md)
 - [2026-11-20](daily/2026-11-20.md)
 - [2026-11-19](daily/2026-11-19.md)
-- [2026-11-18](daily/2026-11-18.md)
 
 ### 最近收录论文
 
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-28 | [EV](docs/categories.md#ev) | [科研 Agent 是否真的超过专家方案](papers/2026/11/2611.34646.md) | [2611.34646](https://arxiv.org/abs/2611.34646) |
 | 2026-11-27 | [EV](docs/categories.md#ev) | [长期任务流如何检验 Agent 自我演化](papers/2026/11/2611.34400.md) | [2611.34400](https://arxiv.org/abs/2611.34400) |
 | 2026-11-27 | [EV](docs/categories.md#ev) | [技能增益可能测到了什么](papers/2026/11/2611.33943.md) | [2611.33943](https://arxiv.org/abs/2611.33943) |
 | 2026-11-26 | [EV](docs/categories.md#ev) | [纠错不等于完成恢复](papers/2026/11/2611.31586.md) | [2611.31586](https://arxiv.org/abs/2611.31586) |
@@ -66,7 +67,6 @@
 | 2026-11-12 | [KM](docs/categories.md#km) | [让 Agent 记忆保留证据回路](papers/2026/11/2611.14320.md) | [2611.14320](https://arxiv.org/abs/2611.14320) |
 | 2026-11-11 | [EV](docs/categories.md#ev) | [工作流编排是一种独立能力](papers/2026/11/2611.12856.md) | [2611.12856](https://arxiv.org/abs/2611.12856) |
 | 2026-11-10 | [EV](docs/categories.md#ev) | [自我改进要同时改答案和工作流](papers/2026/11/2611.08946.md) | [2611.08946](https://arxiv.org/abs/2611.08946) |
-| 2026-11-09 | [EV](docs/categories.md#ev) | [删掉推理不等于省下同样多的钱](papers/2026/11/2611.07238.md) | [2611.07238](https://arxiv.org/abs/2611.07238) |
 
 ### 月度归档
 

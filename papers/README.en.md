@@ -7,6 +7,7 @@ Each page separates the research question, method, experimental evidence, limita
 <!-- BEGIN AUTO:PAPERS -->
 | Date | Primary | Paper | arXiv |
 |---|---|---|---|
+| 2026-11-28 | [EV](../docs/categories.en.md#ev) | [REE: A Scientific Research Entrance Exam for AI Agents](2026/11/2611.34646.en.md) | [2611.34646](https://arxiv.org/abs/2611.34646) |
 | 2026-11-27 | [EV](../docs/categories.en.md#ev) | [EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams](2026/11/2611.34400.en.md) | [2611.34400](https://arxiv.org/abs/2611.34400) |
 | 2026-11-27 | [EV](../docs/categories.en.md#ev) | [What Does Skill Lift Actually Measure? A Source-Code-Level Audit and Noise-Aware Reanalysis of SkillsBench](2026/11/2611.33943.en.md) | [2611.33943](https://arxiv.org/abs/2611.33943) |
 | 2026-11-26 | [EV](../docs/categories.en.md#ev) | [SecondChance: Benchmarking Reliable Error Recovery in AI Agents](2026/11/2611.31586.en.md) | [2611.31586](https://arxiv.org/abs/2611.31586) |

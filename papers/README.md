@@ -7,6 +7,7 @@
 <!-- BEGIN AUTO:PAPERS -->
 | 日期 | 主分类 | 论文 | arXiv |
 |---|---|---|---|
+| 2026-11-28 | [EV](../docs/categories.md#ev) | [科研 Agent 是否真的超过专家方案](2026/11/2611.34646.md) | [2611.34646](https://arxiv.org/abs/2611.34646) |
 | 2026-11-27 | [EV](../docs/categories.md#ev) | [长期任务流如何检验 Agent 自我演化](2026/11/2611.34400.md) | [2611.34400](https://arxiv.org/abs/2611.34400) |
 | 2026-11-27 | [EV](../docs/categories.md#ev) | [技能增益可能测到了什么](2026/11/2611.33943.md) | [2611.33943](https://arxiv.org/abs/2611.33943) |
 | 2026-11-26 | [EV](../docs/categories.md#ev) | [纠错不等于完成恢复](2026/11/2611.31586.md) | [2611.31586](https://arxiv.org/abs/2611.31586) |
